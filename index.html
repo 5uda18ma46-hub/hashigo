@@ -291,7 +291,9 @@ function deals(){
       by === 'name'  ? a.name.localeCompare(b.name, 'ja') :
                        a.store_label.localeCompare(b.store_label, 'ja') || a.price - b.price);
 
-    $('#cnt').textContent = `${rows.length}件 / 全${DATA.deals.length}件`;
+    const gone = DATA.expired_hidden || 0;
+    $('#cnt').textContent = `${rows.length}件 / 全${DATA.deals.length}件`
+      + (gone ? `（掲載終了の${gone}件は除いています）` : '');
     $('#list').innerHTML = rows.map(d => `
       <div class="card deal">
         <div class="top">
