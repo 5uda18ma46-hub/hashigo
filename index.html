@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow,noarchive,nosnippet">
+<meta name="theme-color" content="#1b7f4b">
+<title>Hashigo</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='26' font-size='26'>🪜</text></svg>">
+<style>
+:root{
+  --bg:#f6f6f4; --card:#fff; --ink:#1a1a18; --sub:#6b6b66; --line:#e3e3de;
+  --accent:#1b7f4b; --accent-soft:#e8f4ed; --warn:#b45309; --warn-soft:#fdf3e3;
+  --flat:#8a8a84; --shadow:0 1px 2px rgba(0,0,0,.05),0 4px 12px rgba(0,0,0,.04);
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --bg:#131315; --card:#1c1c1f; --ink:#ececea; --sub:#9a9a95; --line:#2e2e33;
+    --accent:#4ec988; --accent-soft:#17301f; --warn:#e0a458; --warn-soft:#2e2318;
+    --flat:#7a7a75; --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 12px rgba(0,0,0,.25);
+  }
+}
+*{box-sizing:border-box}
+body{
+  margin:0;background:var(--bg);color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP",sans-serif;
+  font-size:15px;line-height:1.6;-webkit-text-size-adjust:100%;
+}
+header{
+  position:sticky;top:0;z-index:10;background:var(--bg);
+  padding:calc(env(safe-area-inset-top) + 12px) 16px 0;border-bottom:1px solid var(--line);
+}
+.brand{display:flex;align-items:baseline;gap:10px;margin-bottom:10px}
+.brand h1{font-size:19px;margin:0;letter-spacing:.02em}
+.brand .stamp{font-size:11.5px;color:var(--sub)}
+nav{display:flex;gap:4px}
+nav button{
+  flex:1;padding:9px 4px;border:0;background:none;color:var(--sub);
+  font:inherit;font-size:13.5px;font-weight:600;cursor:pointer;
+  border-bottom:2.5px solid transparent;
+}
+nav button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+main{padding:16px 16px calc(env(safe-area-inset-bottom) + 48px);max-width:760px;margin:0 auto}
+section[hidden]{display:none}
+
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow)}
+
+/* --- ホーム --- */
+.verdict{padding:16px;margin-bottom:12px}
+.verdict.go{border-left:4px solid var(--accent)}
+.verdict.stay{opacity:.72}
+.verdict h2{margin:0;font-size:16px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.verdict .amount{color:var(--accent);font-size:22px;font-weight:700;font-variant-numeric:tabular-nums}
+.verdict .lede{margin:4px 0 0;font-size:13px;color:var(--sub)}
+.buys{list-style:none;margin:12px 0 0;padding:0;display:flex;flex-direction:column;gap:8px}
+.buys li{
+  display:flex;justify-content:space-between;gap:12px;align-items:flex-start;
+  background:var(--accent-soft);border-radius:8px;padding:9px 11px;
+}
+.buys .what{min-width:0}
+.buys .tag{font-weight:700;font-size:13.5px}
+.buys .detail{font-size:12px;color:var(--sub);overflow-wrap:anywhere}
+.buys .save{white-space:nowrap;font-weight:700;color:var(--accent);font-variant-numeric:tabular-nums}
+
+.notice{background:var(--warn-soft);border:1px solid var(--line);border-left:4px solid var(--warn);
+  border-radius:10px;padding:13px 15px;margin-bottom:14px;font-size:13.5px}
+.notice b{color:var(--warn)}
+
+/* 12品は表にすると幅が足りずに切れるので、1品1行のリストにする */
+.watch{list-style:none;margin:0;padding:0}
+.watch li{padding:11px 12px;border-bottom:1px solid var(--line)}
+.watch li:last-child{border-bottom:0}
+.watch .head{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.watch .name{font-weight:600;font-size:14px}
+.watch .basis{font-size:11px;color:var(--sub)}
+.watch .cmp{display:flex;align-items:center;gap:8px;margin-top:5px;font-size:12.5px}
+.watch .side{flex:1 1 0;min-width:0}
+.watch .side .who{font-size:11px;color:var(--sub);display:block;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.watch .side .val{font-variant-numeric:tabular-nums;font-weight:600}
+.watch .arrow{color:var(--sub);flex:0 0 auto;font-size:11px}
+.watch .none{color:var(--flat);font-weight:400}
+.watch .best .val{color:var(--accent)}
+
+/* --- お得な商品 --- */
+.tools{display:flex;flex-direction:column;gap:8px;margin-bottom:12px}
+.tools input,.tools select{
+  width:100%;padding:10px 12px;font:inherit;font-size:15px;
+  border:1px solid var(--line);border-radius:9px;background:var(--card);color:var(--ink);
+}
+.tools .row{display:flex;gap:8px}
+.count{font-size:12px;color:var(--sub);margin:0 0 10px}
+.deal{padding:12px 14px;margin-bottom:8px}
+.deal .top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+.deal .nm{font-weight:600;min-width:0;overflow-wrap:anywhere}
+.deal .mk{font-size:12px;color:var(--sub)}
+.deal .pr{text-align:right;white-space:nowrap}
+.deal .pr b{font-size:18px;font-variant-numeric:tabular-nums}
+.deal .pr .ex{display:block;font-size:11px;color:var(--sub)}
+.deal .meta{margin-top:8px;padding-top:8px;border-top:1px dashed var(--line);
+  font-size:11.5px;color:var(--sub);display:flex;flex-wrap:wrap;gap:4px 10px;align-items:center}
+.chip{background:var(--accent-soft);color:var(--accent);border-radius:99px;padding:1px 8px;font-size:11px;font-weight:600}
+.chip.cold{background:#dbeafe;color:#1e40af}
+@media (prefers-color-scheme:dark){.chip.cold{background:#17263f;color:#93b8f0}}
+.deal a{color:var(--accent)}
+
+/* --- 基準価格 --- */
+.baseform{padding:14px}
+.baseform label{display:block;margin-bottom:12px}
+.baseform .lbl{font-weight:600;font-size:14px;display:flex;justify-content:space-between;gap:8px}
+.baseform .lbl small{font-weight:400;color:var(--sub)}
+.baseform .pair{display:flex;gap:8px;margin-top:5px}
+.baseform input{
+  padding:10px 12px;font:inherit;font-size:16px;border:1px solid var(--line);
+  border-radius:9px;background:var(--bg);color:var(--ink);min-width:0;
+}
+.baseform input.price{flex:0 0 110px}
+.baseform input.size{flex:1}
+button.primary{
+  width:100%;padding:13px;border:0;border-radius:10px;background:var(--accent);
+  color:#fff;font:inherit;font-size:15px;font-weight:700;cursor:pointer;
+}
+pre.out{
+  background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px;
+  font-size:12px;overflow-x:auto;white-space:pre;margin-top:12px;
+}
+.hint{font-size:12.5px;color:var(--sub);margin:10px 0 0}
+footer{padding:20px 16px 40px;text-align:center;font-size:11.5px;color:var(--sub)}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand"><h1>Hashigo</h1><span class="stamp" id="stamp"></span></div>
+  <nav role="tablist">
+    <button role="tab" id="t-home"  aria-selected="true"  aria-controls="p-home">ホーム</button>
+    <button role="tab" id="t-deals" aria-selected="false" aria-controls="p-deals">お得な商品</button>
+    <button role="tab" id="t-base"  aria-selected="false" aria-controls="p-base">基準価格</button>
+  </nav>
+</header>
+
+<main>
+  <section id="p-home" role="tabpanel"><p class="count">読み込み中…</p></section>
+  <section id="p-deals" role="tabpanel" hidden></section>
+  <section id="p-base" role="tabpanel" hidden></section>
+</main>
+
+<footer id="foot"></footer>
+
+<script>
+const $ = s => document.querySelector(s);
+const yen = n => n == null ? '—' : Math.round(n).toLocaleString('ja-JP');
+const yen1 = n => n == null ? '—' : (Math.round(n * 10) / 10).toLocaleString('ja-JP');
+const esc = s => (s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+let DATA = null;
+
+// タブ
+document.querySelectorAll('nav button').forEach(btn => {
+  btn.onclick = () => {
+    document.querySelectorAll('nav button').forEach(b => {
+      const on = b === btn;
+      b.setAttribute('aria-selected', on);
+      $('#' + b.getAttribute('aria-controls')).hidden = !on;
+    });
+    scrollTo(0, 0);
+  };
+});
+
+fetch('public/data.json?' + Date.now())
+  .then(r => r.ok ? r.json() : Promise.reject(r.status))
+  .then(d => { DATA = d; render(); })
+  .catch(e => {
+    $('#p-home').innerHTML = `<div class="notice"><b>データを読み込めませんでした。</b><br>
+      毎朝6時の解析がまだ動いていないか、通信に失敗しています。(${esc(String(e))})</div>`;
+  });
+
+function render(){ stamp(); home(); deals(); base(); foot(); }
+
+function stamp(){
+  $('#stamp').textContent = DATA.generated_at_label + ' 時点';
+}
+
+/* ---------------- ホーム ---------------- */
+function home(){
+  const bs = DATA.base_store;
+  let h = '';
+
+  if (bs.filled === 0){
+    h += `<div class="notice">
+      <b>業務スーパーの基準価格が未登録です。</b><br>
+      比較の基準が無いため、寄り道の判定がほとんどできません。
+      「基準価格」タブから12品の値段を入れてください。</div>`;
+  } else if (bs.filled < bs.total){
+    h += `<div class="notice">
+      基準価格は <b>${bs.filled}/${bs.total}品</b> ぶん登録済み。
+      残り${bs.total - bs.filled}品は判定できません。</div>`;
+  }
+
+  for (const t of DATA.trips){
+    if (t.worth_going){
+      h += `<div class="card verdict go">
+        <h2>今日 ${esc(t.store_label)} に寄る価値あり</h2>
+        <p class="lede">${t.buys.length}品で <span class="amount">${yen(t.total_saving)}円</span> お得</p>
+        <ul class="buys">` +
+        t.buys.map(b => `<li>
+            <span class="what">
+              <span class="tag">${esc(b.label)}</span>
+              <span class="detail">${esc(b.name)}${b.size ? ' / ' + esc(b.size) : ''} ${yen1(b.price)}円</span>
+            </span>
+            <span class="save">+${yen(b.saving)}円</span>
+          </li>`).join('') + `</ul></div>`;
+    } else {
+      const why = t.unknown.length
+        ? `${t.unknown.length}品は基準価格が無くて判定できていません`
+        : `業務スーパーより安いものはありません`;
+      h += `<div class="card verdict stay">
+        <h2>${esc(t.store_label)} は寄らなくてよい</h2>
+        <p class="lede">${why}</p></div>`;
+    }
+  }
+
+  h += `<h2 style="font-size:14px;margin:22px 0 8px">よく買う12品</h2>
+    <div class="card"><ul class="watch">`;
+
+  for (const w of DATA.watchlist){
+    const b = w.base;
+    const c = w.candidates.find(c => c.comparable);
+    const cheaper = b && b.unit_price != null && c && c.unit_price < b.unit_price;
+
+    const baseSide = b && b.unit_price != null
+      ? `<span class="who">業務スーパー ${esc(b.kind)}</span>
+         <span class="val">${yen1(b.unit_price)}円</span>`
+      : `<span class="who">業務スーパー</span><span class="val none">未登録</span>`;
+
+    const otherSide = c
+      ? `<span class="who">${esc(shortStore(c.store_label))}</span>
+         <span class="val">${yen1(c.unit_price)}円</span>`
+      : `<span class="who">他店</span><span class="val none">掲載なし</span>`;
+
+    h += `<li>
+      <div class="head"><span class="name">${esc(w.label)}</span>
+        <span class="basis">${esc(w.basis_label)}</span></div>
+      <div class="cmp">
+        <span class="side">${baseSide}</span>
+        <span class="arrow">vs</span>
+        <span class="side ${cheaper ? 'best' : ''}">${otherSide}</span>
+      </div></li>`;
+  }
+  h += `</ul></div>`;
+  $('#p-home').innerHTML = h;
+}
+
+// 「スーパーみらべる 練馬春日町店」→「みらべる」のように短くする
+function shortStore(label){
+  if (label.includes('みらべる')) return 'みらべる';
+  if (label.includes('サミット')) return 'サミット';
+  if (label.includes('業務スーパー')) return '業務スーパー';
+  return label;
+}
+
+/* ---------------- お得な商品 ---------------- */
+function deals(){
+  const stores = [...new Set(DATA.deals.map(d => d.store_label))];
+  $('#p-deals').innerHTML = `
+    <div class="tools">
+      <input id="q" type="search" placeholder="商品名で絞り込む" autocomplete="off">
+      <div class="row">
+        <select id="st"><option value="">すべての店</option>${
+          stores.map(s => `<option>${esc(s)}</option>`).join('')}</select>
+        <select id="sort">
+          <option value="price">安い順</option>
+          <option value="name">名前順</option>
+          <option value="store">店ごと</option>
+        </select>
+      </div>
+    </div>
+    <p class="count" id="cnt"></p>
+    <div id="list"></div>`;
+
+  const draw = () => {
+    const q = $('#q').value.trim().toLowerCase();
+    const st = $('#st').value;
+    let rows = DATA.deals.filter(d =>
+      (!st || d.store_label === st) &&
+      (!q || (d.name + ' ' + (d.maker || '')).toLowerCase().includes(q)));
+
+    const by = $('#sort').value;
+    rows = [...rows].sort((a, b) =>
+      by === 'price' ? a.price - b.price :
+      by === 'name'  ? a.name.localeCompare(b.name, 'ja') :
+                       a.store_label.localeCompare(b.store_label, 'ja') || a.price - b.price);
+
+    $('#cnt').textContent = `${rows.length}件 / 全${DATA.deals.length}件`;
+    $('#list').innerHTML = rows.map(d => `
+      <div class="card deal">
+        <div class="top">
+          <div class="nm">${esc(d.name)}
+            <div class="mk">${[d.maker, d.size].filter(Boolean).map(esc).join(' / ') || '&nbsp;'}</div>
+          </div>
+          <div class="pr">
+            <b>${yen1(d.price_incl ?? d.price)}</b>円
+            ${d.price_excl != null ? `<span class="ex">税別 ${yen1(d.price_excl)}円</span>` : ''}
+          </div>
+        </div>
+        <div class="meta">
+          <span>${esc(d.store_label)}</span>
+          ${d.each ? '<span class="chip">各</span>' : ''}
+          ${d.frozen ? '<span class="chip cold">冷凍</span>' : ''}
+          ${d.period_text ? `<span>${esc(d.period_text)}</span>` : ''}
+          ${d.note ? `<span>${esc(d.note)}</span>` : ''}
+          <a href="${esc(d.source_url)}" target="_blank" rel="noopener">元チラシ ↗</a>
+        </div>
+      </div>`).join('') || `<p class="count">該当なし</p>`;
+  };
+  ['q', 'st', 'sort'].forEach(id => { $('#' + id).oninput = draw; });
+  draw();
+}
+
+/* ---------------- 基準価格 ---------------- */
+function base(){
+  const cur = Object.fromEntries(DATA.watchlist.map(w =>
+    [w.id, w.base && w.base.kind === '通常価格' ? w.base : null]));
+
+  $('#p-base').innerHTML = `
+    <div class="notice">
+      買い物中にここへ入れてください。<b>税込価格</b>と、棚に書いてある内容量をそのまま。
+      入れ終わったら下のボタンを押して、出てきた内容をチャットに貼ってもらえれば反映します。
+    </div>
+    <div class="card baseform">
+      ${DATA.watchlist.map(w => `
+        <label>
+          <span class="lbl">${esc(w.label)}<small>${esc(w.basis_label)}</small></span>
+          <span class="pair">
+            <input class="price" data-id="${w.id}" data-f="price" type="number" inputmode="decimal"
+                   placeholder="税込円" value="${cur[w.id] ? cur[w.id].price : ''}">
+            <input class="size"  data-id="${w.id}" data-f="size"  type="text"
+                   placeholder="内容量（例 240g / 10個 / 1袋）" value="${cur[w.id] ? esc(cur[w.id].size ?? '') : ''}">
+          </span>
+        </label>`).join('')}
+      <button class="primary" id="gen">入力内容をまとめる</button>
+      <p class="hint">空欄の品は「未登録のまま」として扱われます。全部埋めなくて構いません。</p>
+    </div>
+    <pre class="out" id="out" hidden></pre>`;
+
+  $('#gen').onclick = () => {
+    const today = new Date().toISOString().slice(0, 10);
+    const out = {};
+    for (const w of DATA.watchlist){
+      const p = document.querySelector(`input[data-id="${w.id}"][data-f="price"]`).value.trim();
+      const s = document.querySelector(`input[data-id="${w.id}"][data-f="size"]`).value.trim();
+      out[w.id] = p ? {price_incl: Number(p), size: s || null, updated_at: today, source: 'manual'} : null;
+    }
+    const el = $('#out');
+    el.hidden = false;
+    el.textContent = JSON.stringify(out, null, 2);
+    el.scrollIntoView({behavior: 'smooth', block: 'nearest'});
+    if (navigator.clipboard) navigator.clipboard.writeText(el.textContent).catch(() => {});
+  };
+}
+
+function foot(){
+  const src = DATA.sources.map(s =>
+    `<a href="${esc(s.source_url)}" target="_blank" rel="noopener">${esc(s.store_label)}</a>`);
+  $('#foot').innerHTML = `出典: ${[...new Set(src)].join(' / ')}<br>
+    価格は掲載時点のもので、店頭と異なる場合があります。<br>
+    商品${DATA.deals.length}件を掲載 · 個人利用のための非公開ページです`;
+}
+</script>
+</body>
+</html>
