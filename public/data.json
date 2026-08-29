@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T15:53:22.365706+09:00",
-  "generated_at_label": "2026-08-29 15:53",
+  "generated_at": "2026-08-29T16:20:06.550251+09:00",
+  "generated_at_label": "2026-08-29 16:20",
   "base_store": {
     "id": "gyomu",
     "label": "業務スーパー 練馬駅前店",
@@ -8,6 +8,38 @@
     "total": 12
   },
   "trips": [
+    {
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "worth_going": true,
+      "total_saving": 69,
+      "buys": [
+        {
+          "label": "ヨーグルト",
+          "saving": 69,
+          "base_unit_price": 57.09,
+          "store": "summit",
+          "store_label": "サミット 練馬春日町店",
+          "name": "ブルガリアヨーグルト LB81プレーン",
+          "maker": "明治",
+          "size": "400g",
+          "price": 159.84,
+          "unit_price": 39.96,
+          "units": 4.0,
+          "comparable": true,
+          "period_text": "8月29日(土)〜31日(月)",
+          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+          "image": "pages/summit/8469916840775/8469916840775_p1.jpg",
+          "bbox": [
+            0.5,
+            0.31,
+            0.06,
+            0.09
+          ]
+        }
+      ],
+      "unknown": []
+    },
     {
       "store": "mirabelle",
       "store_label": "スーパーみらべる 練馬春日町店",
@@ -37,14 +69,6 @@
           ]
         }
       ]
-    },
-    {
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "worth_going": false,
-      "total_saving": 0,
-      "buys": [],
-      "unknown": []
     }
   ],
   "watchlist": [
@@ -82,6 +106,26 @@
             0.55,
             0.12,
             0.1
+          ]
+        },
+        {
+          "store": "summit",
+          "store_label": "サミット 練馬春日町店",
+          "name": "若どりむね肉",
+          "maker": "国内産",
+          "size": "100g",
+          "price": 85.32,
+          "unit_price": 85.32,
+          "units": 1.0,
+          "comparable": true,
+          "period_text": "8月29日(土)〜31日(月)",
+          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+          "image": "pages/summit/8469916840775/8469916840775_p1.jpg",
+          "bbox": [
+            0.31,
+            0.55,
+            0.08,
+            0.09
           ]
         }
       ]
@@ -260,6 +304,26 @@
         "updated_at": null
       },
       "candidates": [
+        {
+          "store": "summit",
+          "store_label": "サミット 練馬春日町店",
+          "name": "ブルガリアヨーグルト LB81プレーン",
+          "maker": "明治",
+          "size": "400g",
+          "price": 159.84,
+          "unit_price": 39.96,
+          "units": 4.0,
+          "comparable": true,
+          "period_text": "8月29日(土)〜31日(月)",
+          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+          "image": "pages/summit/8469916840775/8469916840775_p1.jpg",
+          "bbox": [
+            0.5,
+            0.31,
+            0.06,
+            0.09
+          ]
+        },
         {
           "store": "summit",
           "store_label": "サミット 練馬春日町店",
@@ -2525,6 +2589,29 @@
       "image": "pages/summit/7955706837627/7911196789464_p1.jpg"
     },
     {
+      "name": "4種のサーモンづくし",
+      "maker": null,
+      "size": "1パック",
+      "each": false,
+      "price_excl": 790,
+      "price_incl": 853.2,
+      "frozen": false,
+      "note": "お総菜。29日・30日限り",
+      "bbox": [
+        0.3,
+        0.24,
+        0.09,
+        0.1
+      ],
+      "price": 853.2,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
       "name": "55イチゴ",
       "maker": "アヲハタ",
       "size": "150g",
@@ -2615,6 +2702,29 @@
       "period_text": "8月のくらし応援月間特価/ボーナスポイントセール",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
+    },
+    {
+      "name": "6種具材の天丼",
+      "maker": null,
+      "size": "1パック",
+      "each": true,
+      "price_excl": 550,
+      "price_incl": 594.0,
+      "frozen": false,
+      "note": "お総菜。29日・30日限り",
+      "bbox": [
+        0.2,
+        0.46,
+        0.09,
+        0.09
+      ],
+      "price": 594.0,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
     },
     {
       "name": "G.U.Mプラス ペースト ハーブミント",
@@ -2753,6 +2863,167 @@
       "period_text": "8月のくらし応援月間特価/ボーナスポイントセール",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
+    },
+    {
+      "name": "いいちこ25°パック",
+      "maker": "三和酒類",
+      "size": "1800ml",
+      "each": false,
+      "price_excl": 1498,
+      "price_incl": 1647.8,
+      "frozen": false,
+      "note": "税率10%対象",
+      "bbox": [
+        0.48,
+        0.86,
+        0.06,
+        0.09
+      ],
+      "price": 1647.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "いかしゅうまい",
+      "maker": "博多魚嘉",
+      "size": "8コ入",
+      "each": true,
+      "price_excl": 398,
+      "price_incl": 429.84,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.2,
+        0.92,
+        0.08,
+        0.08
+      ],
+      "price": 429.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "いわし蒲焼",
+      "maker": "極洋",
+      "size": "90g",
+      "each": false,
+      "price_excl": 110,
+      "price_incl": 118.8,
+      "frozen": false,
+      "note": "通常138円(税込149.04円)の2割引。一例",
+      "bbox": [
+        0.15,
+        0.85,
+        0.08,
+        0.09
+      ],
+      "price": 118.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "うなぎ蒲焼",
+      "maker": "中国産",
+      "size": "3串入1パック",
+      "each": false,
+      "price_excl": 1200,
+      "price_incl": 1296.0,
+      "frozen": false,
+      "note": "通常1,500円(税込1,620.00円)の2割引",
+      "bbox": [
+        0.02,
+        0.57,
+        0.11,
+        0.09
+      ],
+      "price": 1296.0,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "えびしゅうまい",
+      "maker": "博多魚嘉",
+      "size": "8コ入",
+      "each": true,
+      "price_excl": 398,
+      "price_incl": 429.84,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.2,
+        0.92,
+        0.08,
+        0.08
+      ],
+      "price": 429.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "えびとチーズのグラタン",
+      "maker": "ウミオス",
+      "size": "4コ入",
+      "each": false,
+      "price_excl": 178,
+      "price_incl": 192.24,
+      "frozen": true,
+      "note": null,
+      "bbox": [
+        0.3,
+        0.84,
+        0.08,
+        0.09
+      ],
+      "price": 192.24,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "おかず畑 おばんざい小鉢 ひじき煮2P",
+      "maker": "フジッコ",
+      "size": "42g×2",
+      "each": true,
+      "price_excl": 198,
+      "price_incl": 213.84,
+      "frozen": false,
+      "note": "よりどり2コ380円(税込410.40円)。8月31日(月)までこの価格で販売します",
+      "bbox": [
+        0.64,
+        0.31,
+        0.06,
+        0.09
+      ],
+      "price": 213.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
     },
     {
       "name": "おろしのたれ",
@@ -3330,6 +3601,52 @@
       "image": "pages/summit/7955706837627/7911196789464_p1.jpg"
     },
     {
+      "name": "たっぷり野菜の揚げびたし(オクラ・茄子・長いも)",
+      "maker": null,
+      "size": "1パック",
+      "each": false,
+      "price_excl": 295,
+      "price_incl": 318.6,
+      "frozen": false,
+      "note": "お総菜。31日限り",
+      "bbox": [
+        0.4,
+        0.36,
+        0.09,
+        0.1
+      ],
+      "price": 318.6,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "たっぷり野菜の揚げびたし(オクラ・茄子・長いも)小",
+      "maker": null,
+      "size": "1パック",
+      "each": false,
+      "price_excl": 195,
+      "price_incl": 210.6,
+      "frozen": false,
+      "note": "お総菜。31日限り",
+      "bbox": [
+        0.4,
+        0.46,
+        0.09,
+        0.06
+      ],
+      "price": 210.6,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
       "name": "ちょっと贅沢な珈琲店 スペシャルブレンド",
       "maker": "AGF",
       "size": "200g",
@@ -3376,6 +3693,29 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "ちょっと贅沢な珈琲店 スペシャルブレンド",
+      "maker": "AGF",
+      "size": "200g",
+      "each": false,
+      "price_excl": 558,
+      "price_incl": 602.64,
+      "frozen": false,
+      "note": "通常698円(税込753.84円)の2割引。一例",
+      "bbox": [
+        0.38,
+        0.85,
+        0.09,
+        0.09
+      ],
+      "price": 602.64,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
       "name": "ちょっと贅沢な珈琲店 モカブレンド",
       "maker": "AGF",
       "size": "200g",
@@ -3420,6 +3760,75 @@
       "period_text": "8月のくらし応援月間特価/ボーナスポイントセール",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
+    },
+    {
+      "name": "ちょっと贅沢な珈琲店 モカブレンド",
+      "maker": "AGF",
+      "size": "200g",
+      "each": false,
+      "price_excl": 558,
+      "price_incl": 602.64,
+      "frozen": false,
+      "note": "通常698円(税込753.84円)の2割引。一例",
+      "bbox": [
+        0.38,
+        0.85,
+        0.09,
+        0.09
+      ],
+      "price": 602.64,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "つまみ種",
+      "maker": "亀田",
+      "size": "120g",
+      "each": true,
+      "price_excl": 198,
+      "price_incl": 213.84,
+      "frozen": false,
+      "note": "湯島天神南・御徒町TAKEYA1・久我山・笹塚・弦巻通り・下馬店では菓子のチラシ特売は実施しておりません",
+      "bbox": [
+        0.41,
+        0.4,
+        0.06,
+        0.09
+      ],
+      "price": 213.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "とろけるスライスチーズ",
+      "maker": "クラフト",
+      "size": "7枚入",
+      "each": false,
+      "price_excl": 198,
+      "price_incl": 213.84,
+      "frozen": false,
+      "note": "通常248円(税込267.84円)の2割引。一例",
+      "bbox": [
+        0.48,
+        0.75,
+        0.08,
+        0.09
+      ],
+      "price": 213.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
     },
     {
       "name": "とろけるゼリー ぶどう+りんご",
@@ -3468,6 +3877,144 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "なす",
+      "maker": "群馬県などの国内産",
+      "size": "5本入1袋",
+      "each": false,
+      "price_excl": 258,
+      "price_incl": 278.64,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.02,
+        0.3,
+        0.1,
+        0.1
+      ],
+      "price": 278.64,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "なめらかプリン",
+      "maker": "愛知(パステル)",
+      "size": "120g",
+      "each": false,
+      "price_excl": 358,
+      "price_incl": 386.64,
+      "frozen": false,
+      "note": "諸国うまいもの祭り。29日・30日限り。数に限りがございますので、品切れの際はご容赦願います。",
+      "bbox": [
+        0.48,
+        0.16,
+        0.06,
+        0.08
+      ],
+      "price": 386.64,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "ひとくちずんだ餅",
+      "maker": "宮城(井ヶ田製茶)",
+      "size": "4コ入",
+      "each": false,
+      "price_excl": 598,
+      "price_incl": 645.84,
+      "frozen": false,
+      "note": "諸国うまいもの祭り。29日・30日限り。数に限りがございますので、品切れの際はご容赦願います。",
+      "bbox": [
+        0.42,
+        0.02,
+        0.06,
+        0.08
+      ],
+      "price": 645.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "ひとくちフライドチキン",
+      "maker": null,
+      "size": "1パック",
+      "each": true,
+      "price_excl": 395,
+      "price_incl": 426.6,
+      "frozen": false,
+      "note": "お総菜おかず各種よりどりセール。よりどり2パック750円(税込810.00円)、よりどり3パック1,100円(税込1,188.00円)",
+      "bbox": [
+        0.22,
+        0.56,
+        0.09,
+        0.09
+      ],
+      "price": 426.6,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "ふじっ子煮 ごま昆布",
+      "maker": "フジッコ",
+      "size": "74g",
+      "each": true,
+      "price_excl": 198,
+      "price_incl": 213.84,
+      "frozen": false,
+      "note": "よりどり2コ380円(税込410.40円)。8月31日(月)までこの価格で販売します",
+      "bbox": [
+        0.64,
+        0.31,
+        0.06,
+        0.09
+      ],
+      "price": 213.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "ふっくらと焼き上げたうなぎ長焼",
+      "maker": "静岡などの国内産",
+      "size": "1尾",
+      "each": false,
+      "price_excl": 1824,
+      "price_incl": 1969.92,
+      "frozen": false,
+      "note": "通常2,280円(税込2,462.40円)の2割引",
+      "bbox": [
+        0.02,
+        0.47,
+        0.11,
+        0.1
+      ],
+      "price": 1969.92,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
       "name": "まいにち食べたい3種のレーズンミックス",
       "maker": "正栄食品",
       "size": "114g",
@@ -3512,6 +4059,52 @@
       "period_text": "8月のくらし応援月間特価/ボーナスポイントセール",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
+    },
+    {
+      "name": "ますのすし剣",
+      "maker": "富山(富山駅)",
+      "size": "1食",
+      "each": false,
+      "price_excl": 1482,
+      "price_incl": 1600.56,
+      "frozen": false,
+      "note": "諸国うまいもの祭り。29日・30日限り。数に限りがございますので、品切れの際はご容赦願います。",
+      "bbox": [
+        0.2,
+        0.1,
+        0.06,
+        0.09
+      ],
+      "price": 1600.56,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "まゆどおる",
+      "maker": "福島(三万石)",
+      "size": "6コ入",
+      "each": false,
+      "price_excl": 880,
+      "price_incl": 950.4,
+      "frozen": false,
+      "note": "諸国うまいもの祭り。29日・30日限り。数に限りがございますので、品切れの際はご容赦願います。",
+      "bbox": [
+        0.42,
+        0.1,
+        0.06,
+        0.08
+      ],
+      "price": 950.4,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
     },
     {
       "name": "まるごと果実いちご",
@@ -3698,6 +4291,121 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "れんこん",
+      "maker": "茨城県などの国内産",
+      "size": "100g",
+      "each": false,
+      "price_excl": 99,
+      "price_incl": 106.92,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.13,
+        0.3,
+        0.1,
+        0.1
+      ],
+      "price": 106.92,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "アクエリアス",
+      "maker": null,
+      "size": "2L",
+      "each": true,
+      "price_excl": 148,
+      "price_incl": 159.84,
+      "frozen": false,
+      "note": "ケースで買うと2L×6 798円(税込861.84円)。各1家族様3ケース(18本)限り",
+      "bbox": [
+        0.6,
+        0.07,
+        0.09,
+        0.14
+      ],
+      "price": 159.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "アップルパイ",
+      "maker": "ヤマザキ",
+      "size": "1コ",
+      "each": true,
+      "price_excl": 99,
+      "price_incl": 106.92,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.62,
+        0.22,
+        0.05,
+        0.09
+      ],
+      "price": 106.92,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "アリエールジェル 詰替え超特大",
+      "maker": "P&G",
+      "size": "625g",
+      "each": false,
+      "price_excl": 328,
+      "price_incl": 360.8,
+      "frozen": false,
+      "note": "ボーナスポイント+30、29日・30日限定、税率10%対象。月島3丁目・湯島天神南・御徒町TAKEYA1・下馬・深沢不動前・王子桜田通り・江原町・本天沼・三田・鍋屋横丁・西荻窪駅南店では家庭用品のチラシ特売は実施しておりません",
+      "bbox": [
+        0.48,
+        0.4,
+        0.06,
+        0.09
+      ],
+      "price": 360.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "アリエールジェル 除菌プラス 詰替え超特大",
+      "maker": "P&G",
+      "size": "625g",
+      "each": false,
+      "price_excl": 328,
+      "price_incl": 360.8,
+      "frozen": false,
+      "note": "ボーナスポイント+30、29日・30日限定、税率10%対象。月島3丁目・湯島天神南・御徒町TAKEYA1・下馬・深沢不動前・王子桜田通り・江原町・本天沼・三田・鍋屋横丁・西荻窪駅南店では家庭用品のチラシ特売は実施しておりません",
+      "bbox": [
+        0.48,
+        0.4,
+        0.06,
+        0.09
+      ],
+      "price": 360.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
       "name": "アルトバイエルン(大袋)",
       "maker": "伊藤ハム",
       "size": "468g",
@@ -3742,6 +4450,29 @@
       "period_text": "8月のくらし応援月間特価/ボーナスポイントセール",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
+    },
+    {
+      "name": "アンジュエール エクストラドライ",
+      "maker": "カステルメゾン",
+      "size": "750ml",
+      "each": false,
+      "price_excl": 998,
+      "price_incl": 1097.8,
+      "frozen": false,
+      "note": "税率10%対象",
+      "bbox": [
+        0.48,
+        0.72,
+        0.06,
+        0.09
+      ],
+      "price": 1097.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
     },
     {
       "name": "インドカリー スパイシーチキン",
@@ -3997,6 +4728,29 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "オールフリー",
+      "maker": "サントリー",
+      "size": "350ml",
+      "each": false,
+      "price_excl": 108,
+      "price_incl": 116.64,
+      "frozen": false,
+      "note": "ノンアルコール",
+      "bbox": [
+        0.54,
+        0.86,
+        0.06,
+        0.09
+      ],
+      "price": 116.64,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
       "name": "ガツン、とみかん",
       "maker": "赤城乳業",
       "size": "5本入",
@@ -4158,6 +4912,98 @@
       "image": "pages/summit/7955706837627/7911196789464_p1.jpg"
     },
     {
+      "name": "キャベツ",
+      "maker": "群馬県産JA嬬恋村より",
+      "size": "L1コ",
+      "each": false,
+      "price_excl": 188,
+      "price_incl": 203.04,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.13,
+        0.21,
+        0.1,
+        0.09
+      ],
+      "price": 203.04,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "クック・ドゥ チンジャオロウス用",
+      "maker": "味の素",
+      "size": "100g",
+      "each": true,
+      "price_excl": 128,
+      "price_incl": 138.24,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.43,
+        0.31,
+        0.06,
+        0.09
+      ],
+      "price": 138.24,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "クック・ドゥ ホイコーロー用",
+      "maker": "味の素",
+      "size": "90g",
+      "each": true,
+      "price_excl": 128,
+      "price_incl": 138.24,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.43,
+        0.31,
+        0.06,
+        0.09
+      ],
+      "price": 138.24,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "クック・ドゥ 四川式麻婆豆腐用",
+      "maker": "味の素",
+      "size": "106.5g",
+      "each": true,
+      "price_excl": 128,
+      "price_incl": 138.24,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.43,
+        0.31,
+        0.06,
+        0.09
+      ],
+      "price": 138.24,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
       "name": "クラフト フレッシュモッツァレラ",
       "maker": "森永乳業",
       "size": "100g",
@@ -4202,6 +5048,98 @@
       "period_text": "8月のくらし応援月間特価/ボーナスポイントセール",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
+    },
+    {
+      "name": "クリスピーサンド ピーナッツ&バターキャラメル",
+      "maker": "ハーゲンダッツ",
+      "size": "60ml",
+      "each": true,
+      "price_excl": 218,
+      "price_incl": 235.44,
+      "frozen": false,
+      "note": "期間限定。写真は一例です。31日限り",
+      "bbox": [
+        0.83,
+        0.65,
+        0.15,
+        0.09
+      ],
+      "price": 235.44,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "クレラップお徳用ミニ",
+      "maker": "クレハ",
+      "size": "22cm×50m",
+      "each": false,
+      "price_excl": 295,
+      "price_incl": 324.5,
+      "frozen": false,
+      "note": "通常348円(税込382.80円)の15%引。一例。税率10%対象。月島3丁目・湯島天神南・御徒町TAKEYA1・下馬・深沢不動前・王子桜田通り・江原町・本天沼・三田・鍋屋横丁・西荻窪駅南店では家庭用品のチラシ特売は実施しておりません",
+      "bbox": [
+        0.48,
+        0.85,
+        0.08,
+        0.09
+      ],
+      "price": 324.5,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "グリーンアスパラガス",
+      "maker": "宮城県などの国内産",
+      "size": "1束",
+      "each": false,
+      "price_excl": 178,
+      "price_incl": 192.24,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.23,
+        0.21,
+        0.1,
+        0.09
+      ],
+      "price": 192.24,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "グリーンキウイフルーツ",
+      "maker": "ニュージーランド産",
+      "size": "中玉1コ",
+      "each": true,
+      "price_excl": 99,
+      "price_incl": 106.92,
+      "frozen": false,
+      "note": "9月1日(火)までこの価格で販売します。9月1日はキウイの日。31日限り",
+      "bbox": [
+        0.66,
+        0.75,
+        0.08,
+        0.08
+      ],
+      "price": 106.92,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
     },
     {
       "name": "グリーンダカラ やさしい麦茶",
@@ -4250,6 +5188,52 @@
       "image": "pages/summit/8469916840775/4012696789460_p1.jpg"
     },
     {
+      "name": "サッポロ一番 みそラーメン",
+      "maker": "サンヨー",
+      "size": "100g×5",
+      "each": true,
+      "price_excl": 378,
+      "price_incl": 408.24,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.36,
+        0.31,
+        0.06,
+        0.09
+      ],
+      "price": 408.24,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "サッポロ一番 塩らーめん",
+      "maker": "サンヨー",
+      "size": "100g×5",
+      "each": true,
+      "price_excl": 378,
+      "price_incl": 408.24,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.36,
+        0.31,
+        0.06,
+        0.09
+      ],
+      "price": 408.24,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
       "name": "サラサーティ コットン100",
       "maker": "小林製薬",
       "size": "56枚入",
@@ -4296,6 +5280,52 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "サンゴールドキウイフルーツ",
+      "maker": "ニュージーランド産",
+      "size": "中玉1コ",
+      "each": true,
+      "price_excl": 99,
+      "price_incl": 106.92,
+      "frozen": false,
+      "note": "9月1日(火)までこの価格で販売します。9月1日はキウイの日。31日限り",
+      "bbox": [
+        0.66,
+        0.75,
+        0.08,
+        0.08
+      ],
+      "price": 106.92,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "ザ・チャーハン(焦がしにんにく油と葱油が香る)",
+      "maker": "味の素",
+      "size": "580g",
+      "each": false,
+      "price_excl": 398,
+      "price_incl": 429.84,
+      "frozen": true,
+      "note": null,
+      "bbox": [
+        0.3,
+        0.75,
+        0.08,
+        0.09
+      ],
+      "price": 429.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
       "name": "シマヤだしの素",
       "maker": "シマヤ",
       "size": "200g",
@@ -4340,6 +5370,52 @@
       "period_text": "8月のくらし応援月間特価/ボーナスポイントセール",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
+    },
+    {
+      "name": "シューストリングポテト",
+      "maker": null,
+      "size": "1パック",
+      "each": true,
+      "price_excl": 395,
+      "price_incl": 426.6,
+      "frozen": false,
+      "note": "お総菜おかず各種よりどりセール。よりどり2パック750円(税込810.00円)、よりどり3パック1,100円(税込1,188.00円)",
+      "bbox": [
+        0.22,
+        0.56,
+        0.09,
+        0.09
+      ],
+      "price": 426.6,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "ショコラ",
+      "maker": "ダン・ブラウン(焼きたてパンの店)",
+      "size": "1コ",
+      "each": false,
+      "price_excl": 148,
+      "price_incl": 159.84,
+      "frozen": false,
+      "note": "深沢不動前・笹塚・上北沢・和泉・中野南台・渋谷本町・松陰神社前・弦巻通り・千歳台・千歳船橋・池上8丁目・成田東・イースト21・久我山・新小岩駅北口・戸田公園駅・上連雀・クルレ・巣鴨・滝野川紅葉橋店・久が原店食品館ではチラシ特売は実施しておりません",
+      "bbox": [
+        0.14,
+        0.6,
+        0.05,
+        0.1
+      ],
+      "price": 159.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
     },
     {
       "name": "シーザーサラダドレッシング",
@@ -4434,6 +5510,75 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "ジャンボシュークリーム ホイップ&カスタード",
+      "maker": "東京(銀座コージーコーナー)",
+      "size": "1コ",
+      "each": false,
+      "price_excl": 180,
+      "price_incl": 194.4,
+      "frozen": false,
+      "note": "諸国うまいもの祭り。29日・30日限り。数に限りがございますので、品切れの際はご容赦願います。",
+      "bbox": [
+        0.42,
+        0.16,
+        0.06,
+        0.08
+      ],
+      "price": 194.4,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "スコッティフラワーパック 1.5倍長持ち シングル",
+      "maker": "クレシア",
+      "size": "75m×8",
+      "each": false,
+      "price_excl": 498,
+      "price_incl": 547.8,
+      "frozen": false,
+      "note": "税率10%対象。月島3丁目・湯島天神南・御徒町TAKEYA1・下馬・深沢不動前・王子桜田通り・江原町・本天沼・三田・鍋屋横丁・西荻窪駅南店では家庭用品のチラシ特売は実施しておりません",
+      "bbox": [
+        0.62,
+        0.4,
+        0.06,
+        0.09
+      ],
+      "price": 547.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "スコッティフラワーパック 1.5倍長持ち ダブル",
+      "maker": "クレシア",
+      "size": "37.5m×8",
+      "each": false,
+      "price_excl": 498,
+      "price_incl": 547.8,
+      "frozen": false,
+      "note": "税率10%対象。月島3丁目・湯島天神南・御徒町TAKEYA1・下馬・深沢不動前・王子桜田通り・江原町・本天沼・三田・鍋屋横丁・西荻窪駅南店では家庭用品のチラシ特売は実施しておりません",
+      "bbox": [
+        0.62,
+        0.4,
+        0.06,
+        0.09
+      ],
+      "price": 547.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
       "name": "スパゲティ",
       "maker": "プロッシモ",
       "size": "1kg",
@@ -4480,6 +5625,75 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "スーパードライ",
+      "maker": "アサヒ",
+      "size": "350ml×6缶",
+      "each": false,
+      "price_excl": 1018,
+      "price_incl": 1119.8,
+      "frozen": false,
+      "note": "税率10%対象",
+      "bbox": [
+        0.36,
+        0.72,
+        0.06,
+        0.06
+      ],
+      "price": 1119.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "スーパードライ",
+      "maker": "アサヒ",
+      "size": "500ml×6缶",
+      "each": false,
+      "price_excl": 1408,
+      "price_incl": 1548.8,
+      "frozen": false,
+      "note": "税率10%対象",
+      "bbox": [
+        0.36,
+        0.78,
+        0.06,
+        0.06
+      ],
+      "price": 1548.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "スーパードライ",
+      "maker": "アサヒ",
+      "size": "350ml×24缶",
+      "each": false,
+      "price_excl": 4070,
+      "price_incl": 4477.0,
+      "frozen": false,
+      "note": "税率10%対象",
+      "bbox": [
+        0.42,
+        0.78,
+        0.06,
+        0.06
+      ],
+      "price": 4477.0,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
       "name": "ゼリーの時間 みかん",
       "maker": "純和食品",
       "size": "235g",
@@ -4616,6 +5830,29 @@
       "period_text": "8月のくらし応援月間特価",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/4012696789460_p1.jpg"
+    },
+    {
+      "name": "チョコレートアイスバー",
+      "maker": "ハーシー",
+      "size": "7本入",
+      "each": false,
+      "price_excl": 268,
+      "price_incl": 289.44,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.57,
+        0.31,
+        0.06,
+        0.09
+      ],
+      "price": 289.44,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
     },
     {
       "name": "トマトの果実たっぷりのミートソース",
@@ -4708,6 +5945,75 @@
       "period_text": "8月",
       "period_end": "2026-08-31",
       "image": "pages/summit/7955706837627/7911196789464_p1.jpg"
+    },
+    {
+      "name": "ネスカフェ ゴールドブレンド・アイスブレンド",
+      "maker": "ネスレ",
+      "size": "80g",
+      "each": true,
+      "price_excl": 568,
+      "price_incl": 613.44,
+      "frozen": false,
+      "note": "よりどり2コ998円(税込1,077.84円)",
+      "bbox": [
+        0.5,
+        0.07,
+        0.1,
+        0.14
+      ],
+      "price": 613.44,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "ハミング 素肌おもい詰替え フレッシュローズ",
+      "maker": "花王",
+      "size": "480ml",
+      "each": false,
+      "price_excl": 188,
+      "price_incl": 206.8,
+      "frozen": false,
+      "note": "税率10%対象。月島3丁目・湯島天神南・御徒町TAKEYA1・下馬・深沢不動前・王子桜田通り・江原町・本天沼・三田・鍋屋横丁・西荻窪駅南店では家庭用品のチラシ特売は実施しておりません",
+      "bbox": [
+        0.55,
+        0.4,
+        0.06,
+        0.09
+      ],
+      "price": 206.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "ハミング 素肌おもい詰替え フローラルブーケ",
+      "maker": "花王",
+      "size": "480ml",
+      "each": false,
+      "price_excl": 188,
+      "price_incl": 206.8,
+      "frozen": false,
+      "note": "税率10%対象。月島3丁目・湯島天神南・御徒町TAKEYA1・下馬・深沢不動前・王子桜田通り・江原町・本天沼・三田・鍋屋横丁・西荻窪駅南店では家庭用品のチラシ特売は実施しておりません",
+      "bbox": [
+        0.55,
+        0.4,
+        0.06,
+        0.09
+      ],
+      "price": 206.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
     },
     {
       "name": "ハミングフレア フローラルスウィート詰替大",
@@ -4848,6 +6154,29 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "ブルガリアヨーグルト LB81プレーン",
+      "maker": "明治",
+      "size": "400g",
+      "each": false,
+      "price_excl": 148,
+      "price_incl": 159.84,
+      "frozen": false,
+      "note": "ボーナスポイント+10、29日・30日",
+      "bbox": [
+        0.5,
+        0.31,
+        0.06,
+        0.09
+      ],
+      "price": 159.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
       "name": "ブレンディスティック カフェオレ",
       "maker": "AGF",
       "size": "8本入",
@@ -4938,6 +6267,75 @@
       "period_text": "8月のくらし応援月間特価/ボーナスポイントセール",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
+    },
+    {
+      "name": "プチねぎ塩豚丼",
+      "maker": null,
+      "size": "1パック",
+      "each": true,
+      "price_excl": 395,
+      "price_incl": 426.6,
+      "frozen": false,
+      "note": "お総菜。プチ丼・海鮮丼セール",
+      "bbox": [
+        0.4,
+        0.55,
+        0.09,
+        0.09
+      ],
+      "price": 426.6,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "プチネバネバ丼",
+      "maker": null,
+      "size": "1パック",
+      "each": true,
+      "price_excl": 395,
+      "price_incl": 426.6,
+      "frozen": false,
+      "note": "お総菜。プチ丼・海鮮丼セール",
+      "bbox": [
+        0.4,
+        0.55,
+        0.09,
+        0.09
+      ],
+      "price": 426.6,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "プチ天丼",
+      "maker": null,
+      "size": "1パック",
+      "each": true,
+      "price_excl": 395,
+      "price_incl": 426.6,
+      "frozen": false,
+      "note": "お総菜。プチ丼・海鮮丼セール",
+      "bbox": [
+        0.4,
+        0.55,
+        0.09,
+        0.09
+      ],
+      "price": 426.6,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
     },
     {
       "name": "プレミアムケアハブラシ6列レギュラー62ふつう",
@@ -5032,6 +6430,29 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "ボールスタア焼肉のたれ 醤油味",
+      "maker": null,
+      "size": "165g",
+      "each": false,
+      "price_excl": 298,
+      "price_incl": 321.84,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.42,
+        0.1,
+        0.05,
+        0.09
+      ],
+      "price": 321.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
       "name": "ポテコ うましお味",
       "maker": "東ハト",
       "size": "67g",
@@ -5124,6 +6545,52 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "ポテトチップス じゃがいもと塩",
+      "maker": "湖池屋",
+      "size": "55g",
+      "each": true,
+      "price_excl": 89,
+      "price_incl": 96.12,
+      "frozen": false,
+      "note": "湯島天神南・御徒町TAKEYA1・久我山・笹塚・弦巻通り・下馬店では菓子のチラシ特売は実施しておりません",
+      "bbox": [
+        0.36,
+        0.4,
+        0.05,
+        0.09
+      ],
+      "price": 96.12,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "ポテトチップス のり塩",
+      "maker": "湖池屋",
+      "size": "55g",
+      "each": true,
+      "price_excl": 89,
+      "price_incl": 96.12,
+      "frozen": false,
+      "note": "湯島天神南・御徒町TAKEYA1・久我山・笹塚・弦巻通り・下馬店では菓子のチラシ特売は実施しておりません",
+      "bbox": [
+        0.36,
+        0.4,
+        0.05,
+        0.09
+      ],
+      "price": 96.12,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
       "name": "ポテトチップス コンソメパンチ",
       "maker": "カルビー",
       "size": "55g",
@@ -5214,6 +6681,144 @@
       "period_text": "8月のくらし応援月間特価/ボーナスポイントセール",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
+    },
+    {
+      "name": "マルちゃん焼そば3人前",
+      "maker": "東洋水産",
+      "size": "150g×3",
+      "each": false,
+      "price_excl": 168,
+      "price_incl": 181.44,
+      "frozen": false,
+      "note": "ボーナスポイント+10",
+      "bbox": [
+        0.5,
+        0.22,
+        0.06,
+        0.09
+      ],
+      "price": 181.44,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "マ・マー チャック付結束スパゲティ1.6mm",
+      "maker": null,
+      "size": "600g",
+      "each": false,
+      "price_excl": 278,
+      "price_incl": 300.24,
+      "frozen": false,
+      "note": "通常各348円(税込375.84円)の2割引。一例",
+      "bbox": [
+        0.38,
+        0.65,
+        0.09,
+        0.09
+      ],
+      "price": 300.24,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "マ・マー 早ゆでスパゲティ チャック付結束1.6mm",
+      "maker": null,
+      "size": "500g",
+      "each": false,
+      "price_excl": 278,
+      "price_incl": 300.24,
+      "frozen": false,
+      "note": "通常各348円(税込375.84円)の2割引。一例",
+      "bbox": [
+        0.38,
+        0.65,
+        0.09,
+        0.09
+      ],
+      "price": 300.24,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "ミニカップバニラ",
+      "maker": "ハーゲンダッツ",
+      "size": "110ml",
+      "each": true,
+      "price_excl": 218,
+      "price_incl": 235.44,
+      "frozen": false,
+      "note": "期間限定。写真は一例です。31日限り",
+      "bbox": [
+        0.83,
+        0.65,
+        0.15,
+        0.09
+      ],
+      "price": 235.44,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "ミニカップバニラチョコレートサンデー",
+      "maker": "ハーゲンダッツ",
+      "size": "110ml",
+      "each": true,
+      "price_excl": 218,
+      "price_incl": 235.44,
+      "frozen": false,
+      "note": "期間限定。写真は一例です。31日限り",
+      "bbox": [
+        0.83,
+        0.65,
+        0.15,
+        0.09
+      ],
+      "price": 235.44,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "ミニスナックゴールド",
+      "maker": "ヤマザキ",
+      "size": "1コ",
+      "each": true,
+      "price_excl": 99,
+      "price_incl": 106.92,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.57,
+        0.22,
+        0.05,
+        0.09
+      ],
+      "price": 106.92,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
     },
     {
       "name": "ミートソース マッシュルーム入り",
@@ -5354,6 +6959,75 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "八ヶ岳高原レタス",
+      "maker": "長野県産JA八ヶ岳より",
+      "size": "1コ",
+      "each": false,
+      "price_excl": 128,
+      "price_incl": 138.24,
+      "frozen": false,
+      "note": "31日限り",
+      "bbox": [
+        0.66,
+        0.65,
+        0.08,
+        0.09
+      ],
+      "price": 138.24,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "刺身用生アトランティックサーモン(養殖)",
+      "maker": "ノルウェー産",
+      "size": "100g",
+      "each": false,
+      "price_excl": 498,
+      "price_incl": 537.84,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.14,
+        0.46,
+        0.08,
+        0.09
+      ],
+      "price": 537.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "午後のつまみ種",
+      "maker": "亀田",
+      "size": "95g",
+      "each": true,
+      "price_excl": 198,
+      "price_incl": 213.84,
+      "frozen": false,
+      "note": "湯島天神南・御徒町TAKEYA1・久我山・笹塚・弦巻通り・下馬店では菓子のチラシ特売は実施しておりません",
+      "bbox": [
+        0.41,
+        0.4,
+        0.06,
+        0.09
+      ],
+      "price": 213.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
       "name": "味付もずく(黒酢)(三杯酢)",
       "maker": "SEAMOBA",
       "size": "80g×3",
@@ -5492,6 +7166,144 @@
       "image": "pages/summit/8469916840775/4012696789460_p1.jpg"
     },
     {
+      "name": "国内産若どりかたから揚用",
+      "maker": null,
+      "size": "100g",
+      "each": false,
+      "price_excl": 99,
+      "price_incl": 106.92,
+      "frozen": false,
+      "note": "9月1日(火)までこの価格で販売します。解凍商品も販売しています。一例",
+      "bbox": [
+        0.9,
+        0.93,
+        0.09,
+        0.06
+      ],
+      "price": 106.92,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "国内産薄皮が付いたままの若どりささみ",
+      "maker": null,
+      "size": "100g",
+      "each": false,
+      "price_excl": 99,
+      "price_incl": 106.92,
+      "frozen": false,
+      "note": "9月1日(火)までこの価格で販売します。解凍商品も販売しています。一例",
+      "bbox": [
+        0.9,
+        0.93,
+        0.09,
+        0.06
+      ],
+      "price": 106.92,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "国産こしひかり5食",
+      "maker": "テーブルマーク",
+      "size": "180g×5",
+      "each": false,
+      "price_excl": 698,
+      "price_incl": 753.84,
+      "frozen": false,
+      "note": "31日限り",
+      "bbox": [
+        0.74,
+        0.75,
+        0.08,
+        0.09
+      ],
+      "price": 753.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "圧倒的、瀬戸内しいたけちらし寿司",
+      "maker": "兵庫(姫路駅)",
+      "size": "1食",
+      "each": false,
+      "price_excl": 1370,
+      "price_incl": 1479.6,
+      "frozen": false,
+      "note": "諸国うまいもの祭り。29日・30日限り。数に限りがございますので、品切れの際はご容赦願います。",
+      "bbox": [
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "price": 1479.6,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "塩銀さけ(甘口)",
+      "maker": "チリ産",
+      "size": "5切入1パック",
+      "each": false,
+      "price_excl": 999,
+      "price_incl": 1078.92,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.22,
+        0.46,
+        0.08,
+        0.09
+      ],
+      "price": 1078.92,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "天然みなみまぐろ中トロ入お刺身盛合せ(5種盛)",
+      "maker": null,
+      "size": "1パック",
+      "each": false,
+      "price_excl": 1100,
+      "price_incl": 1188.0,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.16,
+        0.05,
+        0.14,
+        0.14
+      ],
+      "price": 1188.0,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
       "name": "岩下の新生姜",
       "maker": "岩下",
       "size": "80g",
@@ -5538,6 +7350,167 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "幸水",
+      "maker": "栃木県などの国内産",
+      "size": "2コ入1パック",
+      "each": false,
+      "price_excl": 598,
+      "price_incl": 645.84,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.02,
+        0.05,
+        0.13,
+        0.14
+      ],
+      "price": 645.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "抹茶お福餅",
+      "maker": "三重(御福餅本家)",
+      "size": "8コ入",
+      "each": false,
+      "price_excl": 834,
+      "price_incl": 900.72,
+      "frozen": false,
+      "note": "諸国うまいもの祭り。29日・30日限り。数に限りがございますので、品切れの際はご容赦願います。",
+      "bbox": [
+        0.3,
+        0.1,
+        0.06,
+        0.08
+      ],
+      "price": 900.72,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "新潟県産こしひかり(岩船地区限定)",
+      "maker": "新潟県(岩船地区)",
+      "size": "5kg",
+      "each": false,
+      "price_excl": 3280,
+      "price_incl": 3542.4,
+      "frozen": false,
+      "note": "29日〜31日限り。ボーナスポイント+300",
+      "bbox": [
+        0.02,
+        0.75,
+        0.14,
+        0.24
+      ],
+      "price": 3542.4,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "日清カップヌードル しょうゆ",
+      "maker": "日清",
+      "size": "78g",
+      "each": true,
+      "price_excl": 148,
+      "price_incl": 159.84,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.36,
+        0.22,
+        0.06,
+        0.09
+      ],
+      "price": 159.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "日清カップヌードル カレー",
+      "maker": "日清",
+      "size": "87g",
+      "each": true,
+      "price_excl": 148,
+      "price_incl": 159.84,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.36,
+        0.22,
+        0.06,
+        0.09
+      ],
+      "price": 159.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "日清カップヌードル シーフード",
+      "maker": "日清",
+      "size": "75g",
+      "each": true,
+      "price_excl": 148,
+      "price_incl": 159.84,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.36,
+        0.22,
+        0.06,
+        0.09
+      ],
+      "price": 159.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "日清キャノーラ油(くらし良好)",
+      "maker": "日清",
+      "size": "1000g",
+      "each": false,
+      "price_excl": 298,
+      "price_incl": 321.84,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.43,
+        0.22,
+        0.06,
+        0.09
+      ],
+      "price": 321.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
       "name": "日清フラワー チャック付",
       "maker": "日清",
       "size": "500g",
@@ -5559,6 +7532,29 @@
       "period_text": "8月",
       "period_end": "2026-08-31",
       "image": "pages/summit/7955706837627/7911196789464_p1.jpg"
+    },
+    {
+      "name": "有名ブランドティシュ",
+      "maker": null,
+      "size": "200組×5",
+      "each": false,
+      "price_excl": 328,
+      "price_incl": 360.8,
+      "frozen": false,
+      "note": "税率10%対象。月島3丁目・湯島天神南・御徒町TAKEYA1・下馬・深沢不動前・王子桜田通り・江原町・本天沼・三田・鍋屋横丁・西荻窪駅南店では家庭用品のチラシ特売は実施しておりません",
+      "bbox": [
+        0.7,
+        0.4,
+        0.06,
+        0.09
+      ],
+      "price": 360.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
     },
     {
       "name": "本和香糖芋けんぴ",
@@ -5607,6 +7603,144 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "本鮪赤身や活〆真鯛が入ったご馳走にぎり",
+      "maker": null,
+      "size": "1パック",
+      "each": false,
+      "price_excl": 990,
+      "price_incl": 1069.2,
+      "frozen": false,
+      "note": "お総菜。29日・30日限り",
+      "bbox": [
+        0.2,
+        0.24,
+        0.1,
+        0.11
+      ],
+      "price": 1069.2,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "栗きんとんきんつば",
+      "maker": "石川(味路庵)",
+      "size": "4コ入",
+      "each": false,
+      "price_excl": 540,
+      "price_incl": 583.2,
+      "frozen": false,
+      "note": "諸国うまいもの祭り。29日・30日限り。数に限りがございますので、品切れの際はご容赦願います。",
+      "bbox": [
+        0.3,
+        0.02,
+        0.06,
+        0.08
+      ],
+      "price": 583.2,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "桃太郎トマト(袋)",
+      "maker": "北海道産JAびらとりより",
+      "size": "1袋",
+      "each": false,
+      "price_excl": 388,
+      "price_incl": 419.04,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.02,
+        0.21,
+        0.1,
+        0.09
+      ],
+      "price": 419.04,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "梅の実ひじき",
+      "maker": "福岡(えとや)",
+      "size": "150g",
+      "each": false,
+      "price_excl": 800,
+      "price_incl": 864.0,
+      "frozen": false,
+      "note": "諸国うまいもの祭り。29日・30日限り。数に限りがございますので、品切れの際はご容赦願います。",
+      "bbox": [
+        0.27,
+        0.1,
+        0.06,
+        0.09
+      ],
+      "price": 864.0,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "浜松餃子ファミリーパック",
+      "maker": "マルマツ",
+      "size": "40コ入",
+      "each": false,
+      "price_excl": 898,
+      "price_incl": 969.84,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.2,
+        0.84,
+        0.08,
+        0.09
+      ],
+      "price": 969.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "海鮮を味わう具だくさん太巻4巻",
+      "maker": null,
+      "size": "1パック",
+      "each": false,
+      "price_excl": 590,
+      "price_incl": 637.2,
+      "frozen": false,
+      "note": "お総菜。29日・30日限り",
+      "bbox": [
+        0.2,
+        0.36,
+        0.09,
+        0.09
+      ],
+      "price": 637.2,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
       "name": "深煎りごまドレッシング",
       "maker": "キューピー",
       "size": "180ml",
@@ -5653,6 +7787,52 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "炙り金時",
+      "maker": "徳島(栗尾商店)",
+      "size": "180g",
+      "each": false,
+      "price_excl": 650,
+      "price_incl": 702.0,
+      "frozen": false,
+      "note": "諸国うまいもの祭り。29日・30日限り。数に限りがございますので、品切れの際はご容赦願います。",
+      "bbox": [
+        0.3,
+        0.16,
+        0.06,
+        0.08
+      ],
+      "price": 702.0,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "焼肉チャンピオン 黒毛和牛焼肉弁当",
+      "maker": "東京(恵比寿・焼肉チャンピオン)",
+      "size": "1食",
+      "each": false,
+      "price_excl": 1250,
+      "price_incl": 1350.0,
+      "frozen": false,
+      "note": "諸国うまいもの祭り。29日・30日限り。数に限りがございますので、品切れの際はご容赦願います。",
+      "bbox": [
+        0.01,
+        0.1,
+        0.09,
+        0.1
+      ],
+      "price": 1350.0,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
       "name": "牛乳と卵のカスタード&ホイップシュー",
       "maker": "モンテール",
       "size": "1個",
@@ -5697,6 +7877,144 @@
       "period_text": "8月のくらし応援月間特価/ボーナスポイントセール",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
+    },
+    {
+      "name": "特製肉まん",
+      "maker": "江戸清",
+      "size": "2コ入",
+      "each": false,
+      "price_excl": 598,
+      "price_incl": 645.84,
+      "frozen": false,
+      "note": "飲茶フェア。写真はイメージです",
+      "bbox": [
+        0.2,
+        0.75,
+        0.08,
+        0.09
+      ],
+      "price": 645.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "甘熟王バナナ",
+      "maker": "フィリピン産",
+      "size": "1袋",
+      "each": false,
+      "price_excl": 198,
+      "price_incl": 213.84,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.23,
+        0.3,
+        0.1,
+        0.1
+      ],
+      "price": 213.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "生鮮魚",
+      "maker": null,
+      "size": "1パック",
+      "each": true,
+      "price_excl": 500,
+      "price_incl": 540.0,
+      "frozen": false,
+      "note": "均一価格。天候・水揚げ等の理由により入荷がない場合はご容赦願います。写真はイメージです。31日限り",
+      "bbox": [
+        0.38,
+        0.93,
+        0.11,
+        0.06
+      ],
+      "price": 540.0,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "石窯工房 シャウエッセンピザ",
+      "maker": "日本ハム",
+      "size": "1枚",
+      "each": true,
+      "price_excl": 198,
+      "price_incl": 213.84,
+      "frozen": false,
+      "note": "8月31日(月)までこの価格で販売します",
+      "bbox": [
+        0.72,
+        0.07,
+        0.1,
+        0.14
+      ],
+      "price": 213.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "石窯工房 マルゲリータ",
+      "maker": "日本ハム",
+      "size": "1枚",
+      "each": true,
+      "price_excl": 198,
+      "price_incl": 213.84,
+      "frozen": false,
+      "note": "8月31日(月)までこの価格で販売します",
+      "bbox": [
+        0.72,
+        0.07,
+        0.1,
+        0.14
+      ],
+      "price": 213.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "竹輪のおつまみ磯辺揚げ(大)",
+      "maker": null,
+      "size": "1パック",
+      "each": true,
+      "price_excl": 395,
+      "price_incl": 426.6,
+      "frozen": false,
+      "note": "お総菜おかず各種よりどりセール。よりどり2パック750円(税込810.00円)、よりどり3パック1,100円(税込1,188.00円)",
+      "bbox": [
+        0.22,
+        0.56,
+        0.09,
+        0.09
+      ],
+      "price": 426.6,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
     },
     {
       "name": "純粋アカシアはちみつ",
@@ -5768,6 +8086,29 @@
       "image": "pages/summit/7955706837627/7911196789464_p1.jpg"
     },
     {
+      "name": "綾鷹",
+      "maker": null,
+      "size": "2L",
+      "each": true,
+      "price_excl": 148,
+      "price_incl": 159.84,
+      "frozen": false,
+      "note": "ケースで買うと2L×6 798円(税込861.84円)。各1家族様3ケース(18本)限り",
+      "bbox": [
+        0.6,
+        0.07,
+        0.09,
+        0.14
+      ],
+      "price": 159.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
       "name": "緑茶伊右衛門",
       "maker": "サントリー",
       "size": "600ml",
@@ -5812,6 +8153,29 @@
       "period_text": "8月のくらし応援月間特価",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/4012696789460_p1.jpg"
+    },
+    {
+      "name": "若どりむね肉",
+      "maker": "国内産",
+      "size": "100g",
+      "each": false,
+      "price_excl": 79,
+      "price_incl": 85.32,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.31,
+        0.55,
+        0.08,
+        0.09
+      ],
+      "price": 85.32,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
     },
     {
       "name": "蒟蒻畑 ぶどう味",
@@ -5860,6 +8224,29 @@
       "image": "pages/summit/7955706837627/7911196789464_p1.jpg"
     },
     {
+      "name": "角瓶40°",
+      "maker": "サントリー",
+      "size": "700ml",
+      "each": false,
+      "price_excl": 1498,
+      "price_incl": 1647.8,
+      "frozen": false,
+      "note": "税率10%対象",
+      "bbox": [
+        0.54,
+        0.72,
+        0.06,
+        0.09
+      ],
+      "price": 1647.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
       "name": "豚こま切れ",
       "maker": "アメリカ産",
       "size": "100g",
@@ -5906,6 +8293,144 @@
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
     },
     {
+      "name": "豚ももこま切れ",
+      "maker": "国内産",
+      "size": "100g",
+      "each": false,
+      "price_excl": 128,
+      "price_incl": 138.24,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.39,
+        0.46,
+        0.08,
+        0.09
+      ],
+      "price": 138.24,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "豚ロースの生姜焼重",
+      "maker": null,
+      "size": "1パック",
+      "each": true,
+      "price_excl": 550,
+      "price_incl": 594.0,
+      "frozen": false,
+      "note": "お総菜。29日・30日限り",
+      "bbox": [
+        0.2,
+        0.46,
+        0.09,
+        0.09
+      ],
+      "price": 594.0,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "酸化防止剤無添加のおいしいワイン赤",
+      "maker": "サントリー",
+      "size": "1.8L",
+      "each": false,
+      "price_excl": 788,
+      "price_incl": 866.8,
+      "frozen": false,
+      "note": "通常928円(税込1,020.80円)の15%引。一例。税率10%対象",
+      "bbox": [
+        0.38,
+        0.75,
+        0.09,
+        0.09
+      ],
+      "price": 866.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "金麦",
+      "maker": "サントリー",
+      "size": "350ml×6缶",
+      "each": false,
+      "price_excl": 768,
+      "price_incl": 844.8,
+      "frozen": false,
+      "note": "税率10%対象",
+      "bbox": [
+        0.36,
+        0.86,
+        0.06,
+        0.06
+      ],
+      "price": 844.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "金麦",
+      "maker": "サントリー",
+      "size": "500ml×6缶",
+      "each": false,
+      "price_excl": 1098,
+      "price_incl": 1207.8,
+      "frozen": false,
+      "note": "税率10%対象",
+      "bbox": [
+        0.36,
+        0.92,
+        0.06,
+        0.06
+      ],
+      "price": 1207.8,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
+      "name": "金麦",
+      "maker": "サントリー",
+      "size": "350ml×24缶",
+      "each": false,
+      "price_excl": 3070,
+      "price_incl": 3377.0,
+      "frozen": false,
+      "note": "税率10%対象",
+      "bbox": [
+        0.42,
+        0.92,
+        0.06,
+        0.06
+      ],
+      "price": 3377.0,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg"
+    },
+    {
       "name": "韓国味付けのり お徳用",
       "maker": "大同",
       "size": "12個入",
@@ -5950,6 +8475,75 @@
       "period_text": "8月のくらし応援月間特価/ボーナスポイントセール",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
+    },
+    {
+      "name": "骨とりサーモンのバター醤油",
+      "maker": null,
+      "size": "1パック",
+      "each": true,
+      "price_excl": 498,
+      "price_incl": 537.84,
+      "frozen": false,
+      "note": "フライパンで約10分調理するだけ。深沢不動前店・笹塚店では取り扱っておりません",
+      "bbox": [
+        0.14,
+        0.55,
+        0.16,
+        0.1
+      ],
+      "price": 537.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "骨とり白身魚のハニーマスタード",
+      "maker": null,
+      "size": "1パック",
+      "each": true,
+      "price_excl": 498,
+      "price_incl": 537.84,
+      "frozen": false,
+      "note": "フライパンで約10分調理するだけ。深沢不動前店・笹塚店では取り扱っておりません",
+      "bbox": [
+        0.14,
+        0.55,
+        0.16,
+        0.1
+      ],
+      "price": 537.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
+    },
+    {
+      "name": "骨とり赤魚のアクアパッツァ",
+      "maker": null,
+      "size": "1パック",
+      "each": true,
+      "price_excl": 498,
+      "price_incl": 537.84,
+      "frozen": false,
+      "note": "フライパンで約10分調理するだけ。深沢不動前店・笹塚店では取り扱っておりません",
+      "bbox": [
+        0.14,
+        0.55,
+        0.16,
+        0.1
+      ],
+      "price": 537.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
     },
     {
       "name": "麦焼酎 博多の華パック",
@@ -6019,6 +8613,29 @@
       "period_text": "8月のくらし応援月間特価/ボーナスポイントセール",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/7911196789464_p1.jpg"
+    },
+    {
+      "name": "黒毛和牛切りおとし",
+      "maker": "国内産",
+      "size": "100g",
+      "each": false,
+      "price_excl": 498,
+      "price_incl": 537.84,
+      "frozen": false,
+      "note": null,
+      "bbox": [
+        0.31,
+        0.46,
+        0.08,
+        0.09
+      ],
+      "price": 537.84,
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg"
     }
   ],
   "sources": [
@@ -6269,12 +8886,39 @@
       "store": "summit",
       "store_label": "サミット 練馬春日町店",
       "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p1.jpg",
+      "extracted_at": "2026-08-29T16:30:00+09:00"
+    },
+    {
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+      "period_text": "8月29日(土)〜31日(月)",
+      "period_end": "2026-08-31",
+      "image": "pages/summit/8469916840775/8469916840775_p2.jpg",
+      "extracted_at": "2026-08-29T16:30:00+09:00"
+    },
+    {
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
       "period_text": "8月 ポイント倍率アップセール/割引セール カレンダー",
       "period_end": "2026-08-31",
       "image": "pages/summit/8469916840775/8624896789452_p1.jpg",
       "extracted_at": "2026-08-28T21:50:00+09:00"
     }
   ],
-  "warnings": [],
+  "warnings": [
+    {
+      "store": "summit",
+      "page": "pages/summit/8469916840775/8469916840775_p1.jpg",
+      "item": "かたロース肉・かた肉各種(かたロース焼肉用、かたロースステーキ用、かた焼肉用、かたしゃぶしゃぶ用等)",
+      "problems": [
+        "価格が無い"
+      ]
+    }
+  ],
   "expired_hidden": 312
 }
