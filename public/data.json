@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-29T15:47:18.775079+09:00",
-  "generated_at_label": "2026-08-29 15:47",
+  "generated_at": "2026-08-29T15:53:22.365706+09:00",
+  "generated_at_label": "2026-08-29 15:53",
   "base_store": {
     "id": "gyomu",
     "label": "業務スーパー 練馬駅前店",
-    "filled": 5,
+    "filled": 7,
     "total": 12
   },
   "trips": [
@@ -91,7 +91,16 @@
       "label": "にんじん",
       "basis": "per_piece",
       "basis_label": "1個あたり",
-      "base": null,
+      "base": {
+        "price": 158.76,
+        "size": "2本",
+        "unit_price": 79.38,
+        "units": 2.0,
+        "kind": "通常価格",
+        "name": null,
+        "period_text": null,
+        "updated_at": "2026-08-26"
+      },
       "candidates": []
     },
     {
