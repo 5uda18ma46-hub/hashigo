@@ -191,7 +191,46 @@ fetch('public/data.json?' + Date.now())
       毎朝6時の解析がまだ動いていないか、通信に失敗しています。(${esc(String(e))})</div>`;
   });
 
-function render(){ stamp(); home(); deals(); base(); foot(); }
+function render(){ relive(); stamp(); home(); deals(); base(); foot(); }
+
+/* 「今日有効か」を、データを作った日ではなくアプリを開いた日で判定し直す。
+   データの再生成は朝6時とチラシ更新時なので、夜中0時〜朝6時に開くと
+   前日の判定のまま「17日限り」が「明日以降」に見え続ける。 */
+const WEEK = '日月火水木金土';
+function localToday(){
+  const d = new Date();
+  return new Date(d.getTime() - d.getTimezoneOffset() * 60000).toISOString().slice(0, 10);
+}
+function md(iso){
+  const [y, m, d] = iso.split('-').map(Number);
+  return `${d}日(${WEEK[new Date(y, m - 1, d).getDay()]})`;
+}
+function daysBetween(a, b){
+  const p = s => { const [y, m, d] = s.split('-').map(Number); return new Date(y, m - 1, d); };
+  return Math.round((p(b) - p(a)) / 86400000);
+}
+function relive(){
+  const T = localToday();
+  DATA.deals = DATA.deals.map(d => {
+    let st;
+    if (d.valid_days && d.valid_days.length) {
+      st = d.valid_days.includes(T) ? 'today' : (d.valid_days.some(x => x > T) ? 'upcoming' : 'expired');
+    } else if (d.valid_to && d.valid_to < T) st = 'expired';
+    else if (d.valid_from && d.valid_from > T) st = 'upcoming';
+    else st = 'today';
+
+    let label = '';
+    if (d.valid_days && d.valid_days.length) label = d.valid_days.map(md).join('・') + '限り';
+    else if (st === 'upcoming') {
+      label = d.valid_from && d.valid_to && d.valid_from === d.valid_to ? `${md(d.valid_from)}限り`
+            : d.valid_from && d.valid_to ? `${md(d.valid_from)}〜${md(d.valid_to)}`
+            : `${md(d.valid_from)}から`;
+    } else if (d.valid_to === T) label = '今日限り';
+    else if (d.valid_to && daysBetween(T, d.valid_to) <= 3) label = `${md(d.valid_to)}まで`;
+
+    return {...d, status: st, date_label: label};
+  }).filter(d => d.status !== 'expired');
+}
 
 function stamp(){
   $('#stamp').textContent = DATA.generated_at_label + ' 時点';
