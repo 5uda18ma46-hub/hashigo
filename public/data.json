@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T21:20:20.571972+09:00",
-  "generated_at_label": "2026-09-16 21:20",
+  "generated_at": "2026-09-16T21:34:59.534556+09:00",
+  "generated_at_label": "2026-09-16 21:34",
   "base_store": {
     "id": "gyomu",
     "label": "業務スーパー 練馬駅前店",
@@ -118,6 +118,7 @@
     {
       "id": "chicken_breast",
       "label": "とり胸肉",
+      "category": "肉",
       "basis": "per_100g",
       "basis_label": "100gあたり",
       "base": {
@@ -156,6 +157,7 @@
     {
       "id": "carrot",
       "label": "にんじん",
+      "category": "野菜・果物",
       "basis": "per_piece",
       "basis_label": "1個あたり",
       "base": {
@@ -173,6 +175,7 @@
     {
       "id": "egg",
       "label": "卵",
+      "category": "卵・乳製品・大豆製品",
       "basis": "per_piece",
       "basis_label": "1個あたり",
       "base": {
@@ -190,6 +193,7 @@
     {
       "id": "onion",
       "label": "たまねぎ",
+      "category": "野菜・果物",
       "basis": "per_piece",
       "basis_label": "1個あたり",
       "base": null,
@@ -219,6 +223,7 @@
     {
       "id": "natto",
       "label": "納豆",
+      "category": "卵・乳製品・大豆製品",
       "basis": "per_pack",
       "basis_label": "1袋あたり",
       "base": {
@@ -257,6 +262,7 @@
     {
       "id": "mozuku",
       "label": "もずく",
+      "category": "魚",
       "basis": "per_pack",
       "basis_label": "1袋あたり",
       "base": {
@@ -295,6 +301,7 @@
     {
       "id": "yogurt",
       "label": "ヨーグルト",
+      "category": "卵・乳製品・大豆製品",
       "basis": "per_100g",
       "basis_label": "100gあたり",
       "base": null,
@@ -404,6 +411,7 @@
     {
       "id": "milk",
       "label": "牛乳",
+      "category": "卵・乳製品・大豆製品",
       "basis": "per_1000ml",
       "basis_label": "1Lあたり",
       "base": null,
@@ -433,6 +441,7 @@
     {
       "id": "frozen_broccoli",
       "label": "冷凍ブロッコリー",
+      "category": "冷凍食品",
       "basis": "per_100g",
       "basis_label": "100gあたり",
       "base": null,
@@ -441,6 +450,7 @@
     {
       "id": "frozen_blueberry",
       "label": "冷凍ブルーベリー",
+      "category": "冷凍食品",
       "basis": "per_100g",
       "basis_label": "100gあたり",
       "base": null,
@@ -449,6 +459,7 @@
     {
       "id": "bean_sprouts",
       "label": "もやし",
+      "category": "野菜・果物",
       "basis": "per_pack",
       "basis_label": "1袋あたり",
       "base": {
@@ -466,6 +477,7 @@
     {
       "id": "roast_ham",
       "label": "ロースハム",
+      "category": "肉",
       "basis": "per_100g",
       "basis_label": "100gあたり",
       "base": {
