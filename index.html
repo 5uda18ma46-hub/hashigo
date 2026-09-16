@@ -103,6 +103,22 @@ section[hidden]{display:none}
 .chip.cold{background:#dbeafe;color:#1e40af}
 @media (prefers-color-scheme:dark){.chip.cold{background:#17263f;color:#93b8f0}}
 .deal a{color:var(--accent)}
+/* カテゴリは横にスクロールするチップ。11個あるので折り返すと場所を取りすぎる */
+.cats{display:flex;gap:6px;overflow-x:auto;padding:2px 0 10px;margin:0 -16px 4px;padding-left:16px;padding-right:16px;
+  scrollbar-width:none;-webkit-overflow-scrolling:touch}
+.cats::-webkit-scrollbar{display:none}
+.cat{flex:0 0 auto;border:1px solid var(--line);background:var(--card);color:var(--ink);
+  border-radius:99px;padding:6px 12px;font:inherit;font-size:13px;white-space:nowrap;cursor:pointer}
+.cat small{color:var(--sub);margin-left:4px;font-variant-numeric:tabular-nums}
+.cat[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.cat[aria-pressed="true"] small{color:rgba(255,255,255,.8)}
+.cat:disabled{opacity:.4;cursor:default}
+.chip.lastday{background:var(--warn-soft);color:var(--warn)}
+.chip.soon{background:#ede9fe;color:#5b21b6}
+@media (prefers-color-scheme:dark){.chip.soon{background:#2a2346;color:#c4b5fd}}
+.group{font-size:13px;font-weight:700;margin:18px 0 8px;display:flex;align-items:baseline;gap:8px}
+.group small{font-weight:400;color:var(--sub)}
+.deal.soon{border-style:dashed}
 
 /* --- 基準価格 --- */
 .baseform{padding:14px}
@@ -262,6 +278,9 @@ function shortStore(label){
 /* ---------------- お得な商品 ---------------- */
 function deals(){
   const stores = [...new Set(DATA.deals.map(d => d.store_label))];
+  const cats = (DATA.categories || []).map(c => c.name);
+  let cat = '';
+
   $('#p-deals').innerHTML = `
     <div class="tools">
       <input id="q" type="search" placeholder="商品名で絞り込む" autocomplete="off">
@@ -275,27 +294,17 @@ function deals(){
         </select>
       </div>
     </div>
+    <div class="cats" id="cats" role="group" aria-label="カテゴリ"></div>
     <p class="count" id="cnt"></p>
     <div id="list"></div>`;
 
-  const draw = () => {
-    const q = $('#q').value.trim().toLowerCase();
-    const st = $('#st').value;
-    let rows = DATA.deals.filter(d =>
-      (!st || d.store_label === st) &&
-      (!q || (d.name + ' ' + (d.maker || '')).toLowerCase().includes(q)));
-
-    const by = $('#sort').value;
-    rows = [...rows].sort((a, b) =>
-      by === 'price' ? a.price - b.price :
-      by === 'name'  ? a.name.localeCompare(b.name, 'ja') :
-                       a.store_label.localeCompare(b.store_label, 'ja') || a.price - b.price);
-
-    const gone = DATA.expired_hidden || 0;
-    $('#cnt').textContent = `${rows.length}件 / 全${DATA.deals.length}件`
-      + (gone ? `（掲載終了の${gone}件は除いています）` : '');
-    $('#list').innerHTML = rows.map(d => `
-      <div class="card deal">
+  const card = d => {
+    const soon = d.status === 'upcoming';
+    const dl = d.date_label
+      ? `<span class="chip ${soon ? 'soon' : (d.date_label === '今日限り' ? 'lastday' : '')}">${esc(d.date_label)}</span>`
+      : '';
+    return `
+      <div class="card deal ${soon ? 'soon' : ''}">
         <div class="top">
           <div class="nm">${esc(d.name)}
             <div class="mk">${[d.maker, d.size].filter(Boolean).map(esc).join(' / ') || '&nbsp;'}</div>
@@ -306,15 +315,57 @@ function deals(){
           </div>
         </div>
         <div class="meta">
+          ${dl}
           <span>${esc(d.store_label)}</span>
           ${d.each ? '<span class="chip">各</span>' : ''}
           ${d.frozen ? '<span class="chip cold">冷凍</span>' : ''}
-          ${d.period_text ? `<span>${esc(d.period_text)}</span>` : ''}
           ${d.note ? `<span>${esc(d.note)}</span>` : ''}
           <a href="${esc(d.source_url)}" target="_blank" rel="noopener">元チラシ ↗</a>
         </div>
-      </div>`).join('') || `<p class="count">該当なし</p>`;
+      </div>`;
   };
+
+  const draw = () => {
+    const q = $('#q').value.trim().toLowerCase();
+    const st = $('#st').value;
+    // 店と検索語で絞った集合。カテゴリの件数はこれを基準に数える
+    const base = DATA.deals.filter(d =>
+      (!st || d.store_label === st) &&
+      (!q || (d.name + ' ' + (d.maker || '')).toLowerCase().includes(q)));
+
+    const count = c => base.filter(d => d.category === c).length;
+    $('#cats').innerHTML =
+      `<button class="cat" data-c="" aria-pressed="${cat === ''}">すべて<small>${base.length}</small></button>` +
+      cats.map(c => {
+        const n = count(c);
+        if (!n && c === 'その他') return '';
+        return `<button class="cat" data-c="${esc(c)}" aria-pressed="${cat === c}" ${n ? '' : 'disabled'}>${esc(c)}<small>${n}</small></button>`;
+      }).join('');
+    $('#cats').querySelectorAll('.cat').forEach(b => b.onclick = () => { cat = b.dataset.c; draw(); });
+
+    const by = $('#sort').value;
+    const order = (a, b) =>
+      by === 'price' ? a.price - b.price :
+      by === 'name'  ? a.name.localeCompare(b.name, 'ja') :
+                       a.store_label.localeCompare(b.store_label, 'ja') || a.price - b.price;
+
+    const rows = base.filter(d => !cat || d.category === cat);
+    const today = rows.filter(d => d.status !== 'upcoming').sort(order);
+    // 明日以降の品は、まず日付が早い順。同じ日の中で選んだ並び順を使う
+    const soon = rows.filter(d => d.status === 'upcoming')
+      .sort((a, b) => (a.valid_from || '').localeCompare(b.valid_from || '') || order(a, b));
+
+    const gone = DATA.expired_hidden || 0;
+    $('#cnt').textContent = `${rows.length}件` + (gone ? `（特売が終わった${gone}件は除いています）` : '');
+
+    let html = today.map(card).join('');
+    if (soon.length) {
+      html += `<div class="group">明日以降の特売<small>${soon.length}件 · 今日はまだこの値段ではありません</small></div>`
+            + soon.map(card).join('');
+    }
+    $('#list').innerHTML = html || `<p class="count">該当なし</p>`;
+  };
+
   ['q', 'st', 'sort'].forEach(id => { $('#' + id).oninput = draw; });
   draw();
 }
