@@ -1,4 +1,4 @@
 {
-  "version": "2026-09-19.3",
+  "version": "2026-09-19.4",
   "_comment": "index.html の APP_VERSION と必ず同じ値にする。bump_version.py が両方を書き換える。"
 }

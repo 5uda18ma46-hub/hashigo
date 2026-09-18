@@ -21,6 +21,9 @@
   }
 }
 *{box-sizing:border-box}
+/* display を自前で指定した要素では、ブラウザ既定の [hidden]{display:none} が
+   上書きされて hidden が効かなくなる。更新バーが出っぱなしになる不具合を出した。 */
+[hidden]{display:none !important}
 body{
   margin:0;background:var(--bg);color:var(--ink);
   font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP",sans-serif;
@@ -187,7 +190,7 @@ button.ghost{border:1px solid var(--line);background:var(--card);color:var(--ink
    version.json と見比べて新しい版があれば知らせる。
    **index.html を直したら bump_version.py を走らせること。**
    ここと version.json がずれると、更新の知らせが出っぱなしになる。 */
-const APP_VERSION = '2026-09-19.3';
+const APP_VERSION = '2026-09-19.4';
 let LATEST = null;
 
 const TRY_KEY = 'hashigo_update_try';
