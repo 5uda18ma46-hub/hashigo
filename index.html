@@ -81,6 +81,9 @@ section[hidden]{display:none}
 .watch .arrow{color:var(--sub);flex:0 0 auto;font-size:11px}
 .watch .none{color:var(--flat);font-weight:400}
 .watch .best .val{color:var(--accent)}
+.watch .side a,.buys a{color:var(--accent);font-size:11px;text-decoration:none;white-space:nowrap}
+.watch .side a:hover,.buys a:hover{text-decoration:underline}
+.buys .what a{display:inline-block;margin-top:2px}
 /* 区切り線は直前の商品の下線に任せる。見出し側にも線を引くと二重になる */
 .watch li.subhead{padding:14px 12px 2px;font-size:11.5px;font-weight:700;color:var(--sub);
   letter-spacing:.04em;border-bottom:0}
@@ -145,9 +148,22 @@ pre.out{
 }
 .hint{font-size:12.5px;color:var(--sub);margin:10px 0 0}
 footer{padding:20px 16px 40px;text-align:center;font-size:11.5px;color:var(--sub)}
+footer .ver{margin-top:10px;display:flex;justify-content:center;align-items:center;gap:10px;flex-wrap:wrap}
+button.ghost{border:1px solid var(--line);background:var(--card);color:var(--ink);
+  border-radius:8px;padding:7px 14px;font:inherit;font-size:12.5px;cursor:pointer}
+#update{position:sticky;top:0;z-index:20;background:var(--accent);color:#fff;
+  padding:calc(env(safe-area-inset-top) + 10px) 16px 10px;display:flex;gap:12px;
+  align-items:center;justify-content:center;font-size:13px;font-weight:600;flex-wrap:wrap}
+#update button{border:0;background:#fff;color:var(--accent);border-radius:8px;
+  padding:6px 14px;font:inherit;font-size:12.5px;font-weight:700;cursor:pointer}
 </style>
 </head>
 <body>
+
+<div id="update" hidden>
+  <span>新しいバージョンがあります</span>
+  <button type="button" onclick="hardReload()">更新する</button>
+</div>
 
 <header>
   <div class="brand"><h1>Hashigo</h1><span class="stamp" id="stamp"></span></div>
@@ -167,6 +183,33 @@ footer{padding:20px 16px 40px;text-align:center;font-size:11.5px;color:var(--sub
 <footer id="foot"></footer>
 
 <script>
+/* アプリを直してもスマホが古い画面を持ち続けることがあるので、
+   version.json と見比べて新しい版があれば知らせる。
+   **index.html を直したら bump_version.py を走らせること。**
+   ここと version.json がずれると、更新の知らせが出っぱなしになる。 */
+const APP_VERSION = '2026-09-19.2';
+
+function hardReload(){
+  // 同じURLだとキャッシュから返ってくることがあるので、毎回違うURLにして取り直す
+  const u = new URL(location.href);
+  u.searchParams.set('v', Date.now());
+  location.replace(u.toString());
+}
+
+async function checkVersion(quiet){
+  try {
+    const r = await fetch('version.json?ts=' + Date.now(), {cache: 'no-store'});
+    if (!r.ok) throw new Error(r.status);
+    const latest = (await r.json()).version;
+    const stale = latest && latest !== APP_VERSION;
+    $('#update').hidden = !stale;
+    return {stale, latest};
+  } catch (e) {
+    if (!quiet) alert('更新を確認できませんでした。通信を確かめてください。');
+    return {stale: false, latest: null};
+  }
+}
+
 const $ = s => document.querySelector(s);
 const yen = n => n == null ? '—' : Math.round(n).toLocaleString('ja-JP');
 const yen1 = n => n == null ? '—' : (Math.round(n * 10) / 10).toLocaleString('ja-JP');
@@ -188,11 +231,16 @@ document.querySelectorAll('nav button').forEach(btn => {
 
 fetch('public/data.json?' + Date.now())
   .then(r => r.ok ? r.json() : Promise.reject(r.status))
-  .then(d => { DATA = d; render(); })
+  .then(d => { DATA = d; render(); checkVersion(true); })
   .catch(e => {
     $('#p-home').innerHTML = `<div class="notice"><b>データを読み込めませんでした。</b><br>
       毎朝6時の解析がまだ動いていないか、通信に失敗しています。(${esc(String(e))})</div>`;
   });
+
+document.addEventListener('visibilitychange', () => {
+  // ホーム画面から開き直したときに、日付とバージョンを見直す
+  if (!document.hidden && DATA) { relive(); render(); checkVersion(true); }
+});
 
 function render(){ relive(); stamp(); home(); deals(); base(); foot(); }
 
@@ -265,6 +313,7 @@ function home(){
             <span class="what">
               <span class="tag">${esc(b.label)}</span>
               <span class="detail">${esc(b.name)}${b.size ? ' / ' + esc(b.size) : ''} ${yen1(b.price)}円</span>
+              ${b.source_url ? `<a href="${esc(b.source_url)}" target="_blank" rel="noopener">元チラシ ↗</a>` : ''}
             </span>
             <span class="save">+${yen(b.saving)}円</span>
           </li>`).join('') + `</ul></div>`;
@@ -301,12 +350,14 @@ function home(){
 
     const baseSide = b && b.unit_price != null
       ? `<span class="who">業務スーパー ${esc(b.kind)}</span>
-         <span class="val">${yen1(b.unit_price)}円</span>`
+         <span class="val">${yen1(b.unit_price)}円</span>
+         ${b.source_url ? ` <a href="${esc(b.source_url)}" target="_blank" rel="noopener">チラシ ↗</a>` : ''}`
       : `<span class="who">業務スーパー</span><span class="val none">未登録</span>`;
 
     const otherSide = c
       ? `<span class="who">${esc(shortStore(c.store_label))}</span>
-         <span class="val">${yen1(c.unit_price)}円</span>`
+         <span class="val">${yen1(c.unit_price)}円</span>
+         ${c.source_url ? ` <a href="${esc(c.source_url)}" target="_blank" rel="noopener">チラシ ↗</a>` : ''}`
       : `<span class="who">他店</span><span class="val none">掲載なし</span>`;
 
     h += `<li>
@@ -472,7 +523,16 @@ function foot(){
     `<a href="${esc(s.source_url)}" target="_blank" rel="noopener">${esc(s.store_label)}</a>`);
   $('#foot').innerHTML = `出典: ${[...new Set(src)].join(' / ')}<br>
     価格は掲載時点のもので、店頭と異なる場合があります。<br>
-    商品${DATA.deals.length}件を掲載 · 個人利用のための非公開ページです`;
+    商品${DATA.deals.length}件を掲載 · 個人利用のための非公開ページです
+    <span class="ver">バージョン ${APP_VERSION}
+      <button type="button" class="ghost" id="chk">最新に更新</button>
+      <span id="chkmsg"></span></span>`;
+  $('#chk').onclick = async () => {
+    $('#chkmsg').textContent = '確認中…';
+    const {stale} = await checkVersion(false);
+    if (stale) hardReload();
+    else { $('#chkmsg').textContent = '最新です'; setTimeout(() => $('#chkmsg').textContent = '', 3000); }
+  };
 }
 </script>
 </body>

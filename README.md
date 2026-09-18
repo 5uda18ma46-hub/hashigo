@@ -11,5 +11,18 @@
 | `index.html` | アプリ本体。`public/data.json` を読んで表示するだけ |
 | `public/data.json` | 毎朝クラウドルーチンが更新する価格データ |
 | `robots.txt` | 検索避け |
+| `version.json` | アプリの版。`index.html` の `APP_VERSION` と必ず同じ値 |
+| `bump_version.py` | 上の2つを揃えて上げるスクリプト |
+
+## index.html を直したときは
+
+**コミット前に `python3 bump_version.py` を走らせること。**
+
+アプリはホーム画面に追加して使うので、こちらが直しても端末が古い画面を持ち続ける
+ことがある。アプリは起動時と画面に戻ったときに `version.json` を見て、自分の
+`APP_VERSION` と違えば上部に「新しいバージョンがあります」と出す。
+
+`APP_VERSION` と `version.json` がずれると、更新の知らせが消えなくなるか、
+逆に新しい版が出ても気づけなくなる。**手で書き換えず必ずスクリプトを通すこと。**
 
 データの作られ方は `hashigo-data` の README を参照。
