@@ -187,21 +187,47 @@ button.ghost{border:1px solid var(--line);background:var(--card);color:var(--ink
    version.json と見比べて新しい版があれば知らせる。
    **index.html を直したら bump_version.py を走らせること。**
    ここと version.json がずれると、更新の知らせが出っぱなしになる。 */
-const APP_VERSION = '2026-09-19.2';
+const APP_VERSION = '2026-09-19.3';
+let LATEST = null;
 
-function hardReload(){
-  // 同じURLだとキャッシュから返ってくることがあるので、毎回違うURLにして取り直す
+const TRY_KEY = 'hashigo_update_try';
+
+async function hardReload(){
+  // どの版へ更新しようとしたかを覚えておく。
+  // 取り直しても同じ版のままなら、端末がどうしても古い画面を離さない状態なので、
+  // 同じ知らせを出し続けずに別の案内に切り替える(以前は永久に出続けていた)。
+  try { localStorage.setItem(TRY_KEY, LATEST || ''); } catch (e) {}
+  // ページ自体をネットワークから取り直して、ブラウザが持っているキャッシュを入れ替える。
+  // URLを変えるだけでは、元のURLのキャッシュが残ったままのことがある。
+  try { await fetch(location.pathname, {cache: 'reload'}); } catch (e) {}
   const u = new URL(location.href);
   u.searchParams.set('v', Date.now());
   location.replace(u.toString());
 }
+
+function dismissUpdate(){ $('#update').hidden = true; }
 
 async function checkVersion(quiet){
   try {
     const r = await fetch('version.json?ts=' + Date.now(), {cache: 'no-store'});
     if (!r.ok) throw new Error(r.status);
     const latest = (await r.json()).version;
+    LATEST = latest;
     const stale = latest && latest !== APP_VERSION;
+
+    let tried = null;
+    try { tried = localStorage.getItem(TRY_KEY); } catch (e) {}
+    if (stale && tried === latest) {
+      // 更新を試したのに版が変わっていない = 端末が古い画面を保持している
+      $('#update').innerHTML = `<span>更新できませんでした。ブラウザで開き直してください</span>
+        <button type="button" onclick="dismissUpdate()">閉じる</button>`;
+    } else if (stale) {
+      $('#update').innerHTML = `<span>新しいバージョンがあります</span>
+        <button type="button" onclick="hardReload()">更新する</button>
+        <button type="button" onclick="dismissUpdate()" aria-label="閉じる">✕</button>`;
+    } else {
+      try { localStorage.removeItem(TRY_KEY); } catch (e) {}
+    }
     $('#update').hidden = !stale;
     return {stale, latest};
   } catch (e) {
