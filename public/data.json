@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T16:30:20.945973+09:00",
-  "generated_at_label": "2026-09-21 16:30",
+  "generated_at": "2026-09-22T06:02:06.759094+09:00",
+  "generated_at_label": "2026-09-22 06:02",
   "base_store": {
     "id": "gyomu",
     "label": "業務スーパー 練馬駅前店",
@@ -11,95 +11,29 @@
     {
       "store": "mirabelle",
       "store_label": "スーパーみらべる 練馬春日町店",
-      "worth_going": true,
-      "total_saving": 25,
-      "buys": [
-        {
-          "label": "にんじん",
-          "saving": 25,
-          "base_unit_price": 79.38,
-          "store": "mirabelle",
-          "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "人参",
-          "maker": "北海道産などの国内産",
-          "size": "1個",
-          "price": 54.0,
-          "unit_price": 54.0,
-          "units": 1.0,
-          "comparable": true,
-          "period_text": "9月19日(土)〜9月21日(月・祝)",
-          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.09.21/17-2_r1c2.jpg",
-          "bbox": [
-            0.7,
-            0.15,
-            0.14,
-            0.25
-          ]
-        }
-      ],
+      "worth_going": false,
+      "total_saving": 0,
+      "buys": [],
       "unknown": [
-        {
-          "label": "たまねぎ",
-          "store": "mirabelle",
-          "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "玉ねぎ",
-          "maker": "北海道産などの国内産",
-          "size": "1個",
-          "price": 54.0,
-          "unit_price": 54.0,
-          "units": 1.0,
-          "comparable": true,
-          "period_text": "9月19日(土)〜9月21日(月・祝)",
-          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.09.21/17-2_r1c2.jpg",
-          "bbox": [
-            0.28,
-            0.15,
-            0.14,
-            0.25
-          ]
-        },
         {
           "label": "ヨーグルト",
           "store": "mirabelle",
           "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "農協ヨーグルト",
-          "maker": "メイトー",
-          "size": "400g",
-          "price": 183.0,
-          "unit_price": 45.75,
-          "units": 4.0,
+          "name": "北海道釧路・根室ヨーグルト4P",
+          "maker": "タカナシ乳業",
+          "size": "80g×4",
+          "price": 161.0,
+          "unit_price": 50.31,
+          "units": 3.2,
           "comparable": true,
-          "period_text": "9/19(土)〜9/21(月祝)",
+          "period_text": "9月22日(火)〜9月25日(金)",
           "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.09.18/17-1_r2c2.jpg",
+          "image": "pages/mirabelle/2026.09.21/17-1_r2c2.jpg",
           "bbox": [
-            0.68,
-            0.32,
-            0.13,
-            0.24
-          ]
-        },
-        {
-          "label": "牛乳",
-          "store": "mirabelle",
-          "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "牧場牛乳",
-          "maker": "ジャパンミートオリジナル",
-          "size": "1000ml",
-          "price": 205.0,
-          "unit_price": 205.0,
-          "units": 1.0,
-          "comparable": true,
-          "period_text": "9/19(土)〜9/21(月祝)",
-          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.09.18/17-1_r1c2.jpg",
-          "bbox": [
-            0.58,
-            0.68,
-            0.14,
-            0.22
+            0.15,
+            0.6,
+            0.1,
+            0.14
           ]
         }
       ]
@@ -175,26 +109,6 @@
       },
       "candidates": [
         {
-          "store": "mirabelle",
-          "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "若鶏ムネ肉",
-          "maker": "国内産(一部解凍品を含む)",
-          "size": "3枚(100g当り)",
-          "price": 75.0,
-          "unit_price": 75.0,
-          "units": 1.0,
-          "comparable": true,
-          "period_text": "9/19(土)〜9/21(月祝)",
-          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.09.18/17-1_r2c1.jpg",
-          "bbox": [
-            0.85,
-            0.08,
-            0.15,
-            0.16
-          ]
-        },
-        {
           "store": "summit",
           "store_label": "サミット 練馬春日町店",
           "name": "若どりむね肉",
@@ -238,19 +152,19 @@
           "store_label": "スーパーみらべる 練馬春日町店",
           "name": "人参",
           "maker": "北海道産などの国内産",
-          "size": "1個",
-          "price": 54.0,
-          "unit_price": 54.0,
-          "units": 1.0,
-          "comparable": true,
-          "period_text": "9月19日(土)〜9月21日(月・祝)",
+          "size": "1袋",
+          "price": 106.0,
+          "unit_price": null,
+          "units": null,
+          "comparable": false,
+          "period_text": "9月22日(火)〜9月25日(金)",
           "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.09.21/17-2_r1c2.jpg",
+          "image": "pages/mirabelle/2026.09.21/17-1_r1c1.jpg",
           "bbox": [
-            0.7,
-            0.15,
+            0.03,
+            0.68,
             0.14,
-            0.25
+            0.12
           ]
         }
       ]
@@ -280,28 +194,7 @@
       "basis": "per_piece",
       "basis_label": "1個あたり",
       "base": null,
-      "candidates": [
-        {
-          "store": "mirabelle",
-          "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "玉ねぎ",
-          "maker": "北海道産などの国内産",
-          "size": "1個",
-          "price": 54.0,
-          "unit_price": 54.0,
-          "units": 1.0,
-          "comparable": true,
-          "period_text": "9月19日(土)〜9月21日(月・祝)",
-          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.09.21/17-2_r1c2.jpg",
-          "bbox": [
-            0.28,
-            0.15,
-            0.14,
-            0.25
-          ]
-        }
-      ]
+      "candidates": []
     },
     {
       "id": "natto",
@@ -337,28 +230,7 @@
         "period_text": null,
         "updated_at": "2026-08-27"
       },
-      "candidates": [
-        {
-          "store": "mirabelle",
-          "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "味付けもずく巾着4P",
-          "maker": "宮間水産",
-          "size": "各50g×4",
-          "price": 129.0,
-          "unit_price": null,
-          "units": null,
-          "comparable": false,
-          "period_text": "9月19日(土)〜9月21日(月・祝)",
-          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.09.21/17-2_r2c1.jpg",
-          "bbox": [
-            0.32,
-            0.4,
-            0.14,
-            0.15
-          ]
-        }
-      ]
+      "candidates": []
     },
     {
       "id": "yogurt",
@@ -431,41 +303,21 @@
         {
           "store": "mirabelle",
           "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "農協ヨーグルト",
-          "maker": "メイトー",
-          "size": "400g",
-          "price": 183.0,
-          "unit_price": 45.75,
-          "units": 4.0,
-          "comparable": true,
-          "period_text": "9/19(土)〜9/21(月祝)",
-          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.09.18/17-1_r2c2.jpg",
-          "bbox": [
-            0.68,
-            0.32,
-            0.13,
-            0.24
-          ]
-        },
-        {
-          "store": "mirabelle",
-          "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "北海道 釧路・根室ヨーグルト4P",
-          "maker": "高梨乳業",
+          "name": "北海道釧路・根室ヨーグルト4P",
+          "maker": "タカナシ乳業",
           "size": "80g×4",
           "price": 161.0,
           "unit_price": 50.31,
           "units": 3.2,
           "comparable": true,
-          "period_text": "9/19(土)〜9/21(月祝)",
+          "period_text": "9月22日(火)〜9月25日(金)",
           "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.09.18/17-1_r2c2.jpg",
+          "image": "pages/mirabelle/2026.09.21/17-1_r2c2.jpg",
           "bbox": [
-            0.16,
-            0.85,
-            0.12,
-            0.15
+            0.15,
+            0.6,
+            0.1,
+            0.14
           ]
         }
       ]
@@ -496,26 +348,6 @@
             0.55,
             0.08,
             0.3
-          ]
-        },
-        {
-          "store": "mirabelle",
-          "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "牧場牛乳",
-          "maker": "ジャパンミートオリジナル",
-          "size": "1000ml",
-          "price": 205.0,
-          "unit_price": 205.0,
-          "units": 1.0,
-          "comparable": true,
-          "period_text": "9/19(土)〜9/21(月祝)",
-          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.09.18/17-1_r1c2.jpg",
-          "bbox": [
-            0.58,
-            0.68,
-            0.14,
-            0.22
           ]
         },
         {
@@ -8684,7 +8516,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8746,7 +8578,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8777,7 +8609,7 @@
       "valid_days": null,
       "validity_source": "メモの日付",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8808,7 +8640,7 @@
       "valid_days": null,
       "validity_source": "メモの日付",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8839,7 +8671,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8870,7 +8702,7 @@
       "valid_days": null,
       "validity_source": "メモの日付",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8901,7 +8733,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8932,7 +8764,7 @@
       "valid_days": null,
       "validity_source": "メモの日付",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8963,7 +8795,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9056,7 +8888,7 @@
       "valid_days": null,
       "validity_source": "メモの日付",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9086,1432 +8918,6 @@
       "image": "pages/summit/6749886871716/9044636864888_p1_r2c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "22日(火)まで",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "5Pとろ〜りカスタードのプチシュー・5P生ショコラのプチシュー",
-      "maker": "オランジェ",
-      "size": "各5個入",
-      "each": false,
-      "price_excl": 89,
-      "price_incl": 97,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "お菓子・アイス",
-      "bbox": [
-        0.68,
-        0.25,
-        0.25,
-        0.15
-      ],
-      "price": 97.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "「もみ打ち」生冷し中華(醤油味・ごまだれ)",
-      "maker": "シマダヤ",
-      "size": "各120g×2",
-      "each": false,
-      "price_excl": 179,
-      "price_incl": 194,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "米・パン・麺",
-      "bbox": [
-        0.42,
-        0.32,
-        0.13,
-        0.24
-      ],
-      "price": 194.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "あきたこまち",
-      "maker": "秋田県産(令和7年産)",
-      "size": "5kg",
-      "each": true,
-      "price_excl": 2380,
-      "price_incl": 2571,
-      "frozen": false,
-      "note": "均一価格",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "米・パン・麺",
-      "bbox": [
-        0.03,
-        0.27,
-        0.24,
-        0.35
-      ],
-      "price": 2571.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "おだしがしみたきざみ揚げ",
-      "maker": "相模屋",
-      "size": "100g",
-      "each": false,
-      "price_excl": 149,
-      "price_incl": 161,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "卵・乳製品・大豆製品",
-      "bbox": [
-        0.86,
-        0.88,
-        0.12,
-        0.12
-      ],
-      "price": 161.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "お刺身盛合せ4点盛り(本まぐろ入)",
-      "maker": null,
-      "size": "1パック",
-      "each": false,
-      "price_excl": 980,
-      "price_incl": null,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "魚",
-      "bbox": [
-        0.55,
-        0.9,
-        0.18,
-        0.1
-      ],
-      "price": 1058.4,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "お刺身盛合せ4点盛り(本まぐろ入)",
-      "maker": null,
-      "size": "1パック",
-      "each": false,
-      "price_excl": 980,
-      "price_incl": 1059,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "魚",
-      "bbox": [
-        0.55,
-        0.0,
-        0.22,
-        0.18
-      ],
-      "price": 1059.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "お徳用とろけるスライスチーズ・お徳用スライスチーズ",
-      "maker": "ジャパンミートオリジナル",
-      "size": "各12枚入",
-      "each": false,
-      "price_excl": 259,
-      "price_incl": 280,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "卵・乳製品・大豆製品",
-      "bbox": [
-        0.3,
-        0.85,
-        0.14,
-        0.15
-      ],
-      "price": 280.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "お肉屋さんのハンバーグ",
-      "maker": "国内工場製造",
-      "size": "1袋",
-      "each": false,
-      "price_excl": 298,
-      "price_incl": 322,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "惣菜・弁当",
-      "bbox": [
-        0.28,
-        0.26,
-        0.24,
-        0.24
-      ],
-      "price": 322.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "さっくりメンチかつ",
-      "maker": null,
-      "size": "2枚入",
-      "each": false,
-      "price_excl": 148,
-      "price_incl": 160,
-      "frozen": false,
-      "note": "惣菜コーナー",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "惣菜・弁当",
-      "bbox": [
-        0.02,
-        0.58,
-        0.28,
-        0.22
-      ],
-      "price": 160.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "しぼりたて生しょうゆ",
-      "maker": "キッコーマン",
-      "size": "620ml",
-      "each": true,
-      "price_excl": 99,
-      "price_incl": 107,
-      "frozen": false,
-      "note": "お1人様よりどり2点限り",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "調味料・加工食品",
-      "bbox": [
-        0.55,
-        0.6,
-        0.14,
-        0.26
-      ],
-      "price": 107.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "すっきり潤い",
-      "maker": "コーシン乳業",
-      "size": "各900ml",
-      "each": false,
-      "price_excl": 69,
-      "price_incl": 75,
-      "frozen": false,
-      "note": "アップル・オレンジ",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "飲み物・お酒",
-      "bbox": [
-        0.5,
-        0.4,
-        0.14,
-        0.15
-      ],
-      "price": 75.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "てりやきバーガー・とろ〜りとしたチーズのハンバーガー",
-      "maker": "ヤマザキ",
-      "size": "各1個",
-      "each": false,
-      "price_excl": 89,
-      "price_incl": 97,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "米・パン・麺",
-      "bbox": [
-        0.81,
-        0.32,
-        0.19,
-        0.24
-      ],
-      "price": 97.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "ひとめぼれ",
-      "maker": "宮城県産(令和7年産)",
-      "size": "5kg",
-      "each": true,
-      "price_excl": 2380,
-      "price_incl": 2571,
-      "frozen": false,
-      "note": "均一価格",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "米・パン・麺",
-      "bbox": [
-        0.28,
-        0.27,
-        0.24,
-        0.35
-      ],
-      "price": 2571.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "まぐろ切落し",
-      "maker": "韓国産、台湾産他",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 333,
-      "price_incl": 360,
-      "frozen": false,
-      "note": "毎月第1・第3(土曜日)魚の日大特価セール",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "魚",
-      "bbox": [
-        0.85,
-        0.03,
-        0.15,
-        0.15
-      ],
-      "price": 360.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "アクエリアスペット",
-      "maker": "コカ・コーラ",
-      "size": "950ml",
-      "each": false,
-      "price_excl": 100,
-      "price_incl": 108,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "飲み物・お酒",
-      "bbox": [
-        0.28,
-        0.68,
-        0.13,
-        0.22
-      ],
-      "price": 108.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "ウィルキンソンタンサン・三ツ矢サイダー・カルピスウォーター",
-      "maker": "アサヒ飲料",
-      "size": "各500ml",
-      "each": false,
-      "price_excl": 79,
-      "price_incl": 86,
-      "frozen": false,
-      "note": "お1人様よりどり6点限り よりどり2本で税抜150円(税込162円)",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "飲み物・お酒",
-      "bbox": [
-        0.68,
-        0.68,
-        0.25,
-        0.15
-      ],
-      "price": 86.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "オクラ",
-      "maker": "鹿児島県産などの国内産",
-      "size": "1ネット",
-      "each": false,
-      "price_excl": 98,
-      "price_incl": 106,
-      "frozen": false,
-      "note": "夕市15:00〜17:30まで",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "野菜・果物",
-      "bbox": [
-        0.28,
-        0.05,
-        0.18,
-        0.32
-      ],
-      "price": 106.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "カントリーマアムバニラ&ココア・ホームパイ",
-      "maker": "不二家",
-      "size": "各1袋",
-      "each": false,
-      "price_excl": 199,
-      "price_incl": 215,
-      "frozen": false,
-      "note": "カントリーマアム18枚入・ホームパイ38枚入 お1人様よりどり2点限り",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "お菓子・アイス",
-      "bbox": [
-        0.65,
-        0.6,
-        0.2,
-        0.15
-      ],
-      "price": 215.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "キャノーラ油",
-      "maker": "日清オイリオ",
-      "size": "1000g",
-      "each": false,
-      "price_excl": 299,
-      "price_incl": 323,
-      "frozen": false,
-      "note": "お1人様1点限り",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "調味料・加工食品",
-      "bbox": [
-        0.35,
-        0.6,
-        0.2,
-        0.22
-      ],
-      "price": 323.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "チェダースライスチーズ・モッツァレラスライスチーズ",
-      "maker": "ムラカワ JUCOVIA",
-      "size": "各7枚入",
-      "each": false,
-      "price_excl": 149,
-      "price_incl": 161,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "卵・乳製品・大豆製品",
-      "bbox": [
-        0.55,
-        0.32,
-        0.13,
-        0.24
-      ],
-      "price": 161.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "チーズサンドはんぺん・明太マヨサンドはんぺん",
-      "maker": "一正蒲鉾",
-      "size": "各4個入",
-      "each": false,
-      "price_excl": 79,
-      "price_incl": 86,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "魚",
-      "bbox": [
-        0.68,
-        0.4,
-        0.14,
-        0.15
-      ],
-      "price": 86.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "ネーブルオレンジ",
-      "maker": "オーストラリア産などの輸入品",
-      "size": "1袋",
-      "each": false,
-      "price_excl": 380,
-      "price_incl": null,
-      "frozen": false,
-      "note": "3日間連続お買得商品(税込価格は隣タイルで判読)",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "野菜・果物",
-      "bbox": [
-        0.12,
-        0.9,
-        0.17,
-        0.1
-      ],
-      "price": 410.4,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "ネーブルオレンジ",
-      "maker": "オーストラリア産などの輸入品",
-      "size": "1袋",
-      "each": false,
-      "price_excl": 380,
-      "price_incl": 411,
-      "frozen": false,
-      "note": "3日間連続お買得商品",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "野菜・果物",
-      "bbox": [
-        0.08,
-        0.0,
-        0.2,
-        0.12
-      ],
-      "price": 411.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "ハリボーミニゴールドベア",
-      "maker": "三菱食品",
-      "size": "144g",
-      "each": false,
-      "price_excl": 149,
-      "price_incl": 161,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "お菓子・アイス",
-      "bbox": [
-        0.42,
-        0.68,
-        0.13,
-        0.22
-      ],
-      "price": 161.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "プライドポテト(神のり塩・ぞっこん岩塩・情熱コンソメ)",
-      "maker": "湘南屋",
-      "size": "各55g",
-      "each": false,
-      "price_excl": 99,
-      "price_incl": 107,
-      "frozen": false,
-      "note": "お1人様よりどり4点限り",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "お菓子・アイス",
-      "bbox": [
-        0.68,
-        0.6,
-        0.22,
-        0.22
-      ],
-      "price": 107.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "マルちゃん(赤いきつね・緑のたぬき)",
-      "maker": "東洋水産",
-      "size": "各1個",
-      "each": true,
-      "price_excl": 99,
-      "price_incl": 107,
-      "frozen": false,
-      "note": "お1人様よりどり3点限り",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "米・パン・麺",
-      "bbox": [
-        0.76,
-        0.3,
-        0.14,
-        0.26
-      ],
-      "price": 107.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "マルちゃん正麺5食",
-      "maker": "東洋水産",
-      "size": "各5食P",
-      "each": false,
-      "price_excl": 333,
-      "price_incl": 360,
-      "frozen": false,
-      "note": "醤油・味噌・塩 お1人様よりどり2点限り",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "米・パン・麺",
-      "bbox": [
-        0.15,
-        0.6,
-        0.2,
-        0.15
-      ],
-      "price": 360.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "ミニトマト",
-      "maker": "千葉県産などの国内産",
-      "size": "1パック",
-      "each": false,
-      "price_excl": 198,
-      "price_incl": 214,
-      "frozen": false,
-      "note": "朝市9:00〜12:30まで",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "野菜・果物",
-      "bbox": [
-        0.72,
-        0.08,
-        0.14,
-        0.22
-      ],
-      "price": 214.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "三元豚ロースしゃぶしゃぶ用",
-      "maker": "メキシコ産他",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 109,
-      "price_incl": 118,
-      "frozen": false,
-      "note": "精肉",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "肉",
-      "bbox": [
-        0.0,
-        0.9,
-        0.15,
-        0.1
-      ],
-      "price": 118.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "三元豚肩ブロック(L)",
-      "maker": "米国産",
-      "size": "400g当り",
-      "each": false,
-      "price_excl": 99,
-      "price_incl": 107,
-      "frozen": false,
-      "note": "ジャンボパックがお買得!!",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "肉",
-      "bbox": [
-        0.62,
-        0.08,
-        0.18,
-        0.16
-      ],
-      "price": 107.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "北海道 釧路・根室ヨーグルト4P",
-      "maker": "高梨乳業",
-      "size": "80g×4",
-      "each": false,
-      "price_excl": 149,
-      "price_incl": 161,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "卵・乳製品・大豆製品",
-      "bbox": [
-        0.16,
-        0.85,
-        0.12,
-        0.15
-      ],
-      "price": 161.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "味わいリッチ減塩しょうゆ",
-      "maker": "キッコーマン",
-      "size": "620ml",
-      "each": true,
-      "price_excl": 99,
-      "price_incl": 107,
-      "frozen": false,
-      "note": "お1人様よりどり2点限り",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "調味料・加工食品",
-      "bbox": [
-        0.55,
-        0.6,
-        0.14,
-        0.26
-      ],
-      "price": 107.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "味付けもずく巾着4P",
-      "maker": "宮間水産",
-      "size": "各50g×4",
-      "each": false,
-      "price_excl": 119,
-      "price_incl": 129,
-      "frozen": false,
-      "note": "三杯酢・黒酢",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "魚",
-      "bbox": [
-        0.32,
-        0.4,
-        0.14,
-        0.15
-      ],
-      "price": 129.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "国産かぼちゃ",
-      "maker": "北海道産などの国内産",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 33,
-      "price_incl": 36,
-      "frozen": false,
-      "note": "3日間連続お買得商品",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "野菜・果物",
-      "bbox": [
-        0.4,
-        0.83,
-        0.14,
-        0.15
-      ],
-      "price": 36.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "枝豆",
-      "maker": "山形県産などの国内産",
-      "size": "1袋",
-      "each": false,
-      "price_excl": 198,
-      "price_incl": 214,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "野菜・果物",
-      "bbox": [
-        0.28,
-        0.45,
-        0.16,
-        0.25
-      ],
-      "price": 214.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "濃いだし本つゆ濃縮4倍",
-      "maker": "キッコーマン",
-      "size": "1L",
-      "each": false,
-      "price_excl": 199,
-      "price_incl": 215,
-      "frozen": false,
-      "note": "お1人様1点限り",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "調味料・加工食品",
-      "bbox": [
-        0.68,
-        0.55,
-        0.25,
-        0.1
-      ],
-      "price": 215.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "焼いておいしい厚揚げ",
-      "maker": "相模屋",
-      "size": "2枚入",
-      "each": false,
-      "price_excl": 89,
-      "price_incl": 97,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "卵・乳製品・大豆製品",
-      "bbox": [
-        0.68,
-        0.42,
-        0.25,
-        0.1
-      ],
-      "price": 97.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "牧場牛乳",
-      "maker": "ジャパンミートオリジナル",
-      "size": "1000ml",
-      "each": false,
-      "price_excl": 189,
-      "price_incl": 205,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "卵・乳製品・大豆製品",
-      "bbox": [
-        0.58,
-        0.68,
-        0.14,
-        0.22
-      ],
-      "price": 205.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "甘塩銀鮭切身3切入",
-      "maker": "チリ産(養殖・解凍)",
-      "size": "1パック",
-      "each": false,
-      "price_excl": 399,
-      "price_incl": null,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "魚",
-      "bbox": [
-        0.85,
-        0.9,
-        0.15,
-        0.1
-      ],
-      "price": 430.92,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "甘塩銀鮭切身3切入",
-      "maker": "チリ産(養殖・解凍)",
-      "size": "1パック",
-      "each": false,
-      "price_excl": 399,
-      "price_incl": 431,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "魚",
-      "bbox": [
-        0.8,
-        0.0,
-        0.2,
-        0.2
-      ],
-      "price": 431.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "素材まるごとグラノラ・朝摘みいちご・脂質70%オフ",
-      "maker": "ケロッグ",
-      "size": "各1袋",
-      "each": false,
-      "price_excl": 333,
-      "price_incl": 360,
-      "frozen": false,
-      "note": "朝摘みいちご400g・脂質70%オフ350g お1人様よりどり2点限り",
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "米・パン・麺",
-      "bbox": [
-        0.4,
-        0.6,
-        0.2,
-        0.15
-      ],
-      "price": 360.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "若鶏ムネ肉",
-      "maker": "国内産(一部解凍品を含む)",
-      "size": "3枚(100g当り)",
-      "each": false,
-      "price_excl": 69,
-      "price_incl": 75,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "肉",
-      "bbox": [
-        0.85,
-        0.08,
-        0.15,
-        0.16
-      ],
-      "price": 75.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "豊水梨またはあきづき梨",
-      "maker": "茨城県産などの国内産",
-      "size": "24玉サイズ(4個入)(1袋)",
-      "each": false,
-      "price_excl": 698,
-      "price_incl": 754,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "野菜・果物",
-      "bbox": [
-        0.55,
-        0.42,
-        0.18,
-        0.28
-      ],
-      "price": 754.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "赤箱チルドシウマイ",
-      "maker": "桑間食品",
-      "size": "12粒入",
-      "each": false,
-      "price_excl": 79,
-      "price_incl": 86,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "惣菜・弁当",
-      "bbox": [
-        0.15,
-        0.4,
-        0.14,
-        0.15
-      ],
-      "price": 86.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "農協ヨーグルト",
-      "maker": "メイトー",
-      "size": "400g",
-      "each": false,
-      "price_excl": 169,
-      "price_incl": 183,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "卵・乳製品・大豆製品",
-      "bbox": [
-        0.68,
-        0.32,
-        0.13,
-        0.24
-      ],
-      "price": 183.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "香菓ウインナー",
-      "maker": "プリマハム",
-      "size": "90g×2",
-      "each": false,
-      "price_excl": 268,
-      "price_incl": 290,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-09-19",
-      "valid_to": "2026-09-21",
-      "category": "肉",
-      "bbox": [
-        0.04,
-        0.26,
-        0.24,
-        0.24
-      ],
-      "price": 290.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9/19(土)〜9/21(月祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.18/17-1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "チラシの期間",
       "status": "today",
       "date_label": "今日限り",
       "category_source": "抽出時の指定"
@@ -10544,7 +8950,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10575,7 +8981,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10606,7 +9012,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10637,7 +9043,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10668,7 +9074,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10699,7 +9105,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10730,7 +9136,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10761,7 +9167,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10792,7 +9198,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10823,7 +9229,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10854,7 +9260,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10885,7 +9291,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10916,7 +9322,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10947,7 +9353,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10978,7 +9384,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11009,7 +9415,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11040,7 +9446,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11071,7 +9477,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11102,7 +9508,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11133,7 +9539,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11164,7 +9570,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -11195,7 +9601,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11226,7 +9632,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11257,7 +9663,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11288,7 +9694,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11319,7 +9725,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11350,7 +9756,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11381,7 +9787,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11412,7 +9818,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11443,7 +9849,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11474,7 +9880,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11505,7 +9911,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11536,7 +9942,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11567,7 +9973,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11598,7 +10004,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11629,7 +10035,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11660,7 +10066,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11691,7 +10097,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11722,7 +10128,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11753,7 +10159,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11784,7 +10190,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11815,7 +10221,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11846,7 +10252,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11877,7 +10283,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11908,7 +10314,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12063,7 +10469,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12094,7 +10500,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12125,7 +10531,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12156,7 +10562,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12218,7 +10624,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12249,7 +10655,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12280,7 +10686,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12311,7 +10717,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12342,7 +10748,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12373,7 +10779,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12403,316 +10809,6 @@
       "image": "pages/summit/6749886871716/6749886871716_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "22日(火)まで",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "きおうりんご",
-      "maker": "青森県産などの国内産",
-      "size": "36玉サイズ(4個入)(1袋)",
-      "each": false,
-      "price_excl": 598,
-      "price_incl": 646,
-      "frozen": false,
-      "note": "9月21日(月・祝)限り 日替り超特価品",
-      "valid_from": "2026-09-21",
-      "valid_to": "2026-09-21",
-      "category": "野菜・果物",
-      "bbox": [
-        0.65,
-        0.45,
-        0.18,
-        0.2
-      ],
-      "price": 646.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "きゅうり",
-      "maker": "福島県産などの国内産",
-      "size": "1袋",
-      "each": false,
-      "price_excl": 222,
-      "price_incl": 240,
-      "frozen": false,
-      "note": "生鮮タイムセール16:00〜 限定販売 売切御免",
-      "valid_from": "2026-09-21",
-      "valid_to": "2026-09-21",
-      "category": "野菜・果物",
-      "bbox": [
-        0.13,
-        0.68,
-        0.2,
-        0.28
-      ],
-      "price": 240.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "じゃがいも",
-      "maker": "北海道産などの国内産",
-      "size": "1個",
-      "each": true,
-      "price_excl": 50,
-      "price_incl": 54,
-      "frozen": false,
-      "note": "9月21日(月・祝)限り 日替り超特価品 よりどり5個で税抜222円(税込240円)",
-      "valid_from": "2026-09-21",
-      "valid_to": "2026-09-21",
-      "category": "野菜・果物",
-      "bbox": [
-        0.5,
-        0.15,
-        0.14,
-        0.25
-      ],
-      "price": 54.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "サンつがるりんご",
-      "maker": "青森県産などの国内産",
-      "size": "36玉サイズ(4個入)(1袋)",
-      "each": false,
-      "price_excl": 598,
-      "price_incl": 646,
-      "frozen": false,
-      "note": "9月21日(月・祝)限り 日替り超特価品",
-      "valid_from": "2026-09-21",
-      "valid_to": "2026-09-21",
-      "category": "野菜・果物",
-      "bbox": [
-        0.28,
-        0.45,
-        0.18,
-        0.2
-      ],
-      "price": 646.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "人参",
-      "maker": "北海道産などの国内産",
-      "size": "1個",
-      "each": true,
-      "price_excl": 50,
-      "price_incl": 54,
-      "frozen": false,
-      "note": "9月21日(月・祝)限り 日替り超特価品 よりどり5個で税抜222円(税込240円)",
-      "valid_from": "2026-09-21",
-      "valid_to": "2026-09-21",
-      "category": "野菜・果物",
-      "bbox": [
-        0.7,
-        0.15,
-        0.14,
-        0.25
-      ],
-      "price": 54.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "玉ねぎ",
-      "maker": "北海道産などの国内産",
-      "size": "1個",
-      "each": true,
-      "price_excl": 50,
-      "price_incl": 54,
-      "frozen": false,
-      "note": "9月21日(月・祝)限り 日替り超特価品 よりどり5個で税抜222円(税込240円)",
-      "valid_from": "2026-09-21",
-      "valid_to": "2026-09-21",
-      "category": "野菜・果物",
-      "bbox": [
-        0.28,
-        0.15,
-        0.14,
-        0.25
-      ],
-      "price": 54.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "若鶏モモ肉(4枚)",
-      "maker": "ブラジル産(解凍)",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 89,
-      "price_incl": 97,
-      "frozen": false,
-      "note": "生鮮タイムセール16:00〜 限定販売 ジャンボパックがお買い得 解凍",
-      "valid_from": "2026-09-21",
-      "valid_to": "2026-09-21",
-      "category": "肉",
-      "bbox": [
-        0.35,
-        0.68,
-        0.2,
-        0.28
-      ],
-      "price": 97.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "豚ロースブロック",
-      "maker": "メキシコ産",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 99,
-      "price_incl": 107,
-      "frozen": false,
-      "note": "9月21日(月・祝)限り 日替り超特価品 ブロック肉が安い",
-      "valid_from": "2026-09-21",
-      "valid_to": "2026-09-21",
-      "category": "肉",
-      "bbox": [
-        0.28,
-        0.88,
-        0.18,
-        0.12
-      ],
-      "price": 107.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "豚ロース生姜焼",
-      "maker": "メキシコ産",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 109,
-      "price_incl": 118,
-      "frozen": false,
-      "note": "9月21日(月・祝)限り 日替り超特価品 豚ロース肉がお買い得",
-      "valid_from": "2026-09-21",
-      "valid_to": "2026-09-21",
-      "category": "肉",
-      "bbox": [
-        0.28,
-        0.7,
-        0.18,
-        0.2
-      ],
-      "price": 118.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "辛子明太子(切子)",
-      "maker": "アメリカ産またはロシア産",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 198,
-      "price_incl": 214,
-      "frozen": false,
-      "note": "9月21日(月・祝)限り 日替り超特価品",
-      "valid_from": "2026-09-21",
-      "valid_to": "2026-09-21",
-      "category": "魚",
-      "bbox": [
-        0.7,
-        0.7,
-        0.18,
-        0.2
-      ],
-      "price": 214.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "9月19日(土)〜9月21日(月・祝)",
-      "period_end": "2026-09-21",
-      "image": "pages/mirabelle/2026.09.21/17-2_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
       "status": "today",
       "date_label": "今日限り",
       "category_source": "抽出時の指定"
@@ -12745,7 +10841,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12776,7 +10872,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12807,7 +10903,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12838,7 +10934,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12869,7 +10965,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12900,7 +10996,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12931,7 +11027,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12962,7 +11058,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "22日(火)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12992,8 +11088,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "22日(火)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13023,8 +11119,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13054,8 +11150,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13085,8 +11181,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13116,8 +11212,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13147,8 +11243,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r1c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13178,8 +11274,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13209,8 +11305,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13240,8 +11336,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13271,8 +11367,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "22日(火)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13302,8 +11398,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13333,8 +11429,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13364,8 +11460,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13395,8 +11491,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13426,8 +11522,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "22日(火)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13457,8 +11553,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13488,8 +11584,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13519,8 +11615,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "22日(火)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13550,8 +11646,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13581,8 +11677,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "22日(火)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13612,8 +11708,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13643,8 +11739,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13674,8 +11770,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13705,8 +11801,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13736,8 +11832,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "22日(火)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13767,8 +11863,8 @@
       "image": "pages/mirabelle/2026.09.21/17-1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "22日(火)〜25日(金)",
+      "status": "today",
+      "date_label": "25日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13992,23 +12088,23 @@
   "categories": [
     {
       "name": "野菜・果物",
-      "count": 39
+      "count": 26
     },
     {
       "name": "肉",
-      "count": 15
+      "count": 8
     },
     {
       "name": "魚",
-      "count": 21
+      "count": 13
     },
     {
       "name": "卵・乳製品・大豆製品",
-      "count": 21
+      "count": 14
     },
     {
       "name": "惣菜・弁当",
-      "count": 16
+      "count": 13
     },
     {
       "name": "冷凍食品",
@@ -14016,19 +12112,19 @@
     },
     {
       "name": "お菓子・アイス",
-      "count": 72
+      "count": 68
     },
     {
       "name": "飲み物・お酒",
-      "count": 109
+      "count": 106
     },
     {
       "name": "米・パン・麺",
-      "count": 35
+      "count": 28
     },
     {
       "name": "調味料・加工食品",
-      "count": 68
+      "count": 64
     },
     {
       "name": "日用品",
@@ -17611,7 +15707,7 @@
       ]
     }
   ],
-  "expired_hidden": 1178,
-  "duplicates_merged": 795,
+  "expired_hidden": 1244,
+  "duplicates_merged": 785,
   "stale_pages_ignored": 118
 }
