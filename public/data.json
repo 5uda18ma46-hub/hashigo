@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T08:27:30.016777+09:00",
-  "generated_at_label": "2026-10-03 08:27",
+  "generated_at": "2026-10-04T02:42:55.931272+09:00",
+  "generated_at_label": "2026-10-04 02:42",
   "base_store": {
     "id": "gyomu",
     "label": "業務スーパー 練馬駅前店",
@@ -97,23 +97,7 @@
         "period_text": null,
         "updated_at": "2026-08-27"
       },
-      "candidates": [
-        {
-          "store": "mirabelle",
-          "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "若鶏ムネ肉",
-          "maker": "国内産",
-          "size": "100g当り",
-          "price": 75.0,
-          "unit_price": 75.0,
-          "units": 1.0,
-          "comparable": true,
-          "period_text": "10月3日(土)〜10月5日(月)",
-          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.10.02/17-1_r2c1.jpg",
-          "bbox": null
-        }
-      ]
+      "candidates": []
     },
     {
       "id": "carrot",
@@ -158,23 +142,7 @@
       "basis": "per_piece",
       "basis_label": "1個あたり",
       "base": null,
-      "candidates": [
-        {
-          "store": "mirabelle",
-          "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "たまねぎ大袋",
-          "maker": "北海道産などの国内産",
-          "size": "約2kg入(1袋)",
-          "price": 322.0,
-          "unit_price": null,
-          "units": null,
-          "comparable": false,
-          "period_text": "10月3日(土)〜10月5日(月)",
-          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.10.02/17-1_r1c2.jpg",
-          "bbox": null
-        }
-      ]
+      "candidates": []
     },
     {
       "id": "natto",
@@ -6340,58 +6308,6 @@
       "category_source": "抽出時の指定"
     },
     {
-      "name": "うなぎ長焼き",
-      "maker": "中国産(養殖・解凍)",
-      "size": "特大・1尾",
-      "each": false,
-      "price_excl": 880,
-      "price_incl": 951,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "魚",
-      "bbox": null,
-      "price": 951.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "お刺身盛合せ4点盛り",
-      "maker": null,
-      "size": "1パック(本まぐろ入)",
-      "each": false,
-      "price_excl": 980,
-      "price_incl": 1099,
-      "frozen": false,
-      "note": "魚の日大特価セール",
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "魚",
-      "bbox": null,
-      "price": 1099.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
       "name": "お肉屋さんのハンバーグ",
       "maker": "国内工場製造",
       "size": "1袋",
@@ -6470,32 +6386,6 @@
       "category_source": "抽出時の指定"
     },
     {
-      "name": "きゅうり",
-      "maker": "福島県産などの国内産",
-      "size": "1袋",
-      "each": false,
-      "price_excl": 198,
-      "price_incl": 214,
-      "frozen": false,
-      "note": "日替り超特価品",
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "野菜・果物",
-      "bbox": null,
-      "price": 214.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
       "name": "こしひかり",
       "maker": "茨城県産(令和8年産)",
       "size": "5kg",
@@ -6548,84 +6438,6 @@
       "category_source": "抽出時の指定"
     },
     {
-      "name": "じゃがいも大袋",
-      "maker": "北海道産などの国内産",
-      "size": "約2kg入(1袋)",
-      "each": false,
-      "price_excl": 298,
-      "price_incl": 322,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "野菜・果物",
-      "bbox": null,
-      "price": 322.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "たまねぎ大袋",
-      "maker": "北海道産などの国内産",
-      "size": "約2kg入(1袋)",
-      "each": false,
-      "price_excl": 298,
-      "price_incl": 322,
-      "frozen": false,
-      "note": "夕市 15:00〜17:30まで",
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "野菜・果物",
-      "bbox": null,
-      "price": 322.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "とまとパック",
-      "maker": "茨城県産などの国内産",
-      "size": null,
-      "each": false,
-      "price_excl": 298,
-      "price_incl": 322,
-      "frozen": false,
-      "note": "朝市 9:00〜12:30まで",
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "野菜・果物",
-      "bbox": null,
-      "price": 322.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
       "name": "ふりかけ",
       "maker": "三島",
       "size": "各1袋",
@@ -6652,32 +6464,6 @@
       "category_source": "抽出時の指定"
     },
     {
-      "name": "まぐろ切落し",
-      "maker": "韓国産&台湾産他",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 333,
-      "price_incl": 360,
-      "frozen": false,
-      "note": "魚の日大特価セール(毎月第1・第3土曜日)",
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "魚",
-      "bbox": null,
-      "price": 360.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
       "name": "めちゃ得焼売",
       "maker": "桂林屋",
       "size": "36g×6",
@@ -6701,32 +6487,6 @@
       "validity_source": "チラシの期間",
       "status": "today",
       "date_label": "5日(月)まで",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "アマニ油",
-      "maker": "日清オイリオ",
-      "size": "145g",
-      "each": false,
-      "price_excl": 333,
-      "price_incl": 360,
-      "frozen": false,
-      "note": "日替り超特価品",
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "調味料・加工食品",
-      "bbox": null,
-      "price": 360.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -6831,32 +6591,6 @@
       "validity_source": "チラシの期間",
       "status": "today",
       "date_label": "5日(月)まで",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "シャインマスカット",
-      "maker": "山梨県産などの国内産",
-      "size": "1パック",
-      "each": false,
-      "price_excl": 888,
-      "price_incl": 960,
-      "frozen": false,
-      "note": "日替り超特価品",
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "野菜・果物",
-      "bbox": null,
-      "price": 960.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7068,58 +6802,6 @@
       "category_source": "抽出時の指定"
     },
     {
-      "name": "三元豚ロースしゃぶしゃぶ用",
-      "maker": "メキシコ産他",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 109,
-      "price_incl": 118,
-      "frozen": false,
-      "note": "日替り超特価品",
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "肉",
-      "bbox": null,
-      "price": 118.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "三元豚肩ブロック",
-      "maker": "米国産",
-      "size": "(L)400g当り",
-      "each": false,
-      "price_excl": 99,
-      "price_incl": 107,
-      "frozen": false,
-      "note": "ジャンボパックがお買い得!/日替り超特価品",
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "肉",
-      "bbox": null,
-      "price": 107.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
       "name": "国産生椎茸大パック",
       "maker": "埼玉県産などの国内産",
       "size": "1パック",
@@ -7143,32 +6825,6 @@
       "validity_source": "チラシの期間",
       "status": "today",
       "date_label": "5日(月)まで",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "徳用かつおパック",
-      "maker": "マルトモ",
-      "size": null,
-      "each": false,
-      "price_excl": 69,
-      "price_incl": 75,
-      "frozen": false,
-      "note": "日替り超特価品",
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "調味料・加工食品",
-      "bbox": null,
-      "price": 75.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7198,32 +6854,6 @@
       "category_source": "抽出時の指定"
     },
     {
-      "name": "梨",
-      "maker": "茨城県産などの国内産",
-      "size": "20玉サイズ・3個入(1パック)",
-      "each": false,
-      "price_excl": 798,
-      "price_incl": 862,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "野菜・果物",
-      "bbox": null,
-      "price": 862.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
       "name": "無調整豆乳・カロリー45%オフ豆乳",
       "maker": "マルサン",
       "size": "各1000ml",
@@ -7247,32 +6877,6 @@
       "validity_source": "チラシの期間",
       "status": "today",
       "date_label": "5日(月)まで",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "焼いておいしい絹厚揚げ",
-      "maker": "相模屋",
-      "size": "2枚入",
-      "each": false,
-      "price_excl": 88,
-      "price_incl": 96,
-      "frozen": false,
-      "note": "日替り超特価品",
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "卵・乳製品・大豆製品",
-      "bbox": null,
-      "price": 96.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7325,32 +6929,6 @@
       "validity_source": "チラシの期間",
       "status": "today",
       "date_label": "5日(月)まで",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "若鶏ムネ肉",
-      "maker": "国内産",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 69,
-      "price_incl": 75,
-      "frozen": false,
-      "note": "一部解凍品を含む/ジャンボパックがお買い得!",
-      "valid_from": "2026-10-03",
-      "valid_to": "2026-10-03",
-      "category": "肉",
-      "bbox": null,
-      "price": 75.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "10月3日(土)〜10月5日(月)",
-      "period_end": "2026-10-05",
-      "image": "pages/mirabelle/2026.10.02/17-1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7516,7 +7094,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7640,7 +7218,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7702,7 +7280,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7795,7 +7373,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8167,7 +7745,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8260,7 +7838,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8322,7 +7900,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8353,7 +7931,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9066,7 +8644,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9283,7 +8861,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9314,7 +8892,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9345,7 +8923,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9407,7 +8985,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9438,7 +9016,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9500,7 +9078,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9531,7 +9109,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9562,7 +9140,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9624,7 +9202,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9779,7 +9357,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9903,7 +9481,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "4日(日)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10778,19 +10356,19 @@
   "categories": [
     {
       "name": "野菜・果物",
-      "count": 24
+      "count": 18
     },
     {
       "name": "肉",
-      "count": 24
+      "count": 21
     },
     {
       "name": "魚",
-      "count": 20
+      "count": 17
     },
     {
       "name": "卵・乳製品・大豆製品",
-      "count": 21
+      "count": 20
     },
     {
       "name": "惣菜・弁当",
@@ -10814,7 +10392,7 @@
     },
     {
       "name": "調味料・加工食品",
-      "count": 90
+      "count": 88
     },
     {
       "name": "日用品",
@@ -12937,7 +12515,7 @@
       ]
     }
   ],
-  "expired_hidden": 1753,
-  "duplicates_merged": 40,
+  "expired_hidden": 1777,
+  "duplicates_merged": 31,
   "stale_pages_ignored": 482
 }
