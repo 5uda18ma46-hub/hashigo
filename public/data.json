@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T17:19:46.535455+09:00",
-  "generated_at_label": "2026-10-06 17:19",
+  "generated_at": "2026-10-07T04:18:03.182811+09:00",
+  "generated_at_label": "2026-10-07 04:18",
   "base_store": {
     "id": "gyomu",
     "label": "業務スーパー 練馬駅前店",
@@ -8,6 +8,82 @@
     "total": 12
   },
   "trips": [
+    {
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "worth_going": true,
+      "total_saving": 37,
+      "buys": [
+        {
+          "label": "にんじん",
+          "saving": 37,
+          "base_unit_price": 79.38,
+          "store": "summit",
+          "store_label": "サミット 練馬春日町店",
+          "name": "にんじん L",
+          "maker": "北海道などの国内産",
+          "size": "1個",
+          "price": 42.12,
+          "unit_price": 42.12,
+          "units": 1.0,
+          "comparable": true,
+          "period_text": "10月7日(水)〜9日(金)",
+          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+          "image": "pages/summit/7821336895659/7821336895659_p1_r1c1.jpg",
+          "bbox": null
+        }
+      ],
+      "unknown": [
+        {
+          "label": "たまねぎ",
+          "store": "summit",
+          "store_label": "サミット 練馬春日町店",
+          "name": "たまねぎ L",
+          "maker": "北海道産",
+          "size": "1個",
+          "price": 42.12,
+          "unit_price": 42.12,
+          "units": 1.0,
+          "comparable": true,
+          "period_text": "10月7日(水)〜9日(金)",
+          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+          "image": "pages/summit/7821336895659/7821336895659_p1_r1c1.jpg",
+          "bbox": null
+        },
+        {
+          "label": "ヨーグルト",
+          "store": "summit",
+          "store_label": "サミット 練馬春日町店",
+          "name": "ブルガリアヨーグルト 脂肪0 ブルーベリー&3種のベリー",
+          "maker": "明治",
+          "size": "180g",
+          "price": 106.92,
+          "unit_price": 59.4,
+          "units": 1.8,
+          "comparable": true,
+          "period_text": "10月7日(水)〜9日(金)",
+          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+          "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
+          "bbox": null
+        },
+        {
+          "label": "冷凍ブルーベリー",
+          "store": "summit",
+          "store_label": "サミット 練馬春日町店",
+          "name": "冷凍ブルーベリー",
+          "maker": "Dole",
+          "size": "300g",
+          "price": 537.84,
+          "unit_price": 179.28,
+          "units": 3.0,
+          "comparable": true,
+          "period_text": "10月7日(水)〜9日(金)",
+          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+          "image": "pages/summit/7821336895659/7821336895659_p2_r1c2.jpg",
+          "bbox": null
+        }
+      ]
+    },
     {
       "store": "mirabelle",
       "store_label": "スーパーみらべる 練馬春日町店",
@@ -46,36 +122,6 @@
           "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
           "image": "pages/mirabelle/2026.09.25/17-2_r2c2.jpg",
           "bbox": null
-        }
-      ]
-    },
-    {
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "worth_going": false,
-      "total_saving": 0,
-      "buys": [],
-      "unknown": [
-        {
-          "label": "ヨーグルト",
-          "store": "summit",
-          "store_label": "サミット 練馬春日町店",
-          "name": "牧場の朝ヨーグルト",
-          "maker": "雪印メグミルク",
-          "size": "70g×3",
-          "price": 149.04,
-          "unit_price": 70.97,
-          "units": 2.1,
-          "comparable": true,
-          "period_text": null,
-          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-          "image": "pages/summit/1628036886266/3279386886261_p1_r2c1.jpg",
-          "bbox": [
-            0.0,
-            0.56,
-            0.15,
-            0.24
-          ]
         }
       ]
     }
@@ -117,6 +163,21 @@
       },
       "candidates": [
         {
+          "store": "summit",
+          "store_label": "サミット 練馬春日町店",
+          "name": "にんじん L",
+          "maker": "北海道などの国内産",
+          "size": "1個",
+          "price": 42.12,
+          "unit_price": 42.12,
+          "units": 1.0,
+          "comparable": true,
+          "period_text": "10月7日(水)〜9日(金)",
+          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+          "image": "pages/summit/7821336895659/7821336895659_p1_r1c1.jpg",
+          "bbox": null
+        },
+        {
           "store": "mirabelle",
           "store_label": "スーパーみらべる 練馬春日町店",
           "name": "人参",
@@ -149,7 +210,23 @@
         "period_text": null,
         "updated_at": "2026-08-27"
       },
-      "candidates": []
+      "candidates": [
+        {
+          "store": "summit",
+          "store_label": "サミット 練馬春日町店",
+          "name": "金のつぶ パキッ!とれるとっぷ/たれたっぷりたまご醤油たれ",
+          "maker": "ミツカン",
+          "size": "45g×3・40g×3",
+          "price": 116.64,
+          "unit_price": null,
+          "units": null,
+          "comparable": false,
+          "period_text": "10月7日(水)〜9日(金)",
+          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+          "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
+          "bbox": null
+        }
+      ]
     },
     {
       "id": "onion",
@@ -158,7 +235,38 @@
       "basis": "per_piece",
       "basis_label": "1個あたり",
       "base": null,
-      "candidates": []
+      "candidates": [
+        {
+          "store": "summit",
+          "store_label": "サミット 練馬春日町店",
+          "name": "たまねぎ L",
+          "maker": "北海道産",
+          "size": "1個",
+          "price": 42.12,
+          "unit_price": 42.12,
+          "units": 1.0,
+          "comparable": true,
+          "period_text": "10月7日(水)〜9日(金)",
+          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+          "image": "pages/summit/7821336895659/7821336895659_p1_r1c1.jpg",
+          "bbox": null
+        },
+        {
+          "store": "mirabelle",
+          "store_label": "スーパーみらべる 練馬春日町店",
+          "name": "たまねぎ大袋",
+          "maker": "北海道産などの国内産",
+          "size": "約2kg入(1袋)",
+          "price": 430.0,
+          "unit_price": null,
+          "units": null,
+          "comparable": false,
+          "period_text": "10月6日(火)〜10月9日(金)",
+          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
+          "image": "pages/mirabelle/2026.10.05/17-1_r1c2.jpg",
+          "bbox": null
+        }
+      ]
     },
     {
       "id": "natto",
@@ -194,7 +302,23 @@
         "period_text": null,
         "updated_at": "2026-08-27"
       },
-      "candidates": []
+      "candidates": [
+        {
+          "store": "summit",
+          "store_label": "サミット 練馬春日町店",
+          "name": "早摘み 生もずく",
+          "maker": "沖縄産",
+          "size": "250g入1パック",
+          "price": 429.84,
+          "unit_price": null,
+          "units": null,
+          "comparable": false,
+          "period_text": "10月7日(水)〜9日(金)",
+          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+          "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
+          "bbox": null
+        }
+      ]
     },
     {
       "id": "yogurt",
@@ -237,6 +361,21 @@
         {
           "store": "summit",
           "store_label": "サミット 練馬春日町店",
+          "name": "ブルガリアヨーグルト 脂肪0 ブルーベリー&3種のベリー",
+          "maker": "明治",
+          "size": "180g",
+          "price": 106.92,
+          "unit_price": 59.4,
+          "units": 1.8,
+          "comparable": true,
+          "period_text": "10月7日(水)〜9日(金)",
+          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+          "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
+          "bbox": null
+        },
+        {
+          "store": "summit",
+          "store_label": "サミット 練馬春日町店",
           "name": "牧場の朝ヨーグルト",
           "maker": "雪印メグミルク",
           "size": "70g×3",
@@ -267,6 +406,21 @@
           "period_text": "10月(1ヶ月連続特価・ボーナスポイントセール)",
           "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
           "image": "pages/summit/7821336895659/3279386886261_p1_r2c1.jpg",
+          "bbox": null
+        },
+        {
+          "store": "summit",
+          "store_label": "サミット 練馬春日町店",
+          "name": "iMUSE ヨーグルトテイスト/グレープフルーツミックス",
+          "maker": "キリン",
+          "size": "500ml",
+          "price": 149.04,
+          "unit_price": null,
+          "units": null,
+          "comparable": false,
+          "period_text": "10月7日(水)〜9日(金)",
+          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+          "image": "pages/summit/7821336895659/7821336895659_p2_r2c2.jpg",
           "bbox": null
         }
       ]
@@ -312,7 +466,23 @@
       "basis": "per_100g",
       "basis_label": "100gあたり",
       "base": null,
-      "candidates": []
+      "candidates": [
+        {
+          "store": "summit",
+          "store_label": "サミット 練馬春日町店",
+          "name": "冷凍ブルーベリー",
+          "maker": "Dole",
+          "size": "300g",
+          "price": 537.84,
+          "unit_price": 179.28,
+          "units": 3.0,
+          "comparable": true,
+          "period_text": "10月7日(水)〜9日(金)",
+          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
+          "image": "pages/summit/7821336895659/7821336895659_p2_r1c2.jpg",
+          "bbox": null
+        }
+      ]
     },
     {
       "id": "bean_sprouts",
@@ -6950,8 +7120,8 @@
       "image": "pages/mirabelle/2026.10.05/17-1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -6976,8 +7146,8 @@
       "image": "pages/mirabelle/2026.10.05/17-1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7002,8 +7172,8 @@
       "image": "pages/mirabelle/2026.10.05/17-1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7028,8 +7198,8 @@
       "image": "pages/mirabelle/2026.10.05/17-1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7054,8 +7224,8 @@
       "image": "pages/mirabelle/2026.10.05/17-1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7080,8 +7250,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7106,8 +7276,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -7132,8 +7302,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7158,8 +7328,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7184,8 +7354,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7210,8 +7380,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7236,8 +7406,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7262,8 +7432,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7288,8 +7458,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7314,8 +7484,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7340,8 +7510,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7366,8 +7536,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7392,8 +7562,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7418,8 +7588,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7444,8 +7614,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7470,8 +7640,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7496,8 +7666,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7522,8 +7692,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7548,8 +7718,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7574,8 +7744,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7600,8 +7770,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7626,8 +7796,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7652,8 +7822,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7678,8 +7848,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7704,8 +7874,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -7730,8 +7900,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7756,8 +7926,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7782,8 +7952,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7808,8 +7978,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -7834,8 +8004,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -7860,8 +8030,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -7886,8 +8056,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -7912,8 +8082,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7938,8 +8108,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7964,8 +8134,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7990,8 +8160,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8016,8 +8186,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8042,8 +8212,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8068,8 +8238,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8094,8 +8264,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8120,8 +8290,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8146,8 +8316,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8172,8 +8342,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -8198,8 +8368,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8224,8 +8394,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8250,8 +8420,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8276,8 +8446,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -8302,8 +8472,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -8328,8 +8498,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8354,8 +8524,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8380,8 +8550,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -8406,8 +8576,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8432,8 +8602,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -8458,8 +8628,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8484,8 +8654,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -8510,8 +8680,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8536,8 +8706,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8562,8 +8732,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8588,8 +8758,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c2.jpg",
       "valid_days": null,
       "validity_source": "メモの日付",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -8614,8 +8784,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8640,8 +8810,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8666,8 +8836,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -8692,8 +8862,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8718,8 +8888,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8744,8 +8914,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8770,8 +8940,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8796,8 +8966,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8822,8 +8992,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -8848,8 +9018,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8874,8 +9044,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8900,8 +9070,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8926,8 +9096,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -8952,8 +9122,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8978,8 +9148,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9004,8 +9174,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9030,8 +9200,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9056,8 +9226,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9082,8 +9252,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -9108,8 +9278,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9134,8 +9304,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9160,8 +9330,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -9186,8 +9356,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜12日(月)",
+      "status": "today",
+      "date_label": "",
       "category_source": "抽出時の指定"
     },
     {
@@ -9212,8 +9382,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9238,8 +9408,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9264,8 +9434,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9290,8 +9460,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9316,8 +9486,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9342,8 +9512,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9368,8 +9538,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9394,8 +9564,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9420,8 +9590,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9446,8 +9616,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9472,8 +9642,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "upcoming",
-      "date_label": "7日(水)〜9日(金)",
+      "status": "today",
+      "date_label": "9日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9498,8 +9668,8 @@
       "image": "pages/summit/7821336895659/7821336895659_p1_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "7日(水)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
