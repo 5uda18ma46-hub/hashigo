@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T18:00:07.757648+09:00",
-  "generated_at_label": "2026-11-12 18:00",
+  "generated_at": "2026-11-13T06:13:33.056311+09:00",
+  "generated_at_label": "2026-11-13 06:13",
   "base_store": {
     "id": "gyomu",
     "label": "業務スーパー 練馬駅前店",
@@ -9,57 +9,53 @@
   },
   "trips": [
     {
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "worth_going": true,
-      "total_saving": 31,
-      "buys": [
-        {
-          "label": "にんじん",
-          "saving": 31,
-          "base_unit_price": 79.38,
-          "store": "summit",
-          "store_label": "サミット 練馬春日町店",
-          "name": "たまねぎ・じゃがいも・にんじん",
-          "maker": "北海道産・北海道などの国内産",
-          "size": "L 1コ",
-          "price": 48.6,
-          "unit_price": 48.6,
-          "units": 1.0,
-          "comparable": true,
-          "period_text": "11月11日(水)〜13日(金)",
-          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-          "image": "pages/summit/4054586946778/4054586946778_p2_r1c1.jpg",
-          "bbox": [
-            0.0,
-            0.1,
-            0.3,
-            0.3
-          ]
-        }
-      ],
+      "store": "mirabelle",
+      "store_label": "スーパーみらべる 練馬春日町店",
+      "worth_going": false,
+      "total_saving": 0,
+      "buys": [],
       "unknown": [
         {
-          "label": "たまねぎ",
-          "store": "summit",
-          "store_label": "サミット 練馬春日町店",
-          "name": "たまねぎ・じゃがいも・にんじん",
-          "maker": "北海道産・北海道などの国内産",
-          "size": "L 1コ",
-          "price": 48.6,
-          "unit_price": 48.6,
+          "label": "ヨーグルト",
+          "store": "mirabelle",
+          "store_label": "スーパーみらべる 練馬春日町店",
+          "name": "北軽井沢生乳100%ヨーグルト",
+          "maker": "榛名乳業",
+          "size": "400g",
+          "price": 172.0,
+          "unit_price": 43.0,
+          "units": 4.0,
+          "comparable": true,
+          "period_text": null,
+          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
+          "image": "pages/mirabelle/2026.09.25/17-2_r2c1.jpg",
+          "bbox": null
+        },
+        {
+          "label": "牛乳",
+          "store": "mirabelle",
+          "store_label": "スーパーみらべる 練馬春日町店",
+          "name": "酪農牛乳",
+          "maker": "八ヶ岳高原ミルク",
+          "size": "1000ml",
+          "price": 205.0,
+          "unit_price": 205.0,
           "units": 1.0,
           "comparable": true,
-          "period_text": "11月11日(水)〜13日(金)",
-          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-          "image": "pages/summit/4054586946778/4054586946778_p2_r1c1.jpg",
-          "bbox": [
-            0.0,
-            0.1,
-            0.3,
-            0.3
-          ]
-        },
+          "period_text": null,
+          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
+          "image": "pages/mirabelle/2026.09.25/17-2_r2c2.jpg",
+          "bbox": null
+        }
+      ]
+    },
+    {
+      "store": "summit",
+      "store_label": "サミット 練馬春日町店",
+      "worth_going": false,
+      "total_saving": 0,
+      "buys": [],
+      "unknown": [
         {
           "label": "ヨーグルト",
           "store": "summit",
@@ -103,47 +99,6 @@
           ]
         }
       ]
-    },
-    {
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "worth_going": false,
-      "total_saving": 0,
-      "buys": [],
-      "unknown": [
-        {
-          "label": "ヨーグルト",
-          "store": "mirabelle",
-          "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "北軽井沢生乳100%ヨーグルト",
-          "maker": "榛名乳業",
-          "size": "400g",
-          "price": 172.0,
-          "unit_price": 43.0,
-          "units": 4.0,
-          "comparable": true,
-          "period_text": null,
-          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.09.25/17-2_r2c1.jpg",
-          "bbox": null
-        },
-        {
-          "label": "牛乳",
-          "store": "mirabelle",
-          "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "酪農牛乳",
-          "maker": "八ヶ岳高原ミルク",
-          "size": "1000ml",
-          "price": 205.0,
-          "unit_price": 205.0,
-          "units": 1.0,
-          "comparable": true,
-          "period_text": null,
-          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.09.25/17-2_r2c2.jpg",
-          "bbox": null
-        }
-      ]
     }
   ],
   "watchlist": [
@@ -181,28 +136,7 @@
         "period_text": null,
         "updated_at": "2026-08-26"
       },
-      "candidates": [
-        {
-          "store": "summit",
-          "store_label": "サミット 練馬春日町店",
-          "name": "たまねぎ・じゃがいも・にんじん",
-          "maker": "北海道産・北海道などの国内産",
-          "size": "L 1コ",
-          "price": 48.6,
-          "unit_price": 48.6,
-          "units": 1.0,
-          "comparable": true,
-          "period_text": "11月11日(水)〜13日(金)",
-          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-          "image": "pages/summit/4054586946778/4054586946778_p2_r1c1.jpg",
-          "bbox": [
-            0.0,
-            0.1,
-            0.3,
-            0.3
-          ]
-        }
-      ]
+      "candidates": []
     },
     {
       "id": "egg",
@@ -250,28 +184,7 @@
       "basis": "per_piece",
       "basis_label": "1個あたり",
       "base": null,
-      "candidates": [
-        {
-          "store": "summit",
-          "store_label": "サミット 練馬春日町店",
-          "name": "たまねぎ・じゃがいも・にんじん",
-          "maker": "北海道産・北海道などの国内産",
-          "size": "L 1コ",
-          "price": 48.6,
-          "unit_price": 48.6,
-          "units": 1.0,
-          "comparable": true,
-          "period_text": "11月11日(水)〜13日(金)",
-          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-          "image": "pages/summit/4054586946778/4054586946778_p2_r1c1.jpg",
-          "bbox": [
-            0.0,
-            0.1,
-            0.3,
-            0.3
-          ]
-        }
-      ]
+      "candidates": []
     },
     {
       "id": "natto",
@@ -411,26 +324,6 @@
             0.33,
             0.2,
             0.21
-          ]
-        },
-        {
-          "store": "summit",
-          "store_label": "サミット 練馬春日町店",
-          "name": "ナチュレ恵 ブルーベリー+いちご",
-          "maker": "雪印メグミルク",
-          "size": "70g×4",
-          "price": 159.84,
-          "unit_price": 57.09,
-          "units": 2.8,
-          "comparable": true,
-          "period_text": "11月11日(水)〜13日(金)",
-          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-          "image": "pages/summit/4054586946778/4054586946778_p2_r1c1.jpg",
-          "bbox": [
-            0.65,
-            0.25,
-            0.2,
-            0.25
           ]
         },
         {
@@ -7213,7 +7106,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7244,7 +7137,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7275,7 +7168,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7306,7 +7199,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7337,7 +7230,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7368,7 +7261,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7399,7 +7292,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7430,7 +7323,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7461,7 +7354,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7492,7 +7385,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7523,7 +7416,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7554,7 +7447,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7585,7 +7478,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7616,7 +7509,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7647,7 +7540,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7678,7 +7571,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7709,7 +7602,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7740,7 +7633,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7771,7 +7664,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7802,7 +7695,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7833,7 +7726,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7864,7 +7757,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7895,7 +7788,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7926,7 +7819,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7957,7 +7850,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -7988,7 +7881,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8019,7 +7912,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8050,7 +7943,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8081,7 +7974,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8112,7 +8005,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8143,7 +8036,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8174,7 +8067,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8205,7 +8098,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8236,7 +8129,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8267,7 +8160,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8298,7 +8191,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8329,7 +8222,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8360,7 +8253,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8391,7 +8284,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8422,7 +8315,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8453,7 +8346,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8484,7 +8377,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8515,7 +8408,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8546,7 +8439,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8577,7 +8470,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8608,7 +8501,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "16日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8639,7 +8532,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8670,7 +8563,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8701,7 +8594,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8732,7 +8625,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "16日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8763,7 +8656,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8794,7 +8687,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "16日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8825,7 +8718,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8856,7 +8749,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "16日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8887,7 +8780,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8918,7 +8811,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8949,7 +8842,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -8980,7 +8873,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9011,7 +8904,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9042,7 +8935,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9073,7 +8966,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9104,7 +8997,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "16日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9135,7 +9028,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "16日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9166,7 +9059,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "16日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9197,7 +9090,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9228,7 +9121,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9259,7 +9152,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9290,7 +9183,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9321,7 +9214,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9352,7 +9245,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9383,7 +9276,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9414,7 +9307,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9445,7 +9338,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9476,7 +9369,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9507,7 +9400,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9538,7 +9431,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9569,7 +9462,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9600,7 +9493,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9631,7 +9524,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9662,7 +9555,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "16日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9693,7 +9586,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "16日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9724,7 +9617,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9755,7 +9648,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9786,7 +9679,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9817,7 +9710,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9848,7 +9741,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9879,7 +9772,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9910,7 +9803,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9941,7 +9834,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9972,7 +9865,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10003,7 +9896,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10034,7 +9927,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10065,7 +9958,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10096,7 +9989,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10127,7 +10020,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10158,7 +10051,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10189,7 +10082,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10220,7 +10113,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10251,7 +10144,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10282,7 +10175,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "16日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10313,7 +10206,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10344,7 +10237,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10375,7 +10268,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10406,7 +10299,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10437,7 +10330,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "16日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10468,7 +10361,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10499,7 +10392,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10530,7 +10423,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10561,7 +10454,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10592,7 +10485,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10623,7 +10516,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10654,7 +10547,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10685,7 +10578,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10716,7 +10609,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10747,7 +10640,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10778,7 +10671,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10809,7 +10702,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10840,7 +10733,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10871,7 +10764,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10902,7 +10795,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10933,7 +10826,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "13日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10961,378 +10854,6 @@
       "period_text": "11月11日(水)〜13日(金)",
       "period_end": "2026-11-13",
       "image": "pages/summit/4054586946778/4054586946778_p1_r2c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "13日(金)まで",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "きゅうり",
-      "maker": "福島県産などの国内産",
-      "size": "1袋",
-      "each": false,
-      "price_excl": 198,
-      "price_incl": 214,
-      "frozen": false,
-      "note": "12日(木)限り 日替り超特価品",
-      "valid_from": "2026-11-12",
-      "valid_to": "2026-11-12",
-      "category": "野菜・果物",
-      "bbox": [
-        0.15,
-        0.05,
-        0.3,
-        0.3
-      ],
-      "price": 214.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11月10日(火)〜11月13日(金)",
-      "period_end": "2026-11-13",
-      "image": "pages/mirabelle/2026.11.10/17-2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "とまとパック",
-      "maker": "熊本県産などの国内産",
-      "size": "房パック",
-      "each": false,
-      "price_excl": 358,
-      "price_incl": 387,
-      "frozen": false,
-      "note": "12日(木)限り 日替り超特価品",
-      "valid_from": "2026-11-12",
-      "valid_to": "2026-11-12",
-      "category": "野菜・果物",
-      "bbox": [
-        0.47,
-        0.05,
-        0.3,
-        0.3
-      ],
-      "price": 387.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11月10日(火)〜11月13日(金)",
-      "period_end": "2026-11-13",
-      "image": "pages/mirabelle/2026.11.10/17-2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "シャインマスカット",
-      "maker": "長野県産などの国内産",
-      "size": "1パック",
-      "each": false,
-      "price_excl": 980,
-      "price_incl": 1059,
-      "frozen": false,
-      "note": "12日(木)限り 日替り超特価品",
-      "valid_from": "2026-11-12",
-      "valid_to": "2026-11-12",
-      "category": "野菜・果物",
-      "bbox": [
-        0.36,
-        0.37,
-        0.19,
-        0.25
-      ],
-      "price": 1059.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11月10日(火)〜11月13日(金)",
-      "period_end": "2026-11-13",
-      "image": "pages/mirabelle/2026.11.10/17-2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "レタス",
-      "maker": "茨城県産などの国内産",
-      "size": "1個",
-      "each": false,
-      "price_excl": 138,
-      "price_incl": 150,
-      "frozen": false,
-      "note": "12日(木)限り 日替り超特価品",
-      "valid_from": "2026-11-12",
-      "valid_to": "2026-11-12",
-      "category": "野菜・果物",
-      "bbox": [
-        0.15,
-        0.37,
-        0.19,
-        0.25
-      ],
-      "price": 150.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11月10日(火)〜11月13日(金)",
-      "period_end": "2026-11-13",
-      "image": "pages/mirabelle/2026.11.10/17-2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "刺身用ネギトロ",
-      "maker": "太平洋産",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 278,
-      "price_incl": 301,
-      "frozen": false,
-      "note": "12日(木)限り 日替り超特価品",
-      "valid_from": "2026-11-12",
-      "valid_to": "2026-11-12",
-      "category": "魚",
-      "bbox": [
-        0.55,
-        0.0,
-        0.3,
-        0.3
-      ],
-      "price": 301.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11月10日(火)〜11月13日(金)",
-      "period_end": "2026-11-13",
-      "image": "pages/mirabelle/2026.11.10/17-2_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "味まるみかん",
-      "maker": "長崎県産などの国内産",
-      "size": "1袋",
-      "each": false,
-      "price_excl": 498,
-      "price_incl": 538,
-      "frozen": false,
-      "note": "12日(木)限り 日替り超特価品",
-      "valid_from": "2026-11-12",
-      "valid_to": "2026-11-12",
-      "category": "野菜・果物",
-      "bbox": [
-        0.58,
-        0.37,
-        0.19,
-        0.25
-      ],
-      "price": 538.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11月10日(火)〜11月13日(金)",
-      "period_end": "2026-11-13",
-      "image": "pages/mirabelle/2026.11.10/17-2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "国産豚モモ切落し",
-      "maker": "国内産",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 119,
-      "price_incl": 129,
-      "frozen": false,
-      "note": "しゃぶしゃぶなどに!12日(木)限り 日替り超特価品",
-      "valid_from": "2026-11-12",
-      "valid_to": "2026-11-12",
-      "category": "肉",
-      "bbox": [
-        0.15,
-        0.65,
-        0.3,
-        0.25
-      ],
-      "price": 129.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11月10日(火)〜11月13日(金)",
-      "period_end": "2026-11-13",
-      "image": "pages/mirabelle/2026.11.10/17-2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "若鶏モモ肉",
-      "maker": "国内産",
-      "size": "2枚 100g当り",
-      "each": false,
-      "price_excl": 119,
-      "price_incl": 129,
-      "frozen": false,
-      "note": "一部解凍品を含む。12日(木)限り 日替り超特価品",
-      "valid_from": "2026-11-12",
-      "valid_to": "2026-11-12",
-      "category": "肉",
-      "bbox": [
-        0.18,
-        0.0,
-        0.3,
-        0.3
-      ],
-      "price": 129.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11月10日(火)〜11月13日(金)",
-      "period_end": "2026-11-13",
-      "image": "pages/mirabelle/2026.11.10/17-2_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "たまねぎ・じゃがいも・にんじん",
-      "maker": "北海道産・北海道などの国内産",
-      "size": "L 1コ",
-      "each": true,
-      "price_excl": 45,
-      "price_incl": 48.6,
-      "frozen": false,
-      "note": "12日(木)限り",
-      "valid_from": "2026-11-12",
-      "valid_to": "2026-11-12",
-      "category": "野菜・果物",
-      "bbox": [
-        0.0,
-        0.1,
-        0.3,
-        0.3
-      ],
-      "price": 48.6,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月11日(水)〜13日(金)",
-      "period_end": "2026-11-13",
-      "image": "pages/summit/4054586946778/4054586946778_p2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "ナチュレ恵 ブルーベリー+いちご",
-      "maker": "雪印メグミルク",
-      "size": "70g×4",
-      "each": false,
-      "price_excl": 148,
-      "price_incl": 159.84,
-      "frozen": false,
-      "note": "12日(木)限り",
-      "valid_from": "2026-11-12",
-      "valid_to": "2026-11-12",
-      "category": "卵・乳製品・大豆製品",
-      "bbox": [
-        0.65,
-        0.25,
-        0.2,
-        0.25
-      ],
-      "price": 159.84,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月11日(水)〜13日(金)",
-      "period_end": "2026-11-13",
-      "image": "pages/summit/4054586946778/4054586946778_p2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "富有柿・次郎柿",
-      "maker": "福岡県などの国内産・愛知県などの国内産",
-      "size": "L 1コ",
-      "each": true,
-      "price_excl": 128,
-      "price_incl": 138.24,
-      "frozen": false,
-      "note": "よりどり3コ118円(税込127.44円)。12日(木)限り",
-      "valid_from": "2026-11-12",
-      "valid_to": "2026-11-12",
-      "category": "野菜・果物",
-      "bbox": [
-        0.25,
-        0.1,
-        0.25,
-        0.3
-      ],
-      "price": 138.24,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月11日(水)〜13日(金)",
-      "period_end": "2026-11-13",
-      "image": "pages/summit/4054586946778/4054586946778_p2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "玄米ごはん3個パック・ふっくらお赤飯3個パック",
-      "maker": "マルちゃん",
-      "size": "玄米100% 160g×3",
-      "each": true,
-      "price_excl": 398,
-      "price_incl": 429.84,
-      "frozen": false,
-      "note": "12日(木)限り",
-      "valid_from": "2026-11-12",
-      "valid_to": "2026-11-12",
-      "category": "米・パン・麺",
-      "bbox": [
-        0.45,
-        0.25,
-        0.2,
-        0.25
-      ],
-      "price": 429.84,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月11日(水)〜13日(金)",
-      "period_end": "2026-11-13",
-      "image": "pages/summit/4054586946778/4054586946778_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
@@ -11366,8 +10887,8 @@
       "image": "pages/mirabelle/2026.11.10/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11397,8 +10918,8 @@
       "image": "pages/mirabelle/2026.11.10/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11428,8 +10949,8 @@
       "image": "pages/mirabelle/2026.11.10/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11459,8 +10980,8 @@
       "image": "pages/mirabelle/2026.11.10/17-2_r2c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11490,8 +11011,8 @@
       "image": "pages/mirabelle/2026.11.10/17-2_r2c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11521,8 +11042,8 @@
       "image": "pages/mirabelle/2026.11.10/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11552,8 +11073,8 @@
       "image": "pages/mirabelle/2026.11.10/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11583,8 +11104,8 @@
       "image": "pages/mirabelle/2026.11.10/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11614,8 +11135,8 @@
       "image": "pages/mirabelle/2026.11.10/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11645,8 +11166,8 @@
       "image": "pages/mirabelle/2026.11.10/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11676,8 +11197,8 @@
       "image": "pages/summit/4054586946778/4054586946778_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11707,8 +11228,8 @@
       "image": "pages/summit/4054586946778/4054586946778_p2_r2c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11738,8 +11259,8 @@
       "image": "pages/summit/4054586946778/4054586946778_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11769,8 +11290,8 @@
       "image": "pages/summit/4054586946778/4054586946778_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11800,8 +11321,8 @@
       "image": "pages/summit/4054586946778/4054586946778_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11831,27 +11352,27 @@
       "image": "pages/summit/4054586946778/4054586946778_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "13日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     }
   ],
   "categories": [
     {
       "name": "野菜・果物",
-      "count": 25
+      "count": 18
     },
     {
       "name": "肉",
-      "count": 19
+      "count": 17
     },
     {
       "name": "魚",
-      "count": 35
+      "count": 34
     },
     {
       "name": "卵・乳製品・大豆製品",
-      "count": 29
+      "count": 28
     },
     {
       "name": "惣菜・弁当",
@@ -11871,7 +11392,7 @@
     },
     {
       "name": "米・パン・麺",
-      "count": 31
+      "count": 30
     },
     {
       "name": "調味料・加工食品",
@@ -15506,7 +15027,7 @@
       ]
     }
   ],
-  "expired_hidden": 3055,
+  "expired_hidden": 3067,
   "duplicates_merged": 250,
   "stale_pages_ignored": 826
 }
