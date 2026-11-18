@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-18T18:30:30.252591+09:00",
-  "generated_at_label": "2026-11-18 18:30",
+  "generated_at": "2026-11-19T06:13:23.500972+09:00",
+  "generated_at_label": "2026-11-19 06:13",
   "base_store": {
     "id": "gyomu",
     "label": "業務スーパー 練馬駅前店",
@@ -162,6 +162,21 @@
             0.3,
             0.3
           ]
+        },
+        {
+          "store": "mirabelle",
+          "store_label": "スーパーみらべる 練馬春日町店",
+          "name": "若鶏ムネ肉(3枚)",
+          "maker": "国内産",
+          "size": "100g当り",
+          "price": 75.0,
+          "unit_price": 75.0,
+          "units": 1.0,
+          "comparable": true,
+          "period_text": "11月17日(火)〜11月20日(金)",
+          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
+          "image": "pages/mirabelle/2026.11.17/17-2_r1c1.jpg",
+          "bbox": null
         }
       ]
     },
@@ -199,28 +214,7 @@
         "period_text": null,
         "updated_at": "2026-08-27"
       },
-      "candidates": [
-        {
-          "store": "summit",
-          "store_label": "サミット 練馬春日町店",
-          "name": "作り手の顔が見えるたまご白",
-          "maker": "全農",
-          "size": "10コ入",
-          "price": 267.84,
-          "unit_price": 26.78,
-          "units": 10.0,
-          "comparable": true,
-          "period_text": "11月18日(水)〜20日(金)",
-          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-          "image": "pages/summit/4617336955328/4617336955328_p1_r2c1.jpg",
-          "bbox": [
-            0.0,
-            0.62,
-            0.3,
-            0.3
-          ]
-        }
-      ]
+      "candidates": []
     },
     {
       "id": "onion",
@@ -229,28 +223,7 @@
       "basis": "per_piece",
       "basis_label": "1個あたり",
       "base": null,
-      "candidates": [
-        {
-          "store": "mirabelle",
-          "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "たまねぎ大袋",
-          "maker": "北海道産などの国内産",
-          "size": "約2kg入(1袋)",
-          "price": 322.0,
-          "unit_price": null,
-          "units": null,
-          "comparable": false,
-          "period_text": "11/17(火)〜11/20(金)",
-          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.11.16/17-1_r1c2.jpg",
-          "bbox": [
-            0.35,
-            0.1,
-            0.18,
-            0.25
-          ]
-        }
-      ]
+      "candidates": []
     },
     {
       "id": "natto",
@@ -9158,306 +9131,6 @@
       "category_source": "抽出時の指定"
     },
     {
-      "name": "あんぽ柿",
-      "maker": "山形県産などの国内産",
-      "size": "1袋",
-      "each": false,
-      "price_excl": 398,
-      "price_incl": 430,
-      "frozen": false,
-      "note": "日替り超特価品",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "野菜・果物",
-      "bbox": [
-        0.69,
-        0.4,
-        0.15,
-        0.2
-      ],
-      "price": 430.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/17(火)〜11/20(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/mirabelle/2026.11.16/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "じゃがいも大袋",
-      "maker": "北海道産などの国内産",
-      "size": "約2kg入(1袋)",
-      "each": false,
-      "price_excl": 298,
-      "price_incl": 322,
-      "frozen": false,
-      "note": "日替り超特価品",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "野菜・果物",
-      "bbox": [
-        0.6,
-        0.1,
-        0.18,
-        0.25
-      ],
-      "price": 322.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/17(火)〜11/20(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/mirabelle/2026.11.16/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "たまねぎ大袋",
-      "maker": "北海道産などの国内産",
-      "size": "約2kg入(1袋)",
-      "each": false,
-      "price_excl": 298,
-      "price_incl": 322,
-      "frozen": false,
-      "note": "日替り超特価品",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "野菜・果物",
-      "bbox": [
-        0.35,
-        0.1,
-        0.18,
-        0.25
-      ],
-      "price": 322.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/17(火)〜11/20(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/mirabelle/2026.11.16/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "刺身用生アトランティックサーモン",
-      "maker": "ノルウェー産またはチリ産",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 398,
-      "price_incl": 430,
-      "frozen": false,
-      "note": "日替り超特価品",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "魚",
-      "bbox": [
-        0.78,
-        0.1,
-        0.2,
-        0.3
-      ],
-      "price": 430.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/17(火)〜11/20(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/mirabelle/2026.11.16/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "刺身用生アトランティックサーモン",
-      "maker": "ノルウェー産またはチリ産",
-      "size": "100g切り",
-      "each": false,
-      "price_excl": 398,
-      "price_incl": 430,
-      "frozen": false,
-      "note": "11月18日(水)限り",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "魚",
-      "bbox": null,
-      "price": 430.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11月17日(火)〜11月20日(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/mirabelle/2026.11.17/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "次郎柿",
-      "maker": "愛知県産などの国内産",
-      "size": "6個入(1袋)",
-      "each": false,
-      "price_excl": 598,
-      "price_incl": 646,
-      "frozen": false,
-      "note": "日替り超特価品",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "野菜・果物",
-      "bbox": [
-        0.52,
-        0.4,
-        0.15,
-        0.2
-      ],
-      "price": 646.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/17(火)〜11/20(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/mirabelle/2026.11.16/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "若鶏モモ肉(2枚)",
-      "maker": "国内産",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 109,
-      "price_incl": 116,
-      "frozen": false,
-      "note": "一部解凍品を含む;日替り超特価品",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "肉",
-      "bbox": [
-        0.56,
-        0.65,
-        0.18,
-        0.2
-      ],
-      "price": 116.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/17(火)〜11/20(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/mirabelle/2026.11.16/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "豚バラ切落し",
-      "maker": "国内産",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 158,
-      "price_incl": 171,
-      "frozen": false,
-      "note": "一部解凍品を含む;日替り超特価品",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "肉",
-      "bbox": [
-        0.35,
-        0.65,
-        0.18,
-        0.2
-      ],
-      "price": 171.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/17(火)〜11/20(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/mirabelle/2026.11.16/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "里芋",
-      "maker": "埼玉県産などの国内産",
-      "size": "500g入",
-      "each": false,
-      "price_excl": 33,
-      "price_incl": 36,
-      "frozen": false,
-      "note": "日替り超特価品",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "野菜・果物",
-      "bbox": [
-        0.35,
-        0.4,
-        0.15,
-        0.2
-      ],
-      "price": 36.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/17(火)〜11/20(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/mirabelle/2026.11.16/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "里芋",
-      "maker": "埼玉県産などの国内産",
-      "size": "400g程度入",
-      "each": false,
-      "price_excl": 33,
-      "price_incl": 36,
-      "frozen": false,
-      "note": "11月18日(水)限り",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "野菜・果物",
-      "bbox": null,
-      "price": 36.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11月17日(火)〜11月20日(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/mirabelle/2026.11.17/17-1_r1c2.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
       "name": "ZEPPIN ビーフシチュー",
       "maker": "グリコ",
       "size": "175g",
@@ -9517,37 +9190,6 @@
       "validity_source": "抽出時の指定",
       "status": "today",
       "date_label": "",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "うなぎ長焼(大) 真空",
-      "maker": "中国産",
-      "size": "1尾",
-      "each": false,
-      "price_excl": 777,
-      "price_incl": 839.16,
-      "frozen": false,
-      "note": "ゾロ目デー",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "魚",
-      "bbox": [
-        0.0,
-        0.7,
-        0.3,
-        0.28
-      ],
-      "price": 839.16,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月18日(水)〜20日(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/summit/4617336955328/4617336955328_p1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -9985,99 +9627,6 @@
       "category_source": "抽出時の指定"
     },
     {
-      "name": "カントリーマアム バニラ&ココア",
-      "maker": "不二家",
-      "size": "18枚入",
-      "each": true,
-      "price_excl": 222,
-      "price_incl": 239.76,
-      "frozen": false,
-      "note": "湯島天神南・御徒町TAKEYA1・久我山・笹塚・弦巻通り・下馬店では菓子のチラシ特売は実施しておりません。",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "お菓子・アイス",
-      "bbox": [
-        0.2,
-        0.3,
-        0.18,
-        0.2
-      ],
-      "price": 239.76,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月18日(水)〜20日(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/summit/4617336955328/4617336955328_p1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "キットカット",
-      "maker": "ネスレ",
-      "size": "8枚入",
-      "each": true,
-      "price_excl": 222,
-      "price_incl": 239.76,
-      "frozen": false,
-      "note": "湯島天神南・御徒町TAKEYA1・久我山・笹塚・弦巻通り・下馬店では菓子のチラシ特売は実施しておりません。",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "お菓子・アイス",
-      "bbox": [
-        0.0,
-        0.3,
-        0.18,
-        0.2
-      ],
-      "price": 239.76,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月18日(水)〜20日(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/summit/4617336955328/4617336955328_p1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "キットカット オトナの甘さ",
-      "maker": "ネスレ",
-      "size": "7枚入",
-      "each": true,
-      "price_excl": 222,
-      "price_incl": 239.76,
-      "frozen": false,
-      "note": "湯島天神南・御徒町TAKEYA1・久我山・笹塚・弦巻通り・下馬店では菓子のチラシ特売は実施しておりません。",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "お菓子・アイス",
-      "bbox": [
-        0.0,
-        0.3,
-        0.18,
-        0.2
-      ],
-      "price": 239.76,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月18日(水)〜20日(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/summit/4617336955328/4617336955328_p1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
       "name": "キリクリーミーポーション",
       "maker": "キリ",
       "size": "10P・163g",
@@ -10261,37 +9810,6 @@
       "validity_source": "抽出時の指定",
       "status": "today",
       "date_label": "",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "グリーンキウイフルーツ 小玉",
-      "maker": "ニュージーランド産",
-      "size": "8コ入・1パック",
-      "each": false,
-      "price_excl": 666,
-      "price_incl": 719.28,
-      "frozen": false,
-      "note": "ゾロ目デー",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "野菜・果物",
-      "bbox": [
-        0.72,
-        0.7,
-        0.2,
-        0.26
-      ],
-      "price": 719.28,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月18日(水)〜20日(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/summit/4617336955328/4617336955328_p1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10605,99 +10123,6 @@
       "category_source": "抽出時の指定"
     },
     {
-      "name": "スープDELI きのこクリームのスープパスタ",
-      "maker": "味の素",
-      "size": "42.3g",
-      "each": true,
-      "price_excl": 111,
-      "price_incl": 119.88,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "調味料・加工食品",
-      "bbox": [
-        0.5,
-        0.2,
-        0.2,
-        0.25
-      ],
-      "price": 119.88,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月18日(水)〜20日(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/summit/4617336955328/4617336955328_p1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "スープDELI たらこクリームのスープパスタ",
-      "maker": "味の素",
-      "size": "44.2g",
-      "each": true,
-      "price_excl": 111,
-      "price_incl": 119.88,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "調味料・加工食品",
-      "bbox": [
-        0.5,
-        0.2,
-        0.2,
-        0.25
-      ],
-      "price": 119.88,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月18日(水)〜20日(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/summit/4617336955328/4617336955328_p1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "スープDELI 完熟トマトのスープパスタ",
-      "maker": "味の素",
-      "size": "40.6g",
-      "each": true,
-      "price_excl": 111,
-      "price_incl": 119.88,
-      "frozen": false,
-      "note": null,
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "調味料・加工食品",
-      "bbox": [
-        0.5,
-        0.2,
-        0.2,
-        0.25
-      ],
-      "price": 119.88,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月18日(水)〜20日(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/summit/4617336955328/4617336955328_p1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
       "name": "ズッキーニ",
       "maker": "宮崎県産国内産",
       "size": "1本",
@@ -10850,37 +10275,6 @@
       "validity_source": "抽出時の指定",
       "status": "today",
       "date_label": "",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "トマト(パック)",
-      "maker": "熊本県などの国内産",
-      "size": "1パック",
-      "each": false,
-      "price_excl": 444,
-      "price_incl": 479.52,
-      "frozen": false,
-      "note": "ゾロ目デー",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "野菜・果物",
-      "bbox": [
-        0.5,
-        0.72,
-        0.2,
-        0.26
-      ],
-      "price": 479.52,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月18日(水)〜20日(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/summit/4617336955328/4617336955328_p1_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11225,37 +10619,6 @@
       "category_source": "抽出時の指定"
     },
     {
-      "name": "ホームパイ",
-      "maker": "不二家",
-      "size": "38枚入",
-      "each": true,
-      "price_excl": 222,
-      "price_incl": 239.76,
-      "frozen": false,
-      "note": "湯島天神南・御徒町TAKEYA1・久我山・笹塚・弦巻通り・下馬店では菓子のチラシ特売は実施しておりません。",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "お菓子・アイス",
-      "bbox": [
-        0.2,
-        0.3,
-        0.18,
-        0.2
-      ],
-      "price": 239.76,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月18日(水)〜20日(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/summit/4617336955328/4617336955328_p1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
       "name": "ローストチキンブレスト(瀬戸内レモンピール入)",
       "maker": null,
       "size": "100g",
@@ -11532,37 +10895,6 @@
       "validity_source": "チラシの期間",
       "status": "today",
       "date_label": "20日(金)まで",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "作り手の顔が見えるたまご白",
-      "maker": "全農",
-      "size": "10コ入",
-      "each": false,
-      "price_excl": 248,
-      "price_incl": 267.84,
-      "frozen": false,
-      "note": "お1家族様1パック限り、先着200パック限り",
-      "valid_from": "2026-11-18",
-      "valid_to": "2026-11-18",
-      "category": "卵・乳製品・大豆製品",
-      "bbox": [
-        0.0,
-        0.62,
-        0.3,
-        0.3
-      ],
-      "price": 267.84,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月18日(水)〜20日(金)",
-      "period_end": "2026-11-20",
-      "image": "pages/summit/4617336955328/4617336955328_p1_r2c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12548,8 +11880,8 @@
       "image": "pages/mirabelle/2026.11.17/17-2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12574,8 +11906,8 @@
       "image": "pages/mirabelle/2026.11.17/17-2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12600,8 +11932,8 @@
       "image": "pages/mirabelle/2026.11.17/17-2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12626,8 +11958,8 @@
       "image": "pages/mirabelle/2026.11.17/17-2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12652,8 +11984,8 @@
       "image": "pages/mirabelle/2026.11.17/17-2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12678,8 +12010,8 @@
       "image": "pages/mirabelle/2026.11.17/17-2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12704,8 +12036,8 @@
       "image": "pages/mirabelle/2026.11.17/17-2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12730,8 +12062,8 @@
       "image": "pages/mirabelle/2026.11.17/17-2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12761,8 +12093,8 @@
       "image": "pages/summit/4617336955328/4617336955328_p1_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12792,8 +12124,8 @@
       "image": "pages/summit/4617336955328/4617336955328_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12823,8 +12155,8 @@
       "image": "pages/summit/4617336955328/4617336955328_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12854,8 +12186,8 @@
       "image": "pages/summit/4617336955328/4617336955328_p1_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12885,8 +12217,8 @@
       "image": "pages/summit/4617336955328/4617336955328_p2_r2c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)〜20日(金)",
+      "status": "today",
+      "date_label": "20日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -12916,8 +12248,8 @@
       "image": "pages/summit/4617336955328/4617336955328_p2_r2c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)〜20日(金)",
+      "status": "today",
+      "date_label": "20日(金)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -12947,8 +12279,8 @@
       "image": "pages/summit/4617336955328/4617336955328_p1_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "19日(木)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13318,19 +12650,19 @@
   "categories": [
     {
       "name": "野菜・果物",
-      "count": 36
+      "count": 28
     },
     {
       "name": "肉",
-      "count": 21
+      "count": 19
     },
     {
       "name": "魚",
-      "count": 29
+      "count": 26
     },
     {
       "name": "卵・乳製品・大豆製品",
-      "count": 34
+      "count": 33
     },
     {
       "name": "惣菜・弁当",
@@ -13342,7 +12674,7 @@
     },
     {
       "name": "お菓子・アイス",
-      "count": 67
+      "count": 63
     },
     {
       "name": "飲み物・お酒",
@@ -13354,7 +12686,7 @@
     },
     {
       "name": "調味料・加工食品",
-      "count": 110
+      "count": 107
     },
     {
       "name": "日用品",
@@ -17505,7 +16837,7 @@
       ]
     }
   ],
-  "expired_hidden": 3258,
-  "duplicates_merged": 382,
+  "expired_hidden": 3287,
+  "duplicates_merged": 374,
   "stale_pages_ignored": 850
 }
