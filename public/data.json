@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T19:13:58.790821+09:00",
-  "generated_at_label": "2026-11-26 19:13",
+  "generated_at": "2026-11-27T06:13:16.568274+09:00",
+  "generated_at_label": "2026-11-27 06:13",
   "base_store": {
     "id": "gyomu",
     "label": "業務スーパー 練馬駅前店",
@@ -160,48 +160,7 @@
         "period_text": null,
         "updated_at": "2026-08-27"
       },
-      "candidates": [
-        {
-          "store": "mirabelle",
-          "store_label": "スーパーみらべる 練馬春日町店",
-          "name": "若鶏ムネ肉",
-          "maker": "国内産",
-          "size": "100g当り(3枚)",
-          "price": 75.0,
-          "unit_price": 75.0,
-          "units": 1.0,
-          "comparable": true,
-          "period_text": "11/24(火)〜11/27(金)",
-          "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-          "image": "pages/mirabelle/2026.11.24/17-2_r1c1.jpg",
-          "bbox": [
-            0.15,
-            0.78,
-            0.3,
-            0.2
-          ]
-        },
-        {
-          "store": "summit",
-          "store_label": "サミット 練馬春日町店",
-          "name": "若どりむね肉(薄皮付き)",
-          "maker": "国内産",
-          "size": "100g",
-          "price": 85.32,
-          "unit_price": 85.32,
-          "units": 1.0,
-          "comparable": true,
-          "period_text": "11月25日(水)〜27日(金)",
-          "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-          "image": "pages/summit/2739556967700/2739556967700_p2_r1c1.jpg",
-          "bbox": [
-            0.25,
-            0.1,
-            0.25,
-            0.25
-          ]
-        }
-      ]
+      "candidates": []
     },
     {
       "id": "carrot",
@@ -3026,7 +2985,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3057,7 +3016,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3088,7 +3047,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3119,7 +3078,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3150,7 +3109,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3181,7 +3140,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3212,7 +3171,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3243,7 +3202,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3274,7 +3233,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3305,7 +3264,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3336,7 +3295,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3367,7 +3326,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3398,7 +3357,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3429,7 +3388,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3460,7 +3419,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3491,7 +3450,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3522,7 +3481,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3553,7 +3512,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3584,7 +3543,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3615,7 +3574,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3646,7 +3605,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3677,7 +3636,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3708,7 +3667,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3739,7 +3698,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3770,7 +3729,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3796,7 +3755,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3827,7 +3786,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3853,7 +3812,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3884,7 +3843,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3915,7 +3874,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3941,7 +3900,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3967,7 +3926,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -3993,7 +3952,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4019,7 +3978,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4045,7 +4004,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4076,7 +4035,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4102,7 +4061,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4128,7 +4087,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4159,7 +4118,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4185,7 +4144,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4211,7 +4170,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4242,7 +4201,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4268,7 +4227,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4294,7 +4253,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4320,7 +4279,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4351,7 +4310,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4377,7 +4336,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4403,7 +4362,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4434,7 +4393,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "推定できず"
     },
     {
@@ -4460,7 +4419,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4486,7 +4445,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4512,7 +4471,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4543,7 +4502,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "推定できず"
     },
     {
@@ -4574,7 +4533,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4600,7 +4559,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4626,7 +4585,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4657,7 +4616,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "推定できず"
     },
     {
@@ -4688,7 +4647,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4719,7 +4678,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4745,7 +4704,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4771,7 +4730,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4802,7 +4761,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4833,7 +4792,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4859,7 +4818,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4885,7 +4844,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4916,7 +4875,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4947,7 +4906,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -4973,7 +4932,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5004,7 +4963,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5030,7 +4989,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5061,7 +5020,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5087,7 +5046,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5113,7 +5072,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5139,7 +5098,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5170,7 +5129,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5201,7 +5160,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5232,7 +5191,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5258,7 +5217,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5289,7 +5248,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5315,7 +5274,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5346,7 +5305,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5372,7 +5331,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5398,7 +5357,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5424,7 +5383,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5455,7 +5414,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5486,7 +5445,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5512,7 +5471,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5543,7 +5502,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5569,7 +5528,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5595,7 +5554,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5621,7 +5580,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5652,7 +5611,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5683,7 +5642,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5709,7 +5668,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5735,7 +5694,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5766,7 +5725,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5797,7 +5756,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5828,7 +5787,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5859,7 +5818,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5885,7 +5844,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5916,7 +5875,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5947,7 +5906,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5973,7 +5932,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -5999,7 +5958,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6025,7 +5984,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6051,7 +6010,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6082,7 +6041,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6113,7 +6072,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6139,7 +6098,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6170,7 +6129,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6201,7 +6160,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6232,7 +6191,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6263,7 +6222,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6294,7 +6253,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6325,7 +6284,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6356,7 +6315,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6387,7 +6346,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6413,7 +6372,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6444,7 +6403,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6475,7 +6434,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6506,7 +6465,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6537,7 +6496,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6563,7 +6522,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6594,7 +6553,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6625,7 +6584,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6656,7 +6615,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6687,7 +6646,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6718,7 +6677,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6749,7 +6708,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6780,7 +6739,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6811,7 +6770,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6842,7 +6801,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6873,7 +6832,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6904,7 +6863,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6935,7 +6894,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6966,7 +6925,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -6997,7 +6956,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7023,7 +6982,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7054,7 +7013,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7085,7 +7044,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7116,7 +7075,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7147,7 +7106,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7178,7 +7137,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7209,7 +7168,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7240,7 +7199,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7271,7 +7230,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7302,7 +7261,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7333,7 +7292,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7364,7 +7323,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7390,7 +7349,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7421,7 +7380,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7452,7 +7411,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7483,7 +7442,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7514,7 +7473,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7545,7 +7504,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7576,7 +7535,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7607,7 +7566,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7633,7 +7592,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7664,7 +7623,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7695,7 +7654,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7721,7 +7680,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7752,7 +7711,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7783,7 +7742,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7814,7 +7773,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7845,7 +7804,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7876,7 +7835,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7907,7 +7866,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7938,7 +7897,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -7969,7 +7928,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8000,7 +7959,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8031,7 +7990,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8062,7 +8021,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8093,7 +8052,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8124,7 +8083,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8155,7 +8114,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8186,7 +8145,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8217,7 +8176,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8248,7 +8207,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8274,7 +8233,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8305,7 +8264,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8336,7 +8295,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8367,7 +8326,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8398,7 +8357,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8429,7 +8388,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8460,7 +8419,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8491,7 +8450,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8522,7 +8481,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8553,7 +8512,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8584,7 +8543,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8615,7 +8574,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8641,7 +8600,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8667,7 +8626,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8698,7 +8657,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8729,7 +8688,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8760,7 +8719,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8791,7 +8750,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8822,7 +8781,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8853,7 +8812,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8879,7 +8838,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8910,7 +8869,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8941,7 +8900,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -8972,7 +8931,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9003,7 +8962,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9034,7 +8993,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9065,7 +9024,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9096,7 +9055,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9127,7 +9086,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9158,7 +9117,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9189,7 +9148,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9215,7 +9174,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9246,7 +9205,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9277,7 +9236,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9308,7 +9267,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9339,7 +9298,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9370,7 +9329,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9401,7 +9360,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9432,7 +9391,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9463,7 +9422,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9494,7 +9453,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9525,7 +9484,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9551,7 +9510,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9582,7 +9541,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9613,7 +9572,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9639,7 +9598,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9670,7 +9629,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9701,7 +9660,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9732,7 +9691,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9758,7 +9717,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9789,7 +9748,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9820,7 +9779,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9851,7 +9810,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9882,7 +9841,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9913,7 +9872,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9939,7 +9898,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9965,7 +9924,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -9996,7 +9955,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10027,7 +9986,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10053,7 +10012,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10079,7 +10038,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10110,7 +10069,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10136,7 +10095,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10167,7 +10126,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10198,7 +10157,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10229,7 +10188,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10260,7 +10219,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10286,7 +10245,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10317,7 +10276,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10348,7 +10307,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10379,7 +10338,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10410,7 +10369,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10441,7 +10400,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10472,7 +10431,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10498,7 +10457,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10529,7 +10488,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10560,7 +10519,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10591,7 +10550,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10617,7 +10576,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10643,7 +10602,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10674,7 +10633,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10705,7 +10664,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10731,7 +10690,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -10762,7 +10721,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10793,7 +10752,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10824,7 +10783,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10855,7 +10814,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10886,7 +10845,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "商品名から推定"
     },
     {
@@ -10917,7 +10876,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10948,7 +10907,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -10979,7 +10938,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11010,7 +10969,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11036,7 +10995,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11067,7 +11026,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11098,7 +11057,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11129,7 +11088,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11160,7 +11119,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11191,7 +11150,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11222,7 +11181,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11253,7 +11212,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11284,7 +11243,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11315,7 +11274,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11346,7 +11305,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11377,7 +11336,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11408,7 +11367,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11439,7 +11398,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11470,7 +11429,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11501,7 +11460,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11532,7 +11491,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11563,7 +11522,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11594,7 +11553,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11625,7 +11584,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11656,7 +11615,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11682,7 +11641,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11713,7 +11672,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11744,7 +11703,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11775,7 +11734,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11806,7 +11765,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11837,7 +11796,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11868,7 +11827,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11899,7 +11858,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "商品名から推定"
     },
     {
@@ -11930,7 +11889,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11961,7 +11920,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -11992,7 +11951,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12023,7 +11982,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "商品名から推定"
     },
     {
@@ -12054,7 +12013,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12085,7 +12044,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12116,7 +12075,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12147,7 +12106,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12178,7 +12137,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12209,7 +12168,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12240,7 +12199,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12271,7 +12230,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12302,7 +12261,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12333,7 +12292,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12364,7 +12323,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12395,7 +12354,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12426,7 +12385,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12457,7 +12416,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12488,7 +12447,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12519,7 +12478,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12550,7 +12509,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12581,7 +12540,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12612,7 +12571,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12643,7 +12602,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12674,7 +12633,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12705,7 +12664,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12736,7 +12695,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -12767,7 +12726,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12798,7 +12757,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -12829,7 +12788,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12860,7 +12819,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12891,7 +12850,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -12922,7 +12881,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -12953,7 +12912,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -12984,7 +12943,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13015,7 +12974,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13046,7 +13005,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13077,7 +13036,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13108,7 +13067,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13139,7 +13098,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13170,7 +13129,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13201,7 +13160,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13232,7 +13191,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13263,7 +13222,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -13294,7 +13253,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13325,7 +13284,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13356,7 +13315,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13387,7 +13346,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13418,7 +13377,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13449,7 +13408,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13480,7 +13439,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13511,7 +13470,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13542,7 +13501,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13573,7 +13532,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13604,7 +13563,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13635,7 +13594,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13666,7 +13625,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13697,7 +13656,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13728,7 +13687,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13759,7 +13718,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13790,7 +13749,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13821,7 +13780,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13852,7 +13811,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13883,7 +13842,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13914,7 +13873,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13945,7 +13904,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -13976,7 +13935,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14007,7 +13966,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14038,7 +13997,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14069,7 +14028,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14100,7 +14059,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14131,7 +14090,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14162,7 +14121,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14193,7 +14152,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14224,7 +14183,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14255,7 +14214,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14286,7 +14245,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14317,7 +14276,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14348,7 +14307,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14379,7 +14338,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14410,7 +14369,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14441,7 +14400,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14472,7 +14431,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14503,7 +14462,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14534,7 +14493,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14565,7 +14524,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14596,7 +14555,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14627,7 +14586,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14658,7 +14617,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14689,7 +14648,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14720,7 +14679,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14751,7 +14710,7 @@
       "valid_days": null,
       "validity_source": "抽出時の指定",
       "status": "today",
-      "date_label": "",
+      "date_label": "30日(月)まで",
       "category_source": "抽出時の指定"
     },
     {
@@ -14782,7 +14741,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14813,7 +14772,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14844,7 +14803,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14875,7 +14834,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14906,7 +14865,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14937,7 +14896,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14968,7 +14927,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -14999,7 +14958,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15030,7 +14989,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15061,7 +15020,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15092,7 +15051,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15123,7 +15082,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15154,7 +15113,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15185,7 +15144,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15216,7 +15175,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15247,7 +15206,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15278,7 +15237,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15309,7 +15268,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15340,7 +15299,7 @@
       "valid_days": null,
       "validity_source": "チラシの期間",
       "status": "today",
-      "date_label": "27日(金)まで",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15370,502 +15329,6 @@
       "image": "pages/summit/2739556967700/2739556967700_p2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "チラシの期間",
-      "status": "today",
-      "date_label": "27日(金)まで",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "きゅうり",
-      "maker": "福島県産などの国内産",
-      "size": "1袋",
-      "each": false,
-      "price_excl": 222,
-      "price_incl": 240,
-      "frozen": false,
-      "note": "26日限り日替り超特価品",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "野菜・果物",
-      "bbox": [
-        0.15,
-        0.08,
-        0.3,
-        0.2
-      ],
-      "price": 240.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/24(火)〜11/27(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/mirabelle/2026.11.24/17-2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "ほうれん草",
-      "maker": "群馬県産などの国内産",
-      "size": "1束",
-      "each": false,
-      "price_excl": 178,
-      "price_incl": 193,
-      "frozen": false,
-      "note": "26日限り日替り超特価品",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "野菜・果物",
-      "bbox": [
-        0.5,
-        0.08,
-        0.3,
-        0.2
-      ],
-      "price": 193.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/24(火)〜11/27(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/mirabelle/2026.11.24/17-2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "ラフランス",
-      "maker": "山形県産などの国内産",
-      "size": "4個入(1パック)",
-      "each": false,
-      "price_excl": 398,
-      "price_incl": 430,
-      "frozen": false,
-      "note": "26日限り日替り超特価品",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "野菜・果物",
-      "bbox": [
-        0.38,
-        0.32,
-        0.22,
-        0.17
-      ],
-      "price": 430.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/24(火)〜11/27(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/mirabelle/2026.11.24/17-2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "レタス",
-      "maker": "茨城県産などの国内産",
-      "size": "1個",
-      "each": false,
-      "price_excl": 158,
-      "price_incl": 171,
-      "frozen": false,
-      "note": "26日限り日替り超特価品",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "野菜・果物",
-      "bbox": [
-        0.15,
-        0.32,
-        0.22,
-        0.17
-      ],
-      "price": 171.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/24(火)〜11/27(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/mirabelle/2026.11.24/17-2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "三ケ日みかん",
-      "maker": "静岡県産などの国内産",
-      "size": "8個入(1袋)",
-      "each": false,
-      "price_excl": 498,
-      "price_incl": 538,
-      "frozen": false,
-      "note": "26日限り日替り超特価品",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "野菜・果物",
-      "bbox": [
-        0.61,
-        0.32,
-        0.22,
-        0.17
-      ],
-      "price": 538.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/24(火)〜11/27(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/mirabelle/2026.11.24/17-2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "刺身用ネギトロ",
-      "maker": "太平洋産",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 278,
-      "price_incl": 301,
-      "frozen": false,
-      "note": "26日限り日替り超特価品",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "魚",
-      "bbox": [
-        0.55,
-        0.56,
-        0.25,
-        0.3
-      ],
-      "price": 301.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/24(火)〜11/27(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/mirabelle/2026.11.24/17-2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "国産豚モモ切落し",
-      "maker": "国内産",
-      "size": "100g当り",
-      "each": false,
-      "price_excl": 119,
-      "price_incl": 129,
-      "frozen": false,
-      "note": "26日限り日替り超特価品、しゃぶしゃぶ鍋物などに!",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "肉",
-      "bbox": [
-        0.15,
-        0.56,
-        0.3,
-        0.2
-      ],
-      "price": 129.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/24(火)〜11/27(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/mirabelle/2026.11.24/17-2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "若鶏ムネ肉",
-      "maker": "国内産",
-      "size": "100g当り(3枚)",
-      "each": false,
-      "price_excl": 69,
-      "price_incl": 75,
-      "frozen": false,
-      "note": "26日限り日替り超特価品、国産鶏肉が安い!、一部解凍品を含む",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "肉",
-      "bbox": [
-        0.15,
-        0.78,
-        0.3,
-        0.2
-      ],
-      "price": 75.0,
-      "store": "mirabelle",
-      "store_label": "スーパーみらべる 練馬春日町店",
-      "source_url": "http://www.super-mirabelle.jp/handbill/?shop_no=18",
-      "period_text": "11/24(火)〜11/27(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/mirabelle/2026.11.24/17-2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "なす",
-      "maker": "高知県産",
-      "size": "3本入1袋",
-      "each": true,
-      "price_excl": 158,
-      "price_incl": 170.64,
-      "frozen": false,
-      "note": "26日(木)限り",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "野菜・果物",
-      "bbox": [
-        0.14,
-        0.42,
-        0.12,
-        0.18
-      ],
-      "price": 170.64,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月25日(水)〜27日(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/summit/2739556967700/2739556967700_p2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "フラワー薄力小麦粉(密封チャック付き)",
-      "maker": "日清",
-      "size": "1kg",
-      "each": false,
-      "price_excl": 198,
-      "price_incl": 213.84,
-      "frozen": false,
-      "note": "26日(木)限り",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "調味料・加工食品",
-      "bbox": [
-        0.52,
-        0.0,
-        0.14,
-        0.2
-      ],
-      "price": 213.84,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月25日(水)〜27日(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/summit/2739556967700/2739556967700_p2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "フルーツゼラピー バレンシアオレンジ",
-      "maker": "フジッコ",
-      "size": "150g",
-      "each": true,
-      "price_excl": 128,
-      "price_incl": 138.24,
-      "frozen": false,
-      "note": "26日(木)限り、1コ128円/よりどり2コ238円(税込257.04円)",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "お菓子・アイス",
-      "bbox": [
-        0.44,
-        0.3,
-        0.14,
-        0.2
-      ],
-      "price": 138.24,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月25日(水)〜27日(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/summit/2739556967700/2739556967700_p2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "ラ・フランス",
-      "maker": "山形県産",
-      "size": "中玉1コ",
-      "each": true,
-      "price_excl": 99,
-      "price_incl": 106.92,
-      "frozen": false,
-      "note": "26日(木)限り",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "野菜・果物",
-      "bbox": [
-        0.04,
-        0.15,
-        0.14,
-        0.25
-      ],
-      "price": 106.92,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月25日(水)〜27日(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/summit/2739556967700/2739556967700_p2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "小松菜",
-      "maker": "茨城県などの国内産",
-      "size": "1袋",
-      "each": true,
-      "price_excl": 99,
-      "price_incl": 106.92,
-      "frozen": false,
-      "note": "26日(木)限り",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "野菜・果物",
-      "bbox": [
-        0.04,
-        0.42,
-        0.1,
-        0.18
-      ],
-      "price": 106.92,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月25日(水)〜27日(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/summit/2739556967700/2739556967700_p2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "焼プリン",
-      "maker": "森永",
-      "size": "140g",
-      "each": true,
-      "price_excl": 128,
-      "price_incl": 138.24,
-      "frozen": false,
-      "note": "26日(木)限り、1コ128円/よりどり2コ238円(税込257.04円)",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "卵・乳製品・大豆製品",
-      "bbox": [
-        0.3,
-        0.3,
-        0.14,
-        0.2
-      ],
-      "price": 138.24,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月25日(水)〜27日(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/summit/2739556967700/2739556967700_p2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "若どりささみ",
-      "maker": "国内産",
-      "size": "100g",
-      "each": true,
-      "price_excl": 79,
-      "price_incl": 85.32,
-      "frozen": false,
-      "note": "26日(木)限り、各79円",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "肉",
-      "bbox": [
-        0.25,
-        0.1,
-        0.25,
-        0.25
-      ],
-      "price": 85.32,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月25日(水)〜27日(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/summit/2739556967700/2739556967700_p2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
-      "status": "today",
-      "date_label": "今日限り",
-      "category_source": "抽出時の指定"
-    },
-    {
-      "name": "若どりむね肉(薄皮付き)",
-      "maker": "国内産",
-      "size": "100g",
-      "each": true,
-      "price_excl": 79,
-      "price_incl": 85.32,
-      "frozen": false,
-      "note": "26日(木)限り、各79円",
-      "valid_from": "2026-11-26",
-      "valid_to": "2026-11-26",
-      "category": "肉",
-      "bbox": [
-        0.25,
-        0.1,
-        0.25,
-        0.25
-      ],
-      "price": 85.32,
-      "store": "summit",
-      "store_label": "サミット 練馬春日町店",
-      "source_url": "https://www.summitstore.co.jp/store/tokyo/post/?id=323",
-      "period_text": "11月25日(水)〜27日(金)",
-      "period_end": "2026-11-27",
-      "image": "pages/summit/2739556967700/2739556967700_p2_r1c1.jpg",
-      "valid_days": null,
-      "validity_source": "抽出時の指定",
       "status": "today",
       "date_label": "今日限り",
       "category_source": "抽出時の指定"
@@ -15897,8 +15360,8 @@
       "image": "pages/mirabelle/2026.11.24/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "27日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15928,8 +15391,8 @@
       "image": "pages/mirabelle/2026.11.24/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "27日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15959,8 +15422,8 @@
       "image": "pages/mirabelle/2026.11.24/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "27日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -15990,8 +15453,8 @@
       "image": "pages/mirabelle/2026.11.24/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "27日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -16021,8 +15484,8 @@
       "image": "pages/mirabelle/2026.11.24/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "27日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -16052,8 +15515,8 @@
       "image": "pages/mirabelle/2026.11.24/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "27日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -16083,8 +15546,8 @@
       "image": "pages/mirabelle/2026.11.24/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "27日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -16114,8 +15577,8 @@
       "image": "pages/mirabelle/2026.11.24/17-2_r1c2.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "27日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -16145,8 +15608,8 @@
       "image": "pages/summit/2739556967700/2739556967700_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "27日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -16176,8 +15639,8 @@
       "image": "pages/summit/2739556967700/2739556967700_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "27日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -16207,8 +15670,8 @@
       "image": "pages/summit/2739556967700/2739556967700_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "27日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -16238,8 +15701,8 @@
       "image": "pages/summit/2739556967700/2739556967700_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "27日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     },
     {
@@ -16269,27 +15732,27 @@
       "image": "pages/summit/2739556967700/2739556967700_p2_r1c1.jpg",
       "valid_days": null,
       "validity_source": "抽出時の指定",
-      "status": "upcoming",
-      "date_label": "27日(金)限り",
+      "status": "today",
+      "date_label": "今日限り",
       "category_source": "抽出時の指定"
     }
   ],
   "categories": [
     {
       "name": "野菜・果物",
-      "count": 33
+      "count": 25
     },
     {
       "name": "肉",
-      "count": 16
+      "count": 12
     },
     {
       "name": "魚",
-      "count": 30
+      "count": 29
     },
     {
       "name": "卵・乳製品・大豆製品",
-      "count": 46
+      "count": 45
     },
     {
       "name": "惣菜・弁当",
@@ -16301,7 +15764,7 @@
     },
     {
       "name": "お菓子・アイス",
-      "count": 80
+      "count": 79
     },
     {
       "name": "飲み物・お酒",
@@ -16313,7 +15776,7 @@
     },
     {
       "name": "調味料・加工食品",
-      "count": 139
+      "count": 138
     },
     {
       "name": "日用品",
@@ -21040,7 +20503,7 @@
       ]
     }
   ],
-  "expired_hidden": 3543,
+  "expired_hidden": 3559,
   "duplicates_merged": 509,
   "stale_pages_ignored": 874
 }
